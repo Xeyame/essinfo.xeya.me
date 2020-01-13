@@ -1,0 +1,2710 @@
+{
+  "data": [
+    [
+      "Essentials",
+      "afk",
+      "essentials.afk",
+      "Allow access to the /afk command."
+    ],
+    [
+      "Essentials",
+      "afk",
+      "essentials.afk.message",
+      "Allow access to settings an afk message."
+    ],
+    [
+      "Essentials",
+      "afk",
+      "essentials.afk.others",
+      "Allows you to AFK other players."
+    ],
+    [
+      "Essentials",
+      "antioch",
+      "essentials.antioch",
+      "Allow access to the /antioch command."
+    ],
+    [
+      "Essentials",
+      "back",
+      "essentials.back",
+      "Allow access to the /back command."
+    ],
+    [
+      "Essentials",
+      "back",
+      "essentials.back.ondeath",
+      "Give this permission to allow players to use /back to go to their death spot"
+    ],
+    [
+      "Essentials",
+      "backup",
+      "essentials.backup",
+      "Allow access to the /backup command."
+    ],
+    [
+      "Essentials",
+      "balance",
+      "essentials.balance",
+      "Allow access to the /balance command."
+    ],
+    [
+      "Essentials",
+      "balance",
+      "essentials.balance.others",
+      "Allows you to see the balance of other players"
+    ],
+    [
+      "Essentials",
+      "balancetop",
+      "essentials.balancetop",
+      "Allow access to the /balancetop command."
+    ],
+    [
+      "Essentials",
+      "balancetop",
+      "essentials.balancetop.force",
+      "Allow a forced refresh of balancetop with \"/balancetop force\""
+    ],
+    [
+      "Essentials",
+      "ban",
+      "essentials.ban",
+      "Allow access to the /ban command."
+    ],
+    [
+      "Essentials",
+      "ban",
+      "essentials.ban.exempt",
+      "Prevents a specified group or player from being banned"
+    ],
+    [
+      "Essentials",
+      "ban",
+      "essentials.ban.offline",
+      "Allows banning of players who are offline.  This may allow you to ban exempt players."
+    ],
+    [
+      "Essentials",
+      "banip",
+      "essentials.banip",
+      "Allow access to the /banip command."
+    ],
+    [
+      "Essentials",
+      "bigtree",
+      "essentials.bigtree",
+      "Allow access to the /bigtree command."
+    ],
+    [
+      "Essentials",
+      "book",
+      "essentials.book",
+      "Allow access to the /book command."
+    ],
+    [
+      "Essentials",
+      "book",
+      "essentials.book.author",
+      "Allows the user to change the author of a book."
+    ],
+    [
+      "Essentials",
+      "book",
+      "essentials.book.others",
+      "Allow editing a book belonging to another player."
+    ],
+    [
+      "Essentials",
+      "book",
+      "essentials.book.title",
+      "Allows the user to change the title of a written book"
+    ],
+    [
+      "Essentials",
+      "break",
+      "essentials.break",
+      "Allows access to the /break command."
+    ],
+    [
+      "Essentials",
+      "break",
+      "essentials.break.bedrock",
+      "Allows the breaking of bedrock."
+    ],
+    [
+      "Essentials",
+      "broadcast",
+      "essentials.broadcast",
+      "Allow access to the /broadcast command."
+    ],
+    [
+      "Essentials",
+      "broadcastworld",
+      "essentials.broadcastworld",
+      "Allow access to the /broadcastworld command."
+    ],
+    [
+      "EssentialsAntiBuild",
+      "No command assigned",
+      "essentials.build",
+      "Allows people to build when using permission systems which don't support build toggles."
+    ],
+    [
+      "Essentials",
+      "burn",
+      "essentials.burn",
+      "Allow access to the /burn command."
+    ],
+    [
+      "Essentials",
+      "No command assigned",
+      "essentials.chat.ignoreexempt",
+      "Someone with this permission will not be ignored, even if they are on another persons ignore list."
+    ],
+    [
+      "Essentials",
+      "me",
+      "essentials.chat.spy",
+      "A permission designed for admins, to intercept all local messages (ignoring the chat-radius)."
+    ],
+    [
+      "Essentials",
+      "No command assigned",
+      "essentials.chat.spy.exempt",
+      "Allow to be exempt from chat spy"
+    ],
+    [
+      "Essentials",
+      "clearinventory",
+      "essentials.clearinventory",
+      "Allow access to the /clearinventory command."
+    ],
+    [
+      "Essentials",
+      "clearinventory",
+      "essentials.clearinventory.all",
+      "Allows a player to clear all players inventories."
+    ],
+    [
+      "Essentials",
+      "clearinventory",
+      "essentials.clearinventory.multiple",
+      "Allow clearing inventory of multiple people at once"
+    ],
+    [
+      "Essentials",
+      "clearinventory",
+      "essentials.clearinventory.others",
+      "Allows you to clear other player's inventory"
+    ],
+    [
+      "Essentials",
+      "clearinventoryconfirmtoggle",
+      "essentials.clearinventoryconfirmtoggle",
+      "Allow access to the /clearinventoryconfirmtoggle command"
+    ],
+    [
+      "Essentials",
+      "No command assigned",
+      "essentials.commandcooldowns.bypass",
+      "Allow to bypass command cooldowns"
+    ],
+    [
+      "Essentials",
+      "compass",
+      "essentials.compass",
+      "Allow access to the /compass command."
+    ],
+    [
+      "Essentials",
+      "condense",
+      "essentials.condense",
+      "Allow access to the /condense command"
+    ],
+    [
+      "Essentials",
+      "createkit",
+      "essentials.createkit",
+      "Allow access to the /createkit command"
+    ],
+    [
+      "Essentials",
+      "customtext",
+      "essentials.customtext",
+      "Allow access to the /customtext command and all aliases."
+    ],
+    [
+      "Essentials",
+      "delhome",
+      "essentials.delhome",
+      "Allow access to the /delhome command."
+    ],
+    [
+      "Essentials",
+      "delhome",
+      "essentials.delhome.others",
+      "Allows you to delete the homes of other players."
+    ],
+    [
+      "Essentials",
+      "deljail",
+      "essentials.deljail",
+      "Allow access to the /deljail command."
+    ],
+    [
+      "Essentials",
+      "delwarp",
+      "essentials.delwarp",
+      "Allow access to the /delwarp command."
+    ],
+    [
+      "Essentials",
+      "depth",
+      "essentials.depth",
+      "Allow access to the /depth command."
+    ],
+    [
+      "Essentials",
+      "disposal",
+      "essentials.disposal",
+      "Allow access to the /disposal command"
+    ],
+    [
+      "Essentials",
+      "eco",
+      "essentials.eco",
+      "Allow access to the /eco command."
+    ],
+    [
+      "Essentials",
+      "eco",
+      "essentials.eco.loan",
+      "Allows the player to have a negative balance."
+    ],
+    [
+      "Essentials",
+      "enchant",
+      "essentials.enchant",
+      "Allows access to the /enchant command."
+    ],
+    [
+      "Essentials",
+      "give",
+      "essentials.enchantments.allowunsafe",
+      "If enabled in the config, this permission allows unsafe enchantments."
+    ],
+    [
+      "Essentials",
+      "enderchest",
+      "essentials.enderchest",
+      "Allow access to the /enderchest command."
+    ],
+    [
+      "Essentials",
+      "No command assigned",
+      "essentials.enderchest.modify",
+      "Allows you to modify the contents of another players enderchest."
+    ],
+    [
+      "Essentials",
+      "enderchest",
+      "essentials.enderchest.others",
+      "Allows you to see the contents of another players enderchest."
+    ],
+    [
+      "Essentials",
+      "essentials",
+      "essentials.essentials",
+      "Allow access to the /essentials command."
+    ],
+    [
+      "Essentials",
+      "exp",
+      "essentials.exp",
+      "Allow access to the /exp command."
+    ],
+    [
+      "Essentials",
+      "exp",
+      "essentials.exp.give",
+      "Allows players to give themselves exp."
+    ],
+    [
+      "Essentials",
+      "exp",
+      "essentials.exp.give.others",
+      "Allows players to give others exp (if they also have essentials.exp.give)."
+    ],
+    [
+      "Essentials",
+      "exp",
+      "essentials.exp.others",
+      "Allows players to see another players exp."
+    ],
+    [
+      "Essentials",
+      "exp",
+      "essentials.exp.set",
+      "Allows players to set their own exp."
+    ],
+    [
+      "Essentials",
+      "exp",
+      "essentials.exp.set.others",
+      "Allows players to change others exp (if they also have essentials.exp.set)."
+    ],
+    [
+      "Essentials",
+      "ext",
+      "essentials.ext",
+      "Allow access to the /ext command."
+    ],
+    [
+      "Essentials",
+      "feed",
+      "essentials.feed",
+      "Allows access to the /feed command."
+    ],
+    [
+      "Essentials",
+      "feed",
+      "essentials.feed.cooldown.bypass",
+      "Bypass the feed cooldown"
+    ],
+    [
+      "Essentials",
+      "feed",
+      "essentials.feed.others",
+      "Allows a player to feed another player."
+    ],
+    [
+      "Essentials",
+      "fireball",
+      "essentials.fireball",
+      "Allow access to the /fireball command."
+    ],
+    [
+      "Essentials",
+      "firework",
+      "essentials.firework",
+      "Allow access to the /firework command."
+    ],
+    [
+      "Essentials",
+      "firework",
+      "essentials.firework.fire",
+      "Allows a user to 'spawn' a copy of the firework held in their hands."
+    ],
+    [
+      "Essentials",
+      "firework",
+      "essentials.firework.multiple",
+      "Allows to spawn multiple firework effects at once"
+    ],
+    [
+      "Essentials",
+      "fly",
+      "essentials.fly",
+      "Allow access to the /fly command."
+    ],
+    [
+      "Essentials",
+      "No command assigned",
+      "essentials.fly.safelogin",
+      "Players with this command will automatically switch to fly mode if they login whilst floating in the air."
+    ],
+    [
+      "Essentials",
+      "gamemode",
+      "essentials.gamemode",
+      "Allow access to the /gamemode command."
+    ],
+    [
+      "Essentials",
+      "gamemode",
+      "essentials.gamemode.all",
+      "Allow access to all the gamemodes in the /gamemode command"
+    ],
+    [
+      "Essentials",
+      "gamemode",
+      "essentials.gamemode.others",
+      "Allows you to change the gamemode of other players."
+    ],
+    [
+      "Essentials",
+      "gc",
+      "essentials.gc",
+      "Allow access to the /gc command."
+    ],
+    [
+      "EssentialsGeoIP",
+      "No command assigned",
+      "essentials.geoip.hide",
+      "Allows you to hide your country and city from people who have permission essentials.geoip.show"
+    ],
+    [
+      "Essentials",
+      "whois",
+      "essentials.geoip.show",
+      "Shows the GeoIP location of a player, if the GeoIP module is installed."
+    ],
+    [
+      "Essentials",
+      "getpos",
+      "essentials.getpos",
+      "Allow access to the /getpos command."
+    ],
+    [
+      "Essentials",
+      "getpos",
+      "essentials.getpos.others",
+      "Allow user to get the position of another player."
+    ],
+    [
+      "Essentials",
+      "give",
+      "essentials.give",
+      "Allow access to the /give command."
+    ],
+    [
+      "Essentials",
+      "god",
+      "essentials.god",
+      "Allow access to the /god command."
+    ],
+    [
+      "Essentials",
+      "god",
+      "essentials.god.pvp",
+      "Allows you to attack other players while in god mode."
+    ],
+    [
+      "Essentials",
+      "hat",
+      "essentials.hat",
+      "Allow access to the /hat command."
+    ],
+    [
+      "Essentials",
+      "heal",
+      "essentials.heal",
+      "Allow access to the /heal command."
+    ],
+    [
+      "Essentials",
+      "heal",
+      "essentials.heal.cooldown.bypass",
+      "Bypass the heal cooldown"
+    ],
+    [
+      "Essentials",
+      "heal",
+      "essentials.heal.others",
+      "Allows healing another player"
+    ],
+    [
+      "Essentials",
+      "help",
+      "essentials.help",
+      "Allow access to the /help command."
+    ],
+    [
+      "Essentials",
+      "helpop",
+      "essentials.helpop",
+      "Allow access to the /helpop command."
+    ],
+    [
+      "Essentials",
+      "helpop",
+      "essentials.helpop.receive",
+      "Allows you to see Helpop messages"
+    ],
+    [
+      "Essentials",
+      "home",
+      "essentials.home.compass",
+      "Point the player's compass at their first home. compass-towards-home-perm needs to be enabled in the configuration."
+    ],
+    [
+      "Essentials",
+      "home",
+      "essentials.home.bed",
+      "Allow access to the vanilla bed home."
+    ],
+    [
+      "Essentials",
+      "home",
+      "essentials.home.others",
+      "Allows you to teleport to homes of other players"
+    ],
+    [
+      "Essentials",
+      "ignore",
+      "essentials.ignore",
+      "Allow access to the /ignore command."
+    ],
+    [
+      "Essentials",
+      "info",
+      "essentials.info",
+      "Allow access to the /info command."
+    ],
+    [
+      "Essentials",
+      "invsee",
+      "essentials.invsee",
+      "Allow access to the /invsee command."
+    ],
+    [
+      "Essentials",
+      "invsee",
+      "essentials.invsee.equip",
+      "Allow access to see someones equiped armor slots in \"/invsee &lt;name&gt; [armor]\""
+    ],
+    [
+      "Essentials",
+      "invsee",
+      "essentials.invsee.modify",
+      "Players can modify the other players inventory (remove/add items)."
+    ],
+    [
+      "Essentials",
+      "invsee",
+      "essentials.invsee.preventmodify",
+      "Prevents other players from modifying the players inventory."
+    ],
+    [
+      "Essentials",
+      "item",
+      "essentials.item",
+      "Allow access to the /item command."
+    ],
+    [
+      "Essentials",
+      "itemdb",
+      "essentials.itemdb",
+      "Allows access to the /itemdb command."
+    ],
+    [
+      "Essentials",
+      "more",
+      "essentials.itemspawn.exempt",
+      "Allows spawning of items on the spawn blacklist."
+    ],
+    [
+      "Essentials",
+      "give",
+      "essentials.itemspawn.item-all",
+      "If permission-based-item-spawn: Spawn all items."
+    ],
+    [
+      "Essentials",
+      "togglejail",
+      "essentials.jail.exempt",
+      "Prevents a specified group or player from being jailed"
+    ],
+    [
+      "Essentials",
+      "jails",
+      "essentials.jails",
+      "Allow access to the /jails command."
+    ],
+    [
+      "Essentials",
+      "No command assigned",
+      "essentials.joinfullserver",
+      "Player can join when the server is full."
+    ],
+    [
+      "Essentials",
+      "jump",
+      "essentials.jump",
+      "Allow access to the /jump command."
+    ],
+    [
+      "Essentials",
+      "jump",
+      "essentials.jump.lock",
+      "Allow access to the \"/jump lock\" command"
+    ],
+    [
+      "Essentials",
+      "back",
+      "essentials.keepxp",
+      "Allows the user to keep their exp on death, instead of dropping it."
+    ],
+    [
+      "Essentials",
+      "kick",
+      "essentials.kick",
+      "Allow access to the /kick command."
+    ],
+    [
+      "Essentials",
+      "kick",
+      "essentials.kick.exempt",
+      "Prevents the player from being kicked."
+    ],
+    [
+      "Essentials",
+      "kick",
+      "essentials.kick.notify",
+      "User sees a notification when a user is kicked."
+    ],
+    [
+      "Essentials",
+      "kickall",
+      "essentials.kickall",
+      "Allow access to the /kickall command."
+    ],
+    [
+      "Essentials",
+      "kill",
+      "essentials.kill",
+      "Allow access to the /kill command."
+    ],
+    [
+      "Essentials",
+      "kill",
+      "essentials.kill.exempt",
+      "Prevents the player from being killed."
+    ],
+    [
+      "Essentials",
+      "kill",
+      "essentials.kill.force",
+      "Force player death, even if event is cancelled."
+    ],
+    [
+      "Essentials",
+      "kit",
+      "essentials.kit",
+      "Allow access to the /kit command."
+    ],
+    [
+      "Essentials",
+      "kit",
+      "essentials.kit.exemptdelay",
+      "Exempts you from the kit delay feature, this affects signs as well as command."
+    ],
+    [
+      "Essentials",
+      "kit",
+      "essentials.kit.others",
+      "Allows spawning of kits on other players."
+    ],
+    [
+      "Essentials",
+      "kittycannon",
+      "essentials.kittycannon",
+      "Allow access to the /kittycannon command"
+    ],
+    [
+      "Essentials",
+      "lightning",
+      "essentials.lightning",
+      "Allow access to the /lightning command."
+    ],
+    [
+      "Essentials",
+      "lightning",
+      "essentials.lightning.others",
+      "Allows use of /lightning [playername]"
+    ],
+    [
+      "Essentials",
+      "list",
+      "essentials.list",
+      "Allow access to the /list command."
+    ],
+    [
+      "Essentials",
+      "list",
+      "essentials.list.hidden",
+      "Show hidden users"
+    ],
+    [
+      "Essentials",
+      "mail",
+      "essentials.mail",
+      "Allow access to the /mail command."
+    ],
+    [
+      "Essentials",
+      "mail",
+      "essentials.mail.send",
+      "Send mail"
+    ],
+    [
+      "Essentials",
+      "mail",
+      "essentials.mail.sendall",
+      "Allows sending mail to all players at the same time"
+    ],
+    [
+      "Essentials",
+      "me",
+      "essentials.me",
+      "Allow access to the /me command."
+    ],
+    [
+      "Essentials",
+      "more",
+      "essentials.more",
+      "Allows access to the /more command."
+    ],
+    [
+      "Essentials",
+      "motd",
+      "essentials.motd",
+      "User sees MOTD on connect, and can use the command."
+    ],
+    [
+      "Essentials",
+      "msg",
+      "essentials.msg",
+      "Allow access to the /msg command."
+    ],
+    [
+      "Essentials",
+      "msg",
+      "essentials.msg.multiple",
+      "This allows you to message multiple users in a single command."
+    ],
+    [
+      "Essentials",
+      "msgtoggle",
+      "essentials.msgtoggle",
+      "Allows access to the /msgtoggle command"
+    ],
+    [
+      "Essentials",
+      "mute",
+      "essentials.mute",
+      "Allow access to the /mute command."
+    ],
+    [
+      "Essentials",
+      "mute",
+      "essentials.mute.exempt",
+      "Prevents a specified group or player from being muted"
+    ],
+    [
+      "Essentials",
+      "mute",
+      "essentials.mute.offline",
+      "Allows muting of players who are offline. This may allow you to mute exempt players."
+    ],
+    [
+      "Essentials",
+      "near",
+      "essentials.near",
+      "Allow access to the /near command."
+    ],
+    [
+      "Essentials",
+      "near",
+      "essentials.near.maxexempt",
+      "Allows bypassing the radius limit."
+    ],
+    [
+      "Essentials",
+      "near",
+      "essentials.near.others",
+      "Allows using the near command on another player."
+    ],
+    [
+      "Essentials",
+      "nick",
+      "essentials.nick",
+      "Allow access to the /nick command."
+    ],
+    [
+      "Essentials",
+      "nick",
+      "essentials.nick.changecolors",
+      "Allow to <b>only</b> change your nickname's colors (And not the name itself)"
+    ],
+    [
+      "Essentials",
+      "nick",
+      "essentials.nick.changecolors.bypass",
+      "Allows to bypass checking if only nickname colors were changed, thus also allowing to change letters."
+    ],
+    [
+      "Essentials",
+      "nick",
+      "essentials.nick.others",
+      "Gives you permission to give other players a nick name"
+    ],
+    [
+      "Essentials",
+      "No command assigned",
+      "essentials.nocommandcost.all",
+      "Removes the command cost of all commands."
+    ],
+    [
+      "Essentials",
+      "nuke",
+      "essentials.nuke",
+      "Allow access to the /nuke command."
+    ],
+    [
+      "Essentials",
+      "give",
+      "essentials.oversizedstacks",
+      "Allows spawning of oversized stacks."
+    ],
+    [
+      "Essentials",
+      "pay",
+      "essentials.pay",
+      "Allow access to the /pay command."
+    ],
+    [
+      "Essentials",
+      "pay",
+      "essentials.pay.multiple",
+      "This allows you to pay multiple users in a single command."
+    ],
+    [
+      "Essentials",
+      "payconfirmtoggle",
+      "essentials.payconfirmtoggle",
+      "Allow access to the /payconfirmtoggle command."
+    ],
+    [
+      "Essentials",
+      "paytoggle",
+      "essentials.paytoggle",
+      "Allow access to the /paytoggle command."
+    ],
+    [
+      "Essentials",
+      "ping",
+      "essentials.ping",
+      "Allow access to the /ping command."
+    ],
+    [
+      "Essentials",
+      "potion",
+      "essentials.potion.[potionName]",
+      "Allow access to the \"/potion [potionName]\" command "
+    ],
+    [
+      "Essentials",
+      "potion",
+      "essentials.potion.apply",
+      "Allow access to the \"/potion apply\" command"
+    ],
+    [
+      "Essentials",
+      "powertool",
+      "essentials.powertool",
+      "Allow access to the /powertool command."
+    ],
+    [
+      "Essentials",
+      "powertool",
+      "essentials.powertool.append",
+      "Allows adding multiple commands to a single powertool."
+    ],
+    [
+      "Essentials",
+      "powertooltoggle",
+      "essentials.powertooltoggle",
+      "Allow access to the /powertooltoggle command."
+    ],
+    [
+      "EssentialsAntiBuild",
+      "No command assigned",
+      "essentials.protect.alerts",
+      "Allows a player to recieve protect alerts."
+    ],
+    [
+      "EssentialsAntiBuild",
+      "No command assigned",
+      "essentials.protect.alerts.notrigger",
+      "Users with this permission do not trigger protect alerts."
+    ],
+    [
+      "EssentialsProtect",
+      "No command assigned",
+      "essentials.protect.damage.disable",
+      "Admin override to prevent admins from dying"
+    ],
+    [
+      "EssentialsProtect",
+      "No command assigned",
+      "essentials.protect.entitytarget.bypass",
+      "Allows a player to be targeted by mobs."
+    ],
+    [
+      "EssentialsAntiBuild",
+      "No command assigned",
+      "essentials.protect.exemptbreak",
+      "Allows a player to ignore the break blacklist."
+    ],
+    [
+      "EssentialsAntiBuild",
+      "No command assigned",
+      "essentials.protect.exemptplacement",
+      "Allows a player to ignore the block placement blacklist."
+    ],
+    [
+      "EssentialsAntiBuild",
+      "No command assigned",
+      "essentials.protect.exemptusage",
+      "Allows a player to ignore the usage blacklist."
+    ],
+    [
+      "EssentialsProtect",
+      "No command assigned",
+      "essentials.protect.pvp",
+      "When prevent PVP is set to true, this allows players to still PVP. Both attacker and defender need to have this permission."
+    ],
+    [
+      "Essentials",
+      "ptime",
+      "essentials.ptime",
+      "Allow access to the /ptime command."
+    ],
+    [
+      "Essentials",
+      "ptime",
+      "essentials.ptime.others",
+      "Allows you to change the time of another online player."
+    ],
+    [
+      "Essentials",
+      "No command assigned",
+      "essentials.pvpdelay.exempt",
+      "Exempts players from the 'pvp delay' option in the config file."
+    ],
+    [
+      "Essentials",
+      "pweather",
+      "essentials.pweather",
+      "Allow access to the /pweather command"
+    ],
+    [
+      "Essentials",
+      "pweather",
+      "essentials.pweather.others",
+      "Allow to change the pweather of someone else"
+    ],
+    [
+      "Essentials",
+      "r",
+      "essentials.msg",
+      "Allow access to the /r command"
+    ],
+    [
+      "Essentials",
+      "realname",
+      "essentials.realname",
+      "Allow access to the /realname command."
+    ],
+    [
+      "Essentials",
+      "recipe",
+      "essentials.recipe",
+      "Allow access to the /recipe command."
+    ],
+    [
+      "Essentials",
+      "remove",
+      "essentials.remove",
+      "Allow access to the /remove command."
+    ],
+    [
+      "Essentials",
+      "repair",
+      "essentials.repair",
+      "Allow access to the /repair command."
+    ],
+    [
+      "Essentials",
+      "repair",
+      "essentials.repair.all",
+      "Unlock the /repair all ability"
+    ],
+    [
+      "Essentials",
+      "repair",
+      "essentials.repair.armor",
+      "Repair all also repairs equipped armor."
+    ],
+    [
+      "Essentials",
+      "repair",
+      "essentials.repair.enchanted",
+      "Repairing of enchanted items."
+    ],
+    [
+      "Essentials",
+      "rules",
+      "essentials.rules",
+      "Allow access to the /rules command."
+    ],
+    [
+      "Essentials",
+      "seen",
+      "essentials.seen",
+      "Allow access to the /seen command."
+    ],
+    [
+      "Essentials",
+      "seen",
+      "essentials.seen.banreason",
+      "Allows the user to see why a user is banned."
+    ],
+    [
+      "Essentials",
+      "seen",
+      "essentials.seen.ip",
+      "Allow to see someone's ip-address in /seen"
+    ],
+    [
+      "Essentials",
+      "seen",
+      "essentials.seen.ipsearch",
+      "Allows the user to search IPs for username matches."
+    ],
+    [
+      "Essentials",
+      "seen",
+      "essentials.seen.location",
+      "Allow to see someone's location in /seen"
+    ],
+    [
+      "Essentials",
+      "sell",
+      "essentials.sell",
+      "Allow access to the /sell command."
+    ],
+    [
+      "Essentials",
+      "sell",
+      "essentials.sell.bulk",
+      "Allow bulk selling of items"
+    ],
+    [
+      "Essentials",
+      "sell",
+      "essentials.sell.hand",
+      "Allow selling of items from your hand"
+    ],
+    [
+      "Essentials",
+      "sethome",
+      "essentials.sethome",
+      "Allow access to the /sethome command."
+    ],
+    [
+      "Essentials",
+      "No command assigned",
+      "essentials.sethome.bed",
+      "Allows the player to right click a bed during daytime to update their 'bed' home."
+    ],
+    [
+      "Essentials",
+      "No command assigned",
+      "essentials.sethome.multiple",
+      "Allows player to have multiple homes, or create named homes.  Required for 2+ homes."
+    ],
+    [
+      "Essentials",
+      "home",
+      "essentials.sethome.multiple.unlimited",
+      "Removes the cap on the number of homes people are allowed (if they have multiple homes)."
+    ],
+    [
+      "Essentials",
+      "sethome",
+      "essentials.sethome.others",
+      "Allows you to change another users home location."
+    ],
+    [
+      "Essentials",
+      "setjail",
+      "essentials.setjail",
+      "Allow access to the /setjail command."
+    ],
+    [
+      "EssentialsSpawn",
+      "setspawn",
+      "essentials.setspawn",
+      "Allow access to the /setspawn command."
+    ],
+    [
+      "Essentials",
+      "setwarp",
+      "essentials.setwarp",
+      "Allow access to the /setwarp command."
+    ],
+    [
+      "Essentials",
+      "setworth",
+      "essentials.setworth",
+      "Allow access to the /setworth command."
+    ],
+    [
+      "EssentialsXMPP",
+      "setxmpp",
+      "essentials.setxmpp",
+      "Allow access to the /setxmpp command."
+    ],
+    [
+      "Essentials",
+      "showkit",
+      "essentials.showkit",
+      "Allow access to the /showkit command."
+    ],
+    [
+      "Essentials",
+      "No command assigned",
+      "essentials.signs.enchant.allowunsafe",
+      "Allows using [enchant] signs to perform unsafe enchantments"
+    ],
+    [
+      "Essentials",
+      "No command assigned",
+      "essentials.signs.protection.override",
+      "Used to override any protections. Typically given to mods &amp; admins"
+    ],
+    [
+      "Essentials",
+      "No command assigned",
+      "essentials.signs.trade.override",
+      "Used to override the creator only protection on trade signs. Typically given to mods &amp; admins"
+    ],
+    [
+      "Essentials",
+      "No command assigned",
+      "essentials.signs.trade.override.collect",
+      "Allow collecting of protected trade signs"
+    ],
+    [
+      "Essentials",
+      "No command assigned",
+      "essentials.silentjoin",
+      "Allow to join silently"
+    ],
+    [
+      "Essentials",
+      "No command assigned",
+      "essentials.silentjoin.vanish",
+      "Allow to join silently, and get put in vanish mode"
+    ],
+    [
+      "Essentials",
+      "No command assigned",
+      "essentials.silentquit",
+      "Suppress leave/quit messages for users with this permission."
+    ],
+    [
+      "Essentials",
+      "skull",
+      "essentials.skull",
+      "Allow access to the /skull command."
+    ],
+    [
+      "Essentials",
+      "skull",
+      "essentials.skull.modify",
+      "Allow changing the owner of an existing player skull."
+    ],
+    [
+      "Essentials",
+      "skull",
+      "essentials.skull.others",
+      "Allow creating skulls belonging to other players."
+    ],
+    [
+      "Essentials",
+      "skull",
+      "essentials.skull.spawn",
+      "Allows the spawning of a skull, default if the player isn't holding a skull."
+    ],
+    [
+      "Essentials",
+      "No command assigned",
+      "essentials.sleepingignored",
+      "User isn't required to be sleeping, for time to be reset."
+    ],
+    [
+      "Essentials",
+      "socialspy",
+      "essentials.socialspy",
+      "Allow access to the /socialspy command."
+    ],
+    [
+      "EssentialsSpawn",
+      "spawn",
+      "essentials.spawn",
+      "Allow access to the /spawn command."
+    ],
+    [
+      "EssentialsSpawn",
+      "No command assigned",
+      "essentials.spawn-on-join.exempt",
+      "Allow to be exempt from forced teleporting to spawn on join"
+    ],
+    [
+      "EssentialsSpawn",
+      "spawn",
+      "essentials.spawn.others",
+      "Allows you to teleport other people to spawn"
+    ],
+    [
+      "Essentials",
+      "spawner",
+      "essentials.spawner",
+      "Allow access to the /spawner command."
+    ],
+    [
+      "Essentials",
+      "spawnmob",
+      "essentials.spawnmob",
+      "Allow access to the /spawnmob command."
+    ],
+    [
+      "Essentials",
+      "spawnmob",
+      "essentials.spawnmob.stack",
+      "Allows the spawning of stacked mobs."
+    ],
+    [
+      "Essentials",
+      "speed",
+      "essentials.speed",
+      "Allow access to the /speed command."
+    ],
+    [
+      "Essentials",
+      "speed",
+      "essentials.speed.bypass",
+      "Allows you to bypass the speed limits set in the config.yml"
+    ],
+    [
+      "Essentials",
+      "speed",
+      "essentials.speed.fly",
+      "This permission will allow a player to change fly speed only."
+    ],
+    [
+      "Essentials",
+      "speed",
+      "essentials.speed.others",
+      "Allows you to modify the speed of other players."
+    ],
+    [
+      "Essentials",
+      "speed",
+      "essentials.speed.walk",
+      "This permission will allow a player to change walk speed only."
+    ],
+    [
+      "Essentials",
+      "sudo",
+      "essentials.sudo",
+      "Allow access to the /sudo command."
+    ],
+    [
+      "Essentials",
+      "sudo",
+      "essentials.sudo.exempt",
+      "Prevents the holder from being sudo'ed by another user."
+    ],
+    [
+      "Essentials",
+      "sudo",
+      "essentials.sudo.multiple",
+      "Allow access to the /sudo command for multiple people."
+    ],
+    [
+      "Essentials",
+      "suicide",
+      "essentials.suicide",
+      "Allow access to the /suicide command."
+    ],
+    [
+      "Essentials",
+      "No command assigned",
+      "essentials.teleport.cooldown.bypass.back",
+      "Allow to bypass the /back command cooldown"
+    ],
+    [
+      "Essentials",
+      "No command assigned",
+      "essentials.teleport.cooldown.bypass.tpa",
+      "Allow to bypass the /tpa command cooldown"
+    ],
+    [
+      "Essentials",
+      "No command assigned",
+      "essentials.teleport.timer.bypass",
+      "Bypass the teleport delay"
+    ],
+    [
+      "Essentials",
+      "No command assigned",
+      "essentials.teleport.timer.move",
+      "Allows players to move while waiting for teleport."
+    ],
+    [
+      "Essentials",
+      "tempban",
+      "essentials.tempban",
+      "Allow access to the /tempban command."
+    ],
+    [
+      "Essentials",
+      "tempban",
+      "essentials.tempban.exempt",
+      "Prevents a specified group or player from being tempbanned"
+    ],
+    [
+      "Essentials",
+      "tempban",
+      "essentials.tempban.offline",
+      "Allows temp-banning of players who are offline.  This may allow you to ban exempt players."
+    ],
+    [
+      "Essentials",
+      "tempban",
+      "essentials.tempban.unlimited",
+      "Allows bypassing config file max ban time limit."
+    ],
+    [
+      "Essentials",
+      "thunder",
+      "essentials.thunder",
+      "Allow access to the /thunder command."
+    ],
+    [
+      "Essentials",
+      "time",
+      "essentials.time",
+      "Allow access to the /time command."
+    ],
+    [
+      "Essentials",
+      "time",
+      "essentials.time.set",
+      "User is allowed to change the time of the world."
+    ],
+    [
+      "Essentials",
+      "time",
+      "essentials.time.world.all",
+      "Allow changing time of all worlds"
+    ],
+    [
+      "Essentials",
+      "togglejail",
+      "essentials.togglejail",
+      "Allow access to the /togglejail command."
+    ],
+    [
+      "Essentials",
+      "togglejail",
+      "essentials.togglejail.offline",
+      "Allows jailing of players who are offline.  This may allow you to jail exempt players."
+    ],
+    [
+      "Essentials",
+      "top",
+      "essentials.top",
+      "Allow access to the /top command."
+    ],
+    [
+      "Essentials",
+      "tp",
+      "essentials.tp",
+      "Allow access to the /tp command."
+    ],
+    [
+      "Essentials",
+      "tpo",
+      "essentials.tp.others",
+      "Allow players to teleport another player."
+    ],
+    [
+      "Essentials",
+      "tp",
+      "essentials.tp.position",
+      "Allow to teleport to an exact location"
+    ],
+    [
+      "Essentials",
+      "tpaccept",
+      "essentials.tpa",
+      "Allow access to the /tpa command."
+    ],
+    [
+      "Essentials",
+      "tpaall",
+      "essentials.tpaall",
+      "Allow access to the /tpaall command."
+    ],
+    [
+      "Essentials",
+      "tpacancel",
+      "essentials.tpacancel",
+      "Allow access to the /tpacancel command."
+    ],
+    [
+      "Essentials",
+      "tpaccept",
+      "essentials.tpaccept",
+      "Allow access to the /tpaccept command."
+    ],
+    [
+      "Essentials",
+      "tpahere",
+      "essentials.tpahere",
+      "Allow access to the /tpahere command."
+    ],
+    [
+      "Essentials",
+      "tpall",
+      "essentials.tpall",
+      "Allow access to the /tpall command."
+    ],
+    [
+      "Essentials",
+      "tpdeny",
+      "essentials.tpdeny",
+      "Allow access to the /tpdeny command."
+    ],
+    [
+      "Essentials",
+      "tphere",
+      "essentials.tphere",
+      "Allow access to the /tphere command."
+    ],
+    [
+      "Essentials",
+      "tpo",
+      "essentials.tpo",
+      "Allow access to the /tpo command."
+    ],
+    [
+      "Essentials",
+      "tpohere",
+      "essentials.tpohere",
+      "Allow access to the /tpohere command."
+    ],
+    [
+      "Essentials",
+      "tppos",
+      "essentials.tppos",
+      "Allow access to the /tppos command."
+    ],
+    [
+      "Essentials",
+      "tptoggle",
+      "essentials.tptoggle",
+      "Allow access to the /tptoggle command."
+    ],
+    [
+      "Essentials",
+      "tree",
+      "essentials.tree",
+      "Allow access to the /tree command."
+    ],
+    [
+      "Essentials",
+      "unban",
+      "essentials.unban",
+      "Allow access to the /unban command."
+    ],
+    [
+      "Essentials",
+      "unbanip",
+      "essentials.unbanip",
+      "Allow access to the /unbanip command."
+    ],
+    [
+      "Essentials",
+      "unlimited",
+      "essentials.unlimited",
+      "Allow access to the /unlimited command."
+    ],
+    [
+      "Essentials",
+      "unlimited",
+      "essentials.unlimited.item-all",
+      "Allows the player to recieve an unlimited stack of any item."
+    ],
+    [
+      "Essentials",
+      "unlimited",
+      "essentials.unlimited.item-bucket",
+      "Allows the player to recieve an unlimited use of empty/lava/water buckets."
+    ],
+    [
+      "Essentials",
+      "unlimited",
+      "essentials.unlimited.others",
+      "Allows the player to gift/remove another player with an unlimited stack."
+    ],
+    [
+      "Essentials",
+      "vanish",
+      "essentials.vanish",
+      "Allow access to the /vanish command."
+    ],
+    [
+      "Essentials",
+      "vanish",
+      "essentials.vanish.pvp",
+      "Allows players who are vanished to attack other players."
+    ],
+    [
+      "Essentials",
+      "vanish",
+      "essentials.vanish.see",
+      "Allows you to see a vanished player."
+    ],
+    [
+      "Essentials",
+      "essentials",
+      "essentials.version",
+      "Allow access to the \"/essentials version\" command"
+    ],
+    [
+      "Essentials",
+      "warp",
+      "essentials.warp",
+      "Allow access to the /warp command."
+    ],
+    [
+      "Essentials",
+      "warp",
+      "essentials.warp.list",
+      "Specifies whether you can view warp list with /warp."
+    ],
+    [
+      "Essentials",
+      "warp",
+      "essentials.warp.otherplayers",
+      "Allows warping another player."
+    ],
+    [
+      "Essentials",
+      "warp",
+      "essentials.warp.others",
+      "Allows warping another player."
+    ],
+    [
+      "Essentials",
+      "weather",
+      "essentials.weather",
+      "Allow access to the /weather command."
+    ],
+    [
+      "Essentials",
+      "whois",
+      "essentials.whois",
+      "Allow access to the /whois command."
+    ],
+    [
+      "Essentials",
+      "workbench",
+      "essentials.workbench",
+      "Allow access to the /workbench command."
+    ],
+    [
+      "Essentials",
+      "world",
+      "essentials.world",
+      "Allow access to the /world command."
+    ],
+    [
+      "Essentials",
+      "worth",
+      "essentials.worth",
+      "Allow access to the /worth command."
+    ],
+    [
+      "EssentialsXMPP",
+      "xmpp",
+      "essentials.xmpp",
+      "Allow access to the /xmpp command."
+    ],
+    [
+      "EssentialsXMPP",
+      "xmppspy",
+      "essentials.xmppspy",
+      "Allow access to the /xmppspy command."
+    ],
+    [
+      "Essentials",
+      "fly",
+      "essentials.fly.others",
+      "Allow executing the /fly command for someone else."
+    ],
+    [
+      "Essentials",
+      "god",
+      "essentials.god.others",
+      "Allow executing the /god command for someone else."
+    ],
+    [
+      "Essentials",
+      "msgtoggle",
+      "essentials.msgtoggle.others",
+      "Allow executing the /msgtoggle command for someone else."
+    ],
+    [
+      "Essentials",
+      "socialspy",
+      "essentials.socialspy.others",
+      "Allow executing the /socialspy command for someone else."
+    ],
+    [
+      "Essentials",
+      "tptoggle",
+      "essentials.tptoggle.others",
+      "Allow executing the /tptoggle command for someone else."
+    ],
+    [
+      "Essentials",
+      "vanish",
+      "essentials.vanish.others",
+      "Allow executing the /vanish command for someone else."
+    ],
+    [
+      "Essentials",
+      "No command assigned",
+      "essentials.seen.extra",
+      "Allow to see someone's ip-address and location in /seen"
+    ],
+    [
+      "EssentialsAntiBuild",
+      "No command assigned",
+      "essentials.build.break.&lt;id&gt;[:datavalue]",
+      "Allows breaking of a block."
+    ],
+    [
+      "EssentialsAntiBuild",
+      "No command assigned",
+      "essentials.build.craft.&lt;id&gt;[:datavalue]",
+      "Allows crafting of an item."
+    ],
+    [
+      "EssentialsAntiBuild",
+      "No command assigned",
+      "essentials.build.drop.&lt;id&gt;[:datavalue]",
+      "Allows dropping of an item."
+    ],
+    [
+      "EssentialsAntiBuild",
+      "No command assigned",
+      "essentials.build.interact.&lt;id&gt;[:datavalue]",
+      "Allows interacting with a blocks or item."
+    ],
+    [
+      "EssentialsAntiBuild",
+      "No command assigned",
+      "essentials.build.pickup.&lt;id&gt;[:datavalue]",
+      "Allows collecting of an item."
+    ],
+    [
+      "EssentialsAntiBuild",
+      "No command assigned",
+      "essentials.build.place.&lt;id&gt;[:datavalue]",
+      "Allows placing a block."
+    ],
+    [
+      "EssentialsChat",
+      "No command assigned",
+      "essentials.chat.color",
+      "This allows you to color your chat messages using color codes."
+    ],
+    [
+      "EssentialsChat",
+      "No command assigned",
+      "essentials.chat.format",
+      "This allows you to format your chat messages using format codes."
+    ],
+    [
+      "EssentialsChat",
+      "No command assigned",
+      "essentials.chat.magic",
+      "This allows you to use the matrix/magic color in your chat messages."
+    ],
+    [
+      "EssentialsChat",
+      "No command assigned",
+      "essentials.chat.question",
+      "This allows you to send global questions, used if a chat-radius is configured."
+    ],
+    [
+      "EssentialsChat",
+      "No command assigned",
+      "essentials.chat.shout",
+      "This allows you to send global messages, used if a chat-raidus is configured."
+    ],
+    [
+      "EssentialsChat",
+      "No command assigned",
+      "essentials.chat.spy",
+      "A permission designed for admins, to intercept all local messages (ignoring the chat-radius)."
+    ],
+    [
+      "EssentialsChat",
+      "No command assigned",
+      "essentials.chat.url",
+      "This allows you to use urls in your chat messages."
+    ],
+    [
+      "Essentials",
+      "No command assigned",
+      "essentials.nocommandcost.[command]",
+      "Removes the command cost of a given command."
+    ],
+    [
+      "EssentialsProtect",
+      "No command assigned",
+      "essentials.protect",
+      "Allows the protection of rails and signs, otherwise they are not protected."
+    ],
+    [
+      "EssentialsProtect",
+      "No command assigned",
+      "essentials.protect.admin",
+      "Allows the destruction of signs and rails."
+    ],
+    [
+      "EssentialsProtect",
+      "No command assigned",
+      "essentials.protect.damage.contact",
+      "Player will receive contact damage"
+    ],
+    [
+      "EssentialsProtect",
+      "No command assigned",
+      "essentials.protect.damage.creeper",
+      "Player will receive creeper damage"
+    ],
+    [
+      "EssentialsProtect",
+      "No command assigned",
+      "essentials.protect.damage.drowning",
+      "Player will receive drowning damage"
+    ],
+    [
+      "EssentialsProtect",
+      "No command assigned",
+      "essentials.protect.damage.fall",
+      "Player will receive fall damage"
+    ],
+    [
+      "EssentialsProtect",
+      "No command assigned",
+      "essentials.protect.damage.fire",
+      "Player will receive fire damage"
+    ],
+    [
+      "EssentialsProtect",
+      "No command assigned",
+      "essentials.protect.damage.fireball",
+      "Player will receive fireball damage"
+    ],
+    [
+      "EssentialsProtect",
+      "No command assigned",
+      "essentials.protect.damage.lava",
+      "Player will receive lava damage"
+    ],
+    [
+      "EssentialsProtect",
+      "No command assigned",
+      "essentials.protect.damage.lightning",
+      "Player will receive lightning damage"
+    ],
+    [
+      "EssentialsProtect",
+      "No command assigned",
+      "essentials.protect.damage.projectiles",
+      "Player will receive projectile damage"
+    ],
+    [
+      "EssentialsProtect",
+      "No command assigned",
+      "essentials.protect.damage.suffocation",
+      "Player will receive suffocation damage"
+    ],
+    [
+      "EssentialsProtect",
+      "No command assigned",
+      "essentials.protect.damage.tnt",
+      "Player will receive tnt damage"
+    ],
+    [
+      "EssentialsProtect",
+      "No command assigned",
+      "essentials.protect.ownerinfo",
+      "Allows a player to examine protected objects to find their owner."
+    ],
+    [
+      "EssentialsProtect",
+      "No command assigned",
+      "essentials.signs.break.balance",
+      "Controls who can break balance signs."
+    ],
+    [
+      "EssentialsProtect",
+      "No command assigned",
+      "essentials.signs.break.buy",
+      "Controls who can break buy signs."
+    ],
+    [
+      "EssentialsProtect",
+      "No command assigned",
+      "essentials.signs.break.disposal",
+      "Controls who can break disposal signs."
+    ],
+    [
+      "EssentialsProtect",
+      "No command assigned",
+      "essentials.signs.break.enchant",
+      "Controls who can break enchant signs."
+    ],
+    [
+      "EssentialsProtect",
+      "No command assigned",
+      "essentials.signs.break.free",
+      "Controls who can break free signs."
+    ],
+    [
+      "EssentialsProtect",
+      "No command assigned",
+      "essentials.signs.break.gamemode",
+      "Controls who can break gamemode signs."
+    ],
+    [
+      "EssentialsProtect",
+      "No command assigned",
+      "essentials.signs.break.heal",
+      "Controls who can break heal signs."
+    ],
+    [
+      "EssentialsProtect",
+      "No command assigned",
+      "essentials.signs.break.info",
+      "Controls who can break info signs."
+    ],
+    [
+      "EssentialsProtect",
+      "No command assigned",
+      "essentials.signs.break.kit",
+      "Controls who can break kit signs."
+    ],
+    [
+      "EssentialsProtect",
+      "No command assigned",
+      "essentials.signs.break.mail",
+      "Controls who can break a mail sign."
+    ],
+    [
+      "EssentialsProtect",
+      "No command assigned",
+      "essentials.signs.break.protection",
+      "Controls who can break a protection sign. Typically given to everybody."
+    ],
+    [
+      "EssentialsProtect",
+      "No command assigned",
+      "essentials.signs.break.repair",
+      "Controls who can break repair signs."
+    ],
+    [
+      "EssentialsProtect",
+      "No command assigned",
+      "essentials.signs.break.sell",
+      "Controls who can break sell signs."
+    ],
+    [
+      "EssentialsProtect",
+      "No command assigned",
+      "essentials.signs.break.spawnmob",
+      "Controls who can break spawnmob signs."
+    ],
+    [
+      "EssentialsProtect",
+      "No command assigned",
+      "essentials.signs.break.time",
+      "Controls who can break time signs."
+    ],
+    [
+      "EssentialsProtect",
+      "No command assigned",
+      "essentials.signs.break.trade",
+      "Controls who can break trade signs."
+    ],
+    [
+      "EssentialsProtect",
+      "No command assigned",
+      "essentials.signs.break.warp",
+      "Controls who can break warp signs."
+    ],
+    [
+      "EssentialsProtect",
+      "No command assigned",
+      "essentials.signs.break.weather",
+      "Controls who can break weather signs."
+    ],
+    [
+      "EssentialsProtect",
+      "No command assigned",
+      "essentials.signs.color",
+      "This allows you to color your signs using color codes."
+    ],
+    [
+      "EssentialsProtect",
+      "No command assigned",
+      "essentials.signs.create.balance",
+      "Controls who can create balance signs."
+    ],
+    [
+      "EssentialsProtect",
+      "No command assigned",
+      "essentials.signs.create.buy",
+      "Controls who can create buy signs."
+    ],
+    [
+      "EssentialsProtect",
+      "No command assigned",
+      "essentials.signs.create.disposal",
+      "Controls who can create disposal signs."
+    ],
+    [
+      "EssentialsProtect",
+      "No command assigned",
+      "essentials.signs.create.enchant",
+      "Controls who can create enchant signs."
+    ],
+    [
+      "EssentialsProtect",
+      "No command assigned",
+      "essentials.signs.create.free",
+      "Controls who can create free signs."
+    ],
+    [
+      "EssentialsProtect",
+      "No command assigned",
+      "essentials.signs.create.gamemode",
+      "Controls who can create gamemode signs."
+    ],
+    [
+      "EssentialsProtect",
+      "No command assigned",
+      "essentials.signs.create.heal",
+      "Controls who can create heal signs."
+    ],
+    [
+      "EssentialsProtect",
+      "No command assigned",
+      "essentials.signs.create.info",
+      "Controls who can create info signs."
+    ],
+    [
+      "EssentialsProtect",
+      "No command assigned",
+      "essentials.signs.create.kit",
+      "Controls who can create kit signs."
+    ],
+    [
+      "EssentialsProtect",
+      "No command assigned",
+      "essentials.signs.create.mail",
+      "Controls who can create a mail sign."
+    ],
+    [
+      "EssentialsProtect",
+      "No command assigned",
+      "essentials.signs.create.protection",
+      "Controls who can create a protection sign."
+    ],
+    [
+      "EssentialsProtect",
+      "No command assigned",
+      "essentials.signs.create.repair",
+      "Controls who can create repair signs."
+    ],
+    [
+      "EssentialsProtect",
+      "No command assigned",
+      "essentials.signs.create.sell",
+      "Controls who can create sell signs."
+    ],
+    [
+      "EssentialsProtect",
+      "No command assigned",
+      "essentials.signs.create.spawnmob",
+      "Controls who can create spawnmob signs."
+    ],
+    [
+      "EssentialsProtect",
+      "No command assigned",
+      "essentials.signs.create.time",
+      "Controls who can create time signs."
+    ],
+    [
+      "EssentialsProtect",
+      "No command assigned",
+      "essentials.signs.create.trade",
+      "Controls who can create trade signs."
+    ],
+    [
+      "EssentialsProtect",
+      "No command assigned",
+      "essentials.signs.create.warp",
+      "Controls who can create warp signs."
+    ],
+    [
+      "EssentialsProtect",
+      "No command assigned",
+      "essentials.signs.create.weather",
+      "Controls who can create weather signs."
+    ],
+    [
+      "EssentialsProtect",
+      "No command assigned",
+      "essentials.signs.format",
+      "This allows you to format your signs using format codes."
+    ],
+    [
+      "EssentialsProtect",
+      "No command assigned",
+      "essentials.signs.magic",
+      "This allows you to use the matrix/magic color in your signs."
+    ],
+    [
+      "EssentialsProtect",
+      "No command assigned",
+      "essentials.signs.use.balance",
+      "Controls who can use balance signs."
+    ],
+    [
+      "EssentialsProtect",
+      "No command assigned",
+      "essentials.signs.use.buy",
+      "Controls who can use buy signs."
+    ],
+    [
+      "EssentialsProtect",
+      "No command assigned",
+      "essentials.signs.use.disposal",
+      "Controls who can use disposal signs."
+    ],
+    [
+      "EssentialsProtect",
+      "No command assigned",
+      "essentials.signs.use.enchant",
+      "Controls who can use enchant signs."
+    ],
+    [
+      "EssentialsProtect",
+      "No command assigned",
+      "essentials.signs.use.free",
+      "Controls who can use free signs."
+    ],
+    [
+      "EssentialsProtect",
+      "No command assigned",
+      "essentials.signs.use.gamemode",
+      "Controls who can use gamemode signs."
+    ],
+    [
+      "EssentialsProtect",
+      "No command assigned",
+      "essentials.signs.use.heal",
+      "Controls who can use heal signs."
+    ],
+    [
+      "EssentialsProtect",
+      "No command assigned",
+      "essentials.signs.use.info",
+      "Controls who can use info signs."
+    ],
+    [
+      "EssentialsProtect",
+      "No command assigned",
+      "essentials.signs.use.kit",
+      "Controls who can use kit signs."
+    ],
+    [
+      "EssentialsProtect",
+      "No command assigned",
+      "essentials.signs.use.mail",
+      "Controls who can use a mail sign."
+    ],
+    [
+      "EssentialsProtect",
+      "No command assigned",
+      "essentials.signs.use.protection",
+      "Controls who can use a protection sign. Typically given to everybody."
+    ],
+    [
+      "EssentialsProtect",
+      "No command assigned",
+      "essentials.signs.use.repair",
+      "Controls who can use repair signs."
+    ],
+    [
+      "EssentialsProtect",
+      "No command assigned",
+      "essentials.signs.use.sell",
+      "Controls who can use sell signs."
+    ],
+    [
+      "EssentialsProtect",
+      "No command assigned",
+      "essentials.signs.use.spawnmob",
+      "Controls who can use spawnmob signs."
+    ],
+    [
+      "EssentialsProtect",
+      "No command assigned",
+      "essentials.signs.use.time",
+      "Controls who can use time signs."
+    ],
+    [
+      "EssentialsProtect",
+      "No command assigned",
+      "essentials.signs.use.trade",
+      "Controls who can use trade signs."
+    ],
+    [
+      "EssentialsProtect",
+      "No command assigned",
+      "essentials.signs.use.warp",
+      "Controls who can use warp signs."
+    ],
+    [
+      "EssentialsProtect",
+      "No command assigned",
+      "essentials.signs.use.weather",
+      "Controls who can use weather signs."
+    ],
+    [
+      "Essentials",
+      "give",
+      "essentials.itemspawn.meta-chapter-[chapter]",
+      "Allow access to the Allows spawning of specific books only, from book.txt./give command."
+    ],
+    [
+      "Essentials",
+      "afk",
+      "essentials.afk.auto",
+      "Players with this permission will be set to afk after a period of inaction as defined in the config file."
+    ],
+    [
+      "Essentials",
+      "afk",
+      "essentials.afk.kickexempt",
+      "Exempts the user from being auto kicked for AFK"
+    ],
+    [
+      "Essentials",
+      "help",
+      "essentials.help.[pluginname]",
+      "Manually adds the commands from a plugin to this group's /help. Name is all lowercase."
+    ],
+    [
+      "Essentials",
+      "help",
+      "essentials.help.[pluginname].[command]",
+      "Manually adds a command from a plugin to this group's /help. Name is all lowercase."
+    ],
+    [
+      "Essentials",
+      "togglejail",
+      "essentials.jail.allow.&lt;command&gt;",
+      "Allows essentials commands to be used while jailed (requires regular perm)."
+    ],
+    [
+      "Essentials",
+      "kit",
+      "essentials.kits.*",
+      "Allows access to all created kits"
+    ],
+    [
+      "Essentials",
+      "kit",
+      "essentials.kits.[kitname]",
+      "Give access to a single kit, where [kitname] is the name of an existing kit."
+    ],
+    [
+      "Essentials",
+      "sethome",
+      "essentials.sethome.multiple.[set name]",
+      "Raise the multiple home limit to a setting defined in the config file."
+    ],
+    [
+      "Essentials",
+      "spawner",
+      "essentials.spawner.*",
+      "Allows the spawning of all mobs"
+    ],
+    [
+      "Essentials",
+      "spawner",
+      "essentials.spawner.[mob]",
+      "Allows access to spawn a specific mob"
+    ],
+    [
+      "Essentials",
+      "spawnmob",
+      "essentials.spawnmob.*",
+      "Allow the spawning of all mobs"
+    ],
+    [
+      "Essentials",
+      "spawnmob",
+      "essentials.spawnmob.[mob]",
+      "Allow access to spawn a specific mob"
+    ],
+    [
+      "Essentials",
+      "unlimited",
+      "essentials.unlimited.item-[itemid]",
+      "Allows the player to recieve an unlimited stack of [itemid]"
+    ],
+    [
+      "Essentials",
+      "unlimited",
+      "essentials.unlimited.item-[itemname]",
+      "Allows the player to recieve an unlimited stack of [itemname]"
+    ],
+    [
+      "Essentials",
+      "setwarp",
+      "essentials.warp.overwrite.*",
+      "Allows overwriting of all existing warps."
+    ],
+    [
+      "Essentials",
+      "setwarp",
+      "essentials.warp.overwrite.[warpname]",
+      "Allows overwriting of existing warps."
+    ],
+    [
+      "Essentials",
+      "warp",
+      "essentials.warps.*",
+      "Allows access to all warps."
+    ],
+    [
+      "Essentials",
+      "warp",
+      "essentials.warps.[warpname]",
+      "If you have per-warp-permission set to true in the config.yml then you can limit what warps players can use. This also controls what players would see with /warp."
+    ],
+    [
+      "Essentials",
+      "back",
+      "essentials.worlds.&lt;worldname&gt;",
+      "Allows players access to a specific world."
+    ],
+    [
+      "Essentials",
+      "home",
+      "essentials.worlds.&lt;worldname&gt;",
+      "Allows players access to a specific world."
+    ],
+    [
+      "Essentials",
+      "tp",
+      "essentials.worlds.&lt;worldname&gt;",
+      "Allows players access to a specific world."
+    ],
+    [
+      "Essentials",
+      "tpa",
+      "essentials.worlds.&lt;worldname&gt;",
+      "Allows players access to a specific world."
+    ],
+    [
+      "Essentials",
+      "tpaall",
+      "essentials.worlds.&lt;worldname&gt;",
+      "Allows Essentialsing player to a specific world."
+    ],
+    [
+      "Essentials",
+      "tpahere",
+      "essentials.worlds.&lt;worldname&gt;",
+      "Allows Essentialsing players to a specific world."
+    ],
+    [
+      "Essentials",
+      "tpall",
+      "essentials.worlds.&lt;worldname&gt;",
+      "Allows Essentialsing players to a specific world."
+    ],
+    [
+      "Essentials",
+      "tphere",
+      "essentials.worlds.&lt;worldname&gt;",
+      "Allows players access to a specific world."
+    ],
+    [
+      "Essentials",
+      "tpo",
+      "essentials.worlds.&lt;worldname&gt;",
+      "Allows players access to a specific world."
+    ],
+    [
+      "Essentials",
+      "tpohere",
+      "essentials.worlds.&lt;worldname&gt;",
+      "Allows players access to a specific world."
+    ],
+    [
+      "Essentials",
+      "world",
+      "essentials.worlds.&lt;worldname&gt;",
+      "Allows players access to a specific world."
+    ],
+    [
+      "Essentials",
+      "item",
+      "essentials.itemspawn.meta-chapter-[chapter]",
+      "Allow access to the Allows spawning of specific books only, from book.txt./give command."
+    ],
+    [
+      "Essentials",
+      "ban",
+      "essentials.ban.notify",
+      "Players with this permission will receive a notification when a ban is set."
+    ],
+    [
+      "Essentials",
+      "banip",
+      "essentials.ban.notify",
+      "Players with this permission will receive a notification when an IP ban is set."
+    ],
+    [
+      "Essentials",
+      "tempban",
+      "essentials.ban.notify",
+      "Players with this permission will receive a notification when a ban is set."
+    ],
+    [
+      "Essentials",
+      "unban",
+      "essentials.ban.notify",
+      "Players with this permission will receive a notification when a ban is removed."
+    ],
+    [
+      "Essentials",
+      "unbanip",
+      "essentials.ban.notify",
+      "Players with this permission will receive a notification when an IP ban is removed."
+    ],
+    [
+      "Essentials",
+      "enchant",
+      "essentials.enchantments.[enchantmentname]",
+      "Allows access to each enchantment type."
+    ],
+    [
+      "Essentials",
+      "give",
+      "essentials.enchantments.[enchantmentname]",
+      "Allows access to each enchantment type."
+    ],
+    [
+      "Essentials",
+      "item",
+      "essentials.enchantments.[enchantmentname]",
+      "Allows access to each enchantment type."
+    ],
+    [
+      "Essentials",
+      "enchant",
+      "essentials.enchantments.allowunsafe",
+      "If enabled in the config, this permission allows unsafe enchantments."
+    ],
+    [
+      "Essentials",
+      "give",
+      "essentials.enchantments.allowunsafe",
+      "If enabled in the config, this permission allows unsafe enchantments."
+    ],
+    [
+      "Essentials",
+      "item",
+      "essentials.enchantments.allowunsafe",
+      "If enabled in the config, this permission allows unsafe enchantments."
+    ],
+    [
+      "Essentials",
+      "give",
+      "essentials.itemspawn.item-&lt;itemname&gt;",
+      "If permission-based-item-spawn: Spawn &lt;itemname&gt;"
+    ],
+    [
+      "Essentials",
+      "give",
+      "essentials.itemspawn.item-[itemid]",
+      "If permission-based-item-spawn: Spawn [itemid]"
+    ],
+    [
+      "Essentials",
+      "item",
+      "essentials.itemspawn.item-[itemid]",
+      "If permission-based-item-spawn: Spawn [itemid]"
+    ],
+    [
+      "Essentials",
+      "item",
+      "essentials.itemspawn.item-[itemname]",
+      "If permission-based-item-spawn: Spawn [itemname]"
+    ],
+    [
+      "Essentials",
+      "give",
+      "essentials.itemspawn.item-all",
+      "If permission-based-item-spawn: Spawn all items"
+    ],
+    [
+      "Essentials",
+      "item",
+      "essentials.itemspawn.item-all",
+      "If permission-based-item-spawn: Spawn all items."
+    ],
+    [
+      "Essentials",
+      "give",
+      "essentials.itemspawn.meta-author",
+      "Allow 'author' meta to be used in item spawning."
+    ],
+    [
+      "Essentials",
+      "item",
+      "essentials.itemspawn.meta-author",
+      "Allow 'author' meta to be used in item spawning."
+    ],
+    [
+      "Essentials",
+      "give",
+      "essentials.itemspawn.meta-book",
+      "Allows spawning of books with pre-filled content from books.txt"
+    ],
+    [
+      "Essentials",
+      "item",
+      "essentials.itemspawn.meta-book",
+      "Allows spawning of books with pre-filled content from books.txt"
+    ],
+    [
+      "Essentials",
+      "give",
+      "essentials.itemspawn.meta-firework",
+      "Allow specific meta for fireworks."
+    ],
+    [
+      "Essentials",
+      "item",
+      "essentials.itemspawn.meta-firework",
+      "Allow specific meta for fireworks."
+    ],
+    [
+      "Essentials",
+      "give",
+      "essentials.itemspawn.meta-head",
+      "Allows spawning of mob heads."
+    ],
+    [
+      "Essentials",
+      "item",
+      "essentials.itemspawn.meta-head",
+      "Allows spawning of mob heads."
+    ],
+    [
+      "Essentials",
+      "give",
+      "essentials.itemspawn.meta-lore",
+      "Allow 'lore' meta to be used in item spawning."
+    ],
+    [
+      "Essentials",
+      "item",
+      "essentials.itemspawn.meta-lore",
+      "Allow 'lore' meta to be used in item spawning."
+    ],
+    [
+      "Essentials",
+      "give",
+      "essentials.itemspawn.meta-title",
+      "Allow 'title' meta to be used in item spawning."
+    ],
+    [
+      "Essentials",
+      "item",
+      "essentials.itemspawn.meta-title",
+      "Allow 'title' meta to be used in item spawning."
+    ],
+    [
+      "Essentials",
+      "give",
+      "essentials.oversizedstacks",
+      "Allows spawning of stacks above normal max stack size"
+    ],
+    [
+      "Essentials",
+      "item",
+      "essentials.oversizedstacks",
+      "Allows spawning of stacks above normal max stack size"
+    ],
+    [
+      "Essentials",
+      "more",
+      "essentials.oversizedstacks",
+      "Allows spawning of oversized stacks."
+    ],
+    [
+      "Essentials",
+      "vanish",
+      "essentials.vanish.effect",
+      "Allow adding potion effects when someone goes into vanish"
+    ],
+    [
+      "Essentials",
+      "vanish",
+      "essentials.vanish.interact",
+      "Allow interacting with vanished players"
+    ],
+    [
+      "Essentials",
+      "back",
+      "essentials.back.into.&lt;worldname&gt;",
+      "Allows access to /back when the destination location is within the specified world"
+    ],
+    [
+      "Essentials",
+      "whois",
+      "essentials.whois.ip",
+      "Allow seeing someones ip address in the /whois command."
+    ],
+    [
+      "Essentials",
+      "kickall",
+      "essentials.kickall.exempt",
+      "Be exempt from the /kickall command."
+    ],
+    [
+      "Essentials",
+      "gamemode",
+      "essentials.gamemode.creative",
+      "Allow access to the /gamemode creative command. Also requires essentials.gamemode"
+    ],
+    [
+      "Essentials",
+      "gamemode",
+      "essentials.gamemode.survival",
+      "Allow access to the /gamemode survival command. Also requires essentials.gamemode"
+    ],
+    [
+      "Essentials",
+      "gamemode",
+      "essentials.gamemode.adventure",
+      "Allow access to the /gamemode adventure command. Also requires essentials.gamemode"
+    ],
+    [
+      "Essentials",
+      "gamemode",
+      "essentials.gamemode.spectator",
+      "Allow access to the /gamemode spectator command. Also requires essentials.gamemode"
+    ],
+    [
+      "Essentials",
+      "nick",
+      "essentials.nick.allowunsafe",
+      "If a player has this, they can set their username to any value. Use with caution, as this has the potential to break userdata files."
+    ],
+    [
+      "Essentials",
+      "msg",
+      "essentials.msgtoggle.bypass",
+      "This permission allows you to send private messages to users that have disabled them with /msgtoggle."
+    ],
+    [
+      "Essentials",
+      "tpauto",
+      "essentials.tpauto.others",
+      "Allow using /tpauto for other players"
+    ],
+    [
+      "Essentials",
+      "nick",
+      "essentials.nick.color",
+      "Allows to use colors in the /nick command"
+    ],
+    [
+      "Essentials",
+      "nick",
+      "essentials.nick.magic",
+      "Allows to use magic effect in the /nick command"
+    ],
+    [
+      "Essentials",
+      "nick",
+      "essentials.nick.format",
+      "Allows to use formatting in the /nick command"
+    ],
+    [
+      "Essentials",
+      "back",
+      "essentials.keepinv",
+      "Allows the user to keep their inventory on death, instead of dropping it."
+    ],
+    [
+      "Essentials",
+      "back",
+      "essentials.back.others",
+      "Allows the user to execute the /back command for other players"
+    ],
+    [
+      "Essentials",
+      "mute",
+      "essentials.mute.notify",
+      "Get notified when an muted player tries to talk"
+    ],
+    [
+      "Essentials",
+      "home",
+      "essentials.home",
+      "Allows access to the /home command"
+    ],
+    [
+      "Essentials",
+      "balancetop",
+      "essentials.balancetop.exclude",
+      "Players with this permission are excluded from the balancetop"
+    ],
+    [
+      "Essentials",
+      "hat",
+      "essentials.hat.prevent-type.<item-name>",
+      "Give this permission to users to prevent them using this type of item in /hat"
+    ],
+    [
+      "Essentials",
+      "delkit",
+      "essentials.delkit",
+      "Allow access to the /delkit command"
+    ]
+  ]
+}

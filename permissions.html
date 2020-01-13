@@ -1,0 +1,64 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <title>EssentialsX Info - Permissions</title>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <!--<link rel="stylesheet" type="text/css" href="https://cdn.datatables.net/v/jq-3.3.1/dt-1.10.18/datatables.min.css" />-->
+
+    <link rel="stylesheet" type="text/css" href="https://stackpath.bootstrapcdn.com/bootswatch/4.3.1/darkly/bootstrap.min.css" />
+
+    <link href="./includes/style.css" rel="stylesheet">
+
+    <script src="https://cdn.datatables.net/v/bs4-4.1.1/jq-3.3.1/dt-1.10.18/datatables.min.js"></script>
+
+    <script>
+        $(document).ready(function() {
+          $('#main').DataTable( {
+              "ajax": './data/permissions.json',
+              "iDisplayLength": -1,
+              "paging": false
+          } );
+        } );
+    </script>
+</head>
+
+<body>
+    <nav class="navbar navbar-expand-lg navbar-light bg-light">
+        <a class="navbar-brand" href="../">EssentialsX Info</a>
+        <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarText" aria-controls="navbarText" aria-expanded="false" aria-label="Toggle navigation">
+      <span class="navbar-toggler-icon"></span>
+    </button>
+        <div class="collapse navbar-collapse" id="navbarText">
+            <ul class="navbar-nav mr-auto">
+                <li class="nav-item">
+                    <a class="nav-link" href="./index.html">Home</a>
+                </li>
+                <li class="nav-item active">
+                    <a class="nav-link" href="./permissions.html">Permissions</a>
+                </li>
+                <li class="nav-item">
+                    <a class="nav-link" href="./commands.html">Commands</a>
+                </li>
+                <li class="nav-item">
+                    <a class="nav-link" href="https://github.com/EssentialsX/Essentials">EssentialsX Github</a>
+                </li>
+            </ul>
+        </div>
+    </nav>
+
+    <br>
+    <div class="container" style="margin-bottom: 50px; padding-bottom: 15px; border-radius: 5px; padding-left: 30px; padding-right: 30px;">
+        <table class="table table-striped table-sm dataTable no-footer" id="main" role="grid" style="width: 1082px;">
+            <thead>
+                <tr>
+                    <th>Module</th>
+                    <th>Command</th>
+                    <th>Permission</th>
+                    <th>Description</th>
+                </tr>
+            </thead>
+        </table>
+    </div>
+</body>
+</html>
