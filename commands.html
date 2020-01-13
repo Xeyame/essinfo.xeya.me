@@ -7,7 +7,6 @@
     <!--<link rel="stylesheet" type="text/css" href="https://cdn.datatables.net/v/jq-3.3.1/dt-1.10.18/datatables.min.css" />-->
 
     <link rel="stylesheet" type="text/css" href="https://stackpath.bootstrapcdn.com/bootswatch/4.3.1/darkly/bootstrap.min.css" />
-
     <link href="./includes/style.css" rel="stylesheet">
 
     <script src="https://cdn.datatables.net/v/bs4-4.1.1/jq-3.3.1/dt-1.10.18/datatables.min.js"></script>
@@ -15,7 +14,7 @@
     <script>
         $(document).ready(function() {
           $('#main').DataTable( {
-              "ajax": './data/commands.json',
+              "ajax": 'https://essinfo.xeya.me/data/commands.json',
               "iDisplayLength": -1,
               "paging": false
           } );
@@ -44,6 +43,7 @@
                     <a class="nav-link" href="https://github.com/EssentialsX/Essentials">EssentialsX Github</a>
                 </li>
             </ul>
+            <a href="https://github.com/Xeyame/essinfo.xeya.me"><img src="https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat&color=lightgrey"></a>
         </div>
     </nav>
 
