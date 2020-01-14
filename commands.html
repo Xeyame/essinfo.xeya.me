@@ -11,7 +11,7 @@
         <script>
             $(document).ready(function() {
             $('#main').DataTable( {
-                "ajax": 'https://essinfo.xeya.me/data/commands.json',
+                "ajax": './data/commands.json',
                 "iDisplayLength": -1,
                 "paging": false
             } );
@@ -53,6 +53,7 @@
                         <th>Command</th>
                         <th>Aliases</th>
                         <th>Description</th>
+                        <th>Syntax</th>
                     </tr>
                 </thead>
             </table>
