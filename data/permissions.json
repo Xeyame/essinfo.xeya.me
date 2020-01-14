@@ -146,7 +146,7 @@
     ],
     [
       "EssentialsAntiBuild",
-      "No command assigned",
+      null,
       "essentials.build",
       "Allows people to build when using permission systems which don't support build toggles."
     ],
@@ -158,7 +158,7 @@
     ],
     [
       "Essentials",
-      "No command assigned",
+      null,
       "essentials.chat.ignoreexempt",
       "Someone with this permission will not be ignored, even if they are on another persons ignore list."
     ],
@@ -170,7 +170,7 @@
     ],
     [
       "Essentials",
-      "No command assigned",
+      null,
       "essentials.chat.spy.exempt",
       "Allow to be exempt from chat spy"
     ],
@@ -206,7 +206,7 @@
     ],
     [
       "Essentials",
-      "No command assigned",
+      null,
       "essentials.commandcooldowns.bypass",
       "Allow to bypass command cooldowns"
     ],
@@ -302,7 +302,7 @@
     ],
     [
       "Essentials",
-      "No command assigned",
+      null,
       "essentials.enderchest.modify",
       "Allows you to modify the contents of another players enderchest."
     ],
@@ -410,7 +410,7 @@
     ],
     [
       "Essentials",
-      "No command assigned",
+      null,
       "essentials.fly.safelogin",
       "Players with this command will automatically switch to fly mode if they login whilst floating in the air."
     ],
@@ -440,7 +440,7 @@
     ],
     [
       "EssentialsGeoIP",
-      "No command assigned",
+      null,
       "essentials.geoip.hide",
       "Allows you to hide your country and city from people who have permission essentials.geoip.show"
     ],
@@ -614,7 +614,7 @@
     ],
     [
       "Essentials",
-      "No command assigned",
+      null,
       "essentials.joinfullserver",
       "Player can join when the server is full."
     ],
@@ -842,7 +842,7 @@
     ],
     [
       "Essentials",
-      "No command assigned",
+      null,
       "essentials.nocommandcost.all",
       "Removes the command cost of all commands."
     ],
@@ -920,49 +920,49 @@
     ],
     [
       "EssentialsAntiBuild",
-      "No command assigned",
+      null,
       "essentials.protect.alerts",
       "Allows a player to recieve protect alerts."
     ],
     [
       "EssentialsAntiBuild",
-      "No command assigned",
+      null,
       "essentials.protect.alerts.notrigger",
       "Users with this permission do not trigger protect alerts."
     ],
     [
       "EssentialsProtect",
-      "No command assigned",
+      null,
       "essentials.protect.damage.disable",
       "Admin override to prevent admins from dying"
     ],
     [
       "EssentialsProtect",
-      "No command assigned",
+      null,
       "essentials.protect.entitytarget.bypass",
       "Allows a player to be targeted by mobs."
     ],
     [
       "EssentialsAntiBuild",
-      "No command assigned",
+      null,
       "essentials.protect.exemptbreak",
       "Allows a player to ignore the break blacklist."
     ],
     [
       "EssentialsAntiBuild",
-      "No command assigned",
+      null,
       "essentials.protect.exemptplacement",
       "Allows a player to ignore the block placement blacklist."
     ],
     [
       "EssentialsAntiBuild",
-      "No command assigned",
+      null,
       "essentials.protect.exemptusage",
       "Allows a player to ignore the usage blacklist."
     ],
     [
       "EssentialsProtect",
-      "No command assigned",
+      null,
       "essentials.protect.pvp",
       "When prevent PVP is set to true, this allows players to still PVP. Both attacker and defender need to have this permission."
     ],
@@ -980,7 +980,7 @@
     ],
     [
       "Essentials",
-      "No command assigned",
+      null,
       "essentials.pvpdelay.exempt",
       "Exempts players from the 'pvp delay' option in the config file."
     ],
@@ -1106,13 +1106,13 @@
     ],
     [
       "Essentials",
-      "No command assigned",
+      null,
       "essentials.sethome.bed",
       "Allows the player to right click a bed during daytime to update their 'bed' home."
     ],
     [
       "Essentials",
-      "No command assigned",
+      null,
       "essentials.sethome.multiple",
       "Allows player to have multiple homes, or create named homes.  Required for 2+ homes."
     ],
@@ -1166,43 +1166,43 @@
     ],
     [
       "Essentials",
-      "No command assigned",
+      null,
       "essentials.signs.enchant.allowunsafe",
       "Allows using [enchant] signs to perform unsafe enchantments"
     ],
     [
       "Essentials",
-      "No command assigned",
+      null,
       "essentials.signs.protection.override",
       "Used to override any protections. Typically given to mods &amp; admins"
     ],
     [
       "Essentials",
-      "No command assigned",
+      null,
       "essentials.signs.trade.override",
       "Used to override the creator only protection on trade signs. Typically given to mods &amp; admins"
     ],
     [
       "Essentials",
-      "No command assigned",
+      null,
       "essentials.signs.trade.override.collect",
       "Allow collecting of protected trade signs"
     ],
     [
       "Essentials",
-      "No command assigned",
+      null,
       "essentials.silentjoin",
       "Allow to join silently"
     ],
     [
       "Essentials",
-      "No command assigned",
+      null,
       "essentials.silentjoin.vanish",
       "Allow to join silently, and get put in vanish mode"
     ],
     [
       "Essentials",
-      "No command assigned",
+      null,
       "essentials.silentquit",
       "Suppress leave/quit messages for users with this permission."
     ],
@@ -1232,7 +1232,7 @@
     ],
     [
       "Essentials",
-      "No command assigned",
+      null,
       "essentials.sleepingignored",
       "User isn't required to be sleeping, for time to be reset."
     ],
@@ -1250,7 +1250,7 @@
     ],
     [
       "EssentialsSpawn",
-      "No command assigned",
+      null,
       "essentials.spawn-on-join.exempt",
       "Allow to be exempt from forced teleporting to spawn on join"
     ],
@@ -1334,25 +1334,25 @@
     ],
     [
       "Essentials",
-      "No command assigned",
+      null,
       "essentials.teleport.cooldown.bypass.back",
       "Allow to bypass the /back command cooldown"
     ],
     [
       "Essentials",
-      "No command assigned",
+      null,
       "essentials.teleport.cooldown.bypass.tpa",
       "Allow to bypass the /tpa command cooldown"
     ],
     [
       "Essentials",
-      "No command assigned",
+      null,
       "essentials.teleport.timer.bypass",
       "Bypass the teleport delay"
     ],
     [
       "Essentials",
-      "No command assigned",
+      null,
       "essentials.teleport.timer.move",
       "Allows players to move while waiting for teleport."
     ],
@@ -1682,517 +1682,517 @@
     ],
     [
       "Essentials",
-      "No command assigned",
+      null,
       "essentials.seen.extra",
       "Allow to see someone's ip-address and location in /seen"
     ],
     [
       "EssentialsAntiBuild",
-      "No command assigned",
+      null,
       "essentials.build.break.&lt;id&gt;[:datavalue]",
       "Allows breaking of a block."
     ],
     [
       "EssentialsAntiBuild",
-      "No command assigned",
+      null,
       "essentials.build.craft.&lt;id&gt;[:datavalue]",
       "Allows crafting of an item."
     ],
     [
       "EssentialsAntiBuild",
-      "No command assigned",
+      null,
       "essentials.build.drop.&lt;id&gt;[:datavalue]",
       "Allows dropping of an item."
     ],
     [
       "EssentialsAntiBuild",
-      "No command assigned",
+      null,
       "essentials.build.interact.&lt;id&gt;[:datavalue]",
       "Allows interacting with a blocks or item."
     ],
     [
       "EssentialsAntiBuild",
-      "No command assigned",
+      null,
       "essentials.build.pickup.&lt;id&gt;[:datavalue]",
       "Allows collecting of an item."
     ],
     [
       "EssentialsAntiBuild",
-      "No command assigned",
+      null,
       "essentials.build.place.&lt;id&gt;[:datavalue]",
       "Allows placing a block."
     ],
     [
       "EssentialsChat",
-      "No command assigned",
+      null,
       "essentials.chat.color",
       "This allows you to color your chat messages using color codes."
     ],
     [
       "EssentialsChat",
-      "No command assigned",
+      null,
       "essentials.chat.format",
       "This allows you to format your chat messages using format codes."
     ],
     [
       "EssentialsChat",
-      "No command assigned",
+      null,
       "essentials.chat.magic",
       "This allows you to use the matrix/magic color in your chat messages."
     ],
     [
       "EssentialsChat",
-      "No command assigned",
+      null,
       "essentials.chat.question",
       "This allows you to send global questions, used if a chat-radius is configured."
     ],
     [
       "EssentialsChat",
-      "No command assigned",
+      null,
       "essentials.chat.shout",
       "This allows you to send global messages, used if a chat-raidus is configured."
     ],
     [
       "EssentialsChat",
-      "No command assigned",
+      null,
       "essentials.chat.spy",
       "A permission designed for admins, to intercept all local messages (ignoring the chat-radius)."
     ],
     [
       "EssentialsChat",
-      "No command assigned",
+      null,
       "essentials.chat.url",
       "This allows you to use urls in your chat messages."
     ],
     [
       "Essentials",
-      "No command assigned",
+      null,
       "essentials.nocommandcost.[command]",
       "Removes the command cost of a given command."
     ],
     [
       "EssentialsProtect",
-      "No command assigned",
+      null,
       "essentials.protect",
       "Allows the protection of rails and signs, otherwise they are not protected."
     ],
     [
       "EssentialsProtect",
-      "No command assigned",
+      null,
       "essentials.protect.admin",
       "Allows the destruction of signs and rails."
     ],
     [
       "EssentialsProtect",
-      "No command assigned",
+      null,
       "essentials.protect.damage.contact",
       "Player will receive contact damage"
     ],
     [
       "EssentialsProtect",
-      "No command assigned",
+      null,
       "essentials.protect.damage.creeper",
       "Player will receive creeper damage"
     ],
     [
       "EssentialsProtect",
-      "No command assigned",
+      null,
       "essentials.protect.damage.drowning",
       "Player will receive drowning damage"
     ],
     [
       "EssentialsProtect",
-      "No command assigned",
+      null,
       "essentials.protect.damage.fall",
       "Player will receive fall damage"
     ],
     [
       "EssentialsProtect",
-      "No command assigned",
+      null,
       "essentials.protect.damage.fire",
       "Player will receive fire damage"
     ],
     [
       "EssentialsProtect",
-      "No command assigned",
+      null,
       "essentials.protect.damage.fireball",
       "Player will receive fireball damage"
     ],
     [
       "EssentialsProtect",
-      "No command assigned",
+      null,
       "essentials.protect.damage.lava",
       "Player will receive lava damage"
     ],
     [
       "EssentialsProtect",
-      "No command assigned",
+      null,
       "essentials.protect.damage.lightning",
       "Player will receive lightning damage"
     ],
     [
       "EssentialsProtect",
-      "No command assigned",
+      null,
       "essentials.protect.damage.projectiles",
       "Player will receive projectile damage"
     ],
     [
       "EssentialsProtect",
-      "No command assigned",
+      null,
       "essentials.protect.damage.suffocation",
       "Player will receive suffocation damage"
     ],
     [
       "EssentialsProtect",
-      "No command assigned",
+      null,
       "essentials.protect.damage.tnt",
       "Player will receive tnt damage"
     ],
     [
       "EssentialsProtect",
-      "No command assigned",
+      null,
       "essentials.protect.ownerinfo",
       "Allows a player to examine protected objects to find their owner."
     ],
     [
       "EssentialsProtect",
-      "No command assigned",
+      null,
       "essentials.signs.break.balance",
       "Controls who can break balance signs."
     ],
     [
       "EssentialsProtect",
-      "No command assigned",
+      null,
       "essentials.signs.break.buy",
       "Controls who can break buy signs."
     ],
     [
       "EssentialsProtect",
-      "No command assigned",
+      null,
       "essentials.signs.break.disposal",
       "Controls who can break disposal signs."
     ],
     [
       "EssentialsProtect",
-      "No command assigned",
+      null,
       "essentials.signs.break.enchant",
       "Controls who can break enchant signs."
     ],
     [
       "EssentialsProtect",
-      "No command assigned",
+      null,
       "essentials.signs.break.free",
       "Controls who can break free signs."
     ],
     [
       "EssentialsProtect",
-      "No command assigned",
+      null,
       "essentials.signs.break.gamemode",
       "Controls who can break gamemode signs."
     ],
     [
       "EssentialsProtect",
-      "No command assigned",
+      null,
       "essentials.signs.break.heal",
       "Controls who can break heal signs."
     ],
     [
       "EssentialsProtect",
-      "No command assigned",
+      null,
       "essentials.signs.break.info",
       "Controls who can break info signs."
     ],
     [
       "EssentialsProtect",
-      "No command assigned",
+      null,
       "essentials.signs.break.kit",
       "Controls who can break kit signs."
     ],
     [
       "EssentialsProtect",
-      "No command assigned",
+      null,
       "essentials.signs.break.mail",
       "Controls who can break a mail sign."
     ],
     [
       "EssentialsProtect",
-      "No command assigned",
+      null,
       "essentials.signs.break.protection",
       "Controls who can break a protection sign. Typically given to everybody."
     ],
     [
       "EssentialsProtect",
-      "No command assigned",
+      null,
       "essentials.signs.break.repair",
       "Controls who can break repair signs."
     ],
     [
       "EssentialsProtect",
-      "No command assigned",
+      null,
       "essentials.signs.break.sell",
       "Controls who can break sell signs."
     ],
     [
       "EssentialsProtect",
-      "No command assigned",
+      null,
       "essentials.signs.break.spawnmob",
       "Controls who can break spawnmob signs."
     ],
     [
       "EssentialsProtect",
-      "No command assigned",
+      null,
       "essentials.signs.break.time",
       "Controls who can break time signs."
     ],
     [
       "EssentialsProtect",
-      "No command assigned",
+      null,
       "essentials.signs.break.trade",
       "Controls who can break trade signs."
     ],
     [
       "EssentialsProtect",
-      "No command assigned",
+      null,
       "essentials.signs.break.warp",
       "Controls who can break warp signs."
     ],
     [
       "EssentialsProtect",
-      "No command assigned",
+      null,
       "essentials.signs.break.weather",
       "Controls who can break weather signs."
     ],
     [
       "EssentialsProtect",
-      "No command assigned",
+      null,
       "essentials.signs.color",
       "This allows you to color your signs using color codes."
     ],
     [
       "EssentialsProtect",
-      "No command assigned",
+      null,
       "essentials.signs.create.balance",
       "Controls who can create balance signs."
     ],
     [
       "EssentialsProtect",
-      "No command assigned",
+      null,
       "essentials.signs.create.buy",
       "Controls who can create buy signs."
     ],
     [
       "EssentialsProtect",
-      "No command assigned",
+      null,
       "essentials.signs.create.disposal",
       "Controls who can create disposal signs."
     ],
     [
       "EssentialsProtect",
-      "No command assigned",
+      null,
       "essentials.signs.create.enchant",
       "Controls who can create enchant signs."
     ],
     [
       "EssentialsProtect",
-      "No command assigned",
+      null,
       "essentials.signs.create.free",
       "Controls who can create free signs."
     ],
     [
       "EssentialsProtect",
-      "No command assigned",
+      null,
       "essentials.signs.create.gamemode",
       "Controls who can create gamemode signs."
     ],
     [
       "EssentialsProtect",
-      "No command assigned",
+      null,
       "essentials.signs.create.heal",
       "Controls who can create heal signs."
     ],
     [
       "EssentialsProtect",
-      "No command assigned",
+      null,
       "essentials.signs.create.info",
       "Controls who can create info signs."
     ],
     [
       "EssentialsProtect",
-      "No command assigned",
+      null,
       "essentials.signs.create.kit",
       "Controls who can create kit signs."
     ],
     [
       "EssentialsProtect",
-      "No command assigned",
+      null,
       "essentials.signs.create.mail",
       "Controls who can create a mail sign."
     ],
     [
       "EssentialsProtect",
-      "No command assigned",
+      null,
       "essentials.signs.create.protection",
       "Controls who can create a protection sign."
     ],
     [
       "EssentialsProtect",
-      "No command assigned",
+      null,
       "essentials.signs.create.repair",
       "Controls who can create repair signs."
     ],
     [
       "EssentialsProtect",
-      "No command assigned",
+      null,
       "essentials.signs.create.sell",
       "Controls who can create sell signs."
     ],
     [
       "EssentialsProtect",
-      "No command assigned",
+      null,
       "essentials.signs.create.spawnmob",
       "Controls who can create spawnmob signs."
     ],
     [
       "EssentialsProtect",
-      "No command assigned",
+      null,
       "essentials.signs.create.time",
       "Controls who can create time signs."
     ],
     [
       "EssentialsProtect",
-      "No command assigned",
+      null,
       "essentials.signs.create.trade",
       "Controls who can create trade signs."
     ],
     [
       "EssentialsProtect",
-      "No command assigned",
+      null,
       "essentials.signs.create.warp",
       "Controls who can create warp signs."
     ],
     [
       "EssentialsProtect",
-      "No command assigned",
+      null,
       "essentials.signs.create.weather",
       "Controls who can create weather signs."
     ],
     [
       "EssentialsProtect",
-      "No command assigned",
+      null,
       "essentials.signs.format",
       "This allows you to format your signs using format codes."
     ],
     [
       "EssentialsProtect",
-      "No command assigned",
+      null,
       "essentials.signs.magic",
       "This allows you to use the matrix/magic color in your signs."
     ],
     [
       "EssentialsProtect",
-      "No command assigned",
+      null,
       "essentials.signs.use.balance",
       "Controls who can use balance signs."
     ],
     [
       "EssentialsProtect",
-      "No command assigned",
+      null,
       "essentials.signs.use.buy",
       "Controls who can use buy signs."
     ],
     [
       "EssentialsProtect",
-      "No command assigned",
+      null,
       "essentials.signs.use.disposal",
       "Controls who can use disposal signs."
     ],
     [
       "EssentialsProtect",
-      "No command assigned",
+      null,
       "essentials.signs.use.enchant",
       "Controls who can use enchant signs."
     ],
     [
       "EssentialsProtect",
-      "No command assigned",
+      null,
       "essentials.signs.use.free",
       "Controls who can use free signs."
     ],
     [
       "EssentialsProtect",
-      "No command assigned",
+      null,
       "essentials.signs.use.gamemode",
       "Controls who can use gamemode signs."
     ],
     [
       "EssentialsProtect",
-      "No command assigned",
+      null,
       "essentials.signs.use.heal",
       "Controls who can use heal signs."
     ],
     [
       "EssentialsProtect",
-      "No command assigned",
+      null,
       "essentials.signs.use.info",
       "Controls who can use info signs."
     ],
     [
       "EssentialsProtect",
-      "No command assigned",
+      null,
       "essentials.signs.use.kit",
       "Controls who can use kit signs."
     ],
     [
       "EssentialsProtect",
-      "No command assigned",
+      null,
       "essentials.signs.use.mail",
       "Controls who can use a mail sign."
     ],
     [
       "EssentialsProtect",
-      "No command assigned",
+      null,
       "essentials.signs.use.protection",
       "Controls who can use a protection sign. Typically given to everybody."
     ],
     [
       "EssentialsProtect",
-      "No command assigned",
+      null,
       "essentials.signs.use.repair",
       "Controls who can use repair signs."
     ],
     [
       "EssentialsProtect",
-      "No command assigned",
+      null,
       "essentials.signs.use.sell",
       "Controls who can use sell signs."
     ],
     [
       "EssentialsProtect",
-      "No command assigned",
+      null,
       "essentials.signs.use.spawnmob",
       "Controls who can use spawnmob signs."
     ],
     [
       "EssentialsProtect",
-      "No command assigned",
+      null,
       "essentials.signs.use.time",
       "Controls who can use time signs."
     ],
     [
       "EssentialsProtect",
-      "No command assigned",
+      null,
       "essentials.signs.use.trade",
       "Controls who can use trade signs."
     ],
     [
       "EssentialsProtect",
-      "No command assigned",
+      null,
       "essentials.signs.use.warp",
       "Controls who can use warp signs."
     ],
     [
       "EssentialsProtect",
-      "No command assigned",
+      null,
       "essentials.signs.use.weather",
       "Controls who can use weather signs."
     ],
