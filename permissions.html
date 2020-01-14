@@ -48,6 +48,9 @@
                 });
             } );
 
+            function changeWidth() {
+                document.getElementById('maincontainer').classList.toggle('container');
+            }
         </script>
     </head>
 
@@ -72,13 +75,14 @@
                         <a class="nav-link" href="https://github.com/EssentialsX/Essentials">EssentialsX Github</a>
                     </li>
                 </ul>
+                <button type="button" class="btn btn-dark mr-2" id="widthSwitch" onclick="changeWidth()">Change width</button>
                 <a href="https://github.com/Xeyame/essinfo.xeya.me"><img src="https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat&color=lightgrey"></a>
             </div>
         </nav>
 
         <br>
-        <div class="container" style="margin-bottom: 50px; padding-bottom: 15px; border-radius: 5px; padding-left: 30px; padding-right: 30px;">
-            <table class="table table-striped table-sm" id="main"></table>
+        <div class="container" id="maincontainer" style="margin-bottom: 50px; padding-bottom: 15px; border-radius: 5px; padding-left: 30px; padding-right: 30px;">
+            <table class="table table-striped table-sm" style="width:100%" id="main"></table>
             <input hidden type="text" id="copyTextarea">
         </div>
     </body>
