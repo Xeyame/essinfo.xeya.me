@@ -826,7 +826,7 @@
       "Essentials",
       "nick",
       "essentials.nick.changecolors",
-      "Allow to <b>only</b> change your nickname's colors (And not the name itself)"
+      "Allow to **only** change your nickname's colors (And not the name itself)"
     ],
     [
       "Essentials",

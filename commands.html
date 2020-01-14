@@ -10,11 +10,40 @@
 
         <script>
             $(document).ready(function() {
-            $('#main').DataTable( {
-                "ajax": './data/commands.json',
-                "iDisplayLength": -1,
-                "paging": false
-            } );
+                $('#main').DataTable( {
+                    "ajax": './data/commands.json',
+                    "iDisplayLength": -1,
+                    "paging": false,
+                    "deferRender": true,
+                    "columnDefs": [
+                        {
+                            "targets": [0],
+                            "title": "Module"
+                        },
+                        {
+                            "targets": [1],
+                            "title": "Command"
+                        },
+                        {
+                            "targets": [2],
+                            "title": "Aliases",
+                            "width": "10%"
+                        },
+                        {
+                            "targets": [3],
+                            "title": "Description",
+                            "width": "30%"
+                        },
+                        {
+                            "targets": [4],
+                            "title": "Syntax",
+                            "render": function (data) {
+                                data = data.replace(/\</g,"&lt;").replace(/\>/g,"&gt;");
+                                return '<code>'+data+'</code>';
+                            }
+                        }
+                    ]
+                } );
             } );
         </script>
     </head>

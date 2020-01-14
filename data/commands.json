@@ -5,686 +5,686 @@
       "repair",
       "fix, efix, erepair",
       "Repairs the durability of one or all items.",
-      "\/&lt;command&gt; [hand|all]"
+      "/<command> [hand|all]"
     ],
     [
       "Essentials",
       "msgtoggle",
       "emsgtoggle",
       "Blocks receiving all private messages.",
-      "\/&lt;command&gt; [player] [on|off]"
+      "/<command> [player] [on|off]"
     ],
     [
       "Essentials",
       "setjail",
       "esetjail, createjail, ecreatejail",
       "Creates a jail where you specified named [jailname].",
-      "\/&lt;command&gt; &lt;jailname&gt;"
+      "/<command> <jailname>"
     ],
     [
       "Essentials",
       "help",
       "ehelp",
       "Views a list of available commands.",
-      "\/&lt;command&gt; [search term] [page]"
+      "/<command> [search term] [page]"
     ],
     [
       "Essentials",
       "clearinventoryconfirmtoggle",
       "eclearinventoryconfirmtoggle, clearinventoryconfirmoff, eclearinventoryconfirmoff, clearconfirmoff, eclearconfirmoff, clearconfirmon, eclearconfirmon, clearconfirm, eclearconfirm",
       "Toggles whether you are prompted to confirm inventory clears.",
-      "\/&lt;command&gt;"
+      "/<command>"
     ],
     [
       "Essentials",
       "mute",
       "emute, silence, esilence",
       "Mutes or unmutes a player.",
-      "\/&lt;command&gt; &lt;player&gt; [datediff]"
+      "/<command> <player> [datediff]"
     ],
     [
       "Essentials",
       "spawner",
       "changems, echangems, espawner, mobspawner, emobspawner",
       "Change the mob type of a spawner.",
-      "\/&lt;command&gt; &lt;mob&gt; [delay]"
+      "/<command> <mob> [delay]"
     ],
     [
       "Essentials",
       "deljail",
       "edeljail, remjail, eremjail, rmjail, ermjail",
       "Removes a jail.",
-      "\/&lt;command&gt; &lt;jailname&gt;"
+      "/<command> <jailname>"
     ],
     [
       "Essentials",
       "powertool",
       "epowertool, pt, ept",
       "Assigns a command to the item in hand.\r\n\r\nUse 'c:' as the command to make a chat macro.\r\nUse 'a:' to append multiple commands.\r\nUse 'r:' to remove a single command.\r\nUse 'l:' to list all power tools\r\nUse 'd:' to remove all power tools \r\n",
-      "\/&lt;command&gt; [l:|a:|r:|c:|d:][command] [arguments]\r\n({player} can be replaced by name of a clicked player.)\r\n"
+      "/<command> [l:|a:|r:|c:|d:][command] [arguments]\r\n({player} can be replaced by name of a clicked player.)\r\n"
     ],
     [
       "Essentials",
       "weather",
       "rain, erain, sky, esky, storm, estorm, sun, esun, eweather",
       "Sets the weather.",
-      "\/&lt;command&gt; &lt;storm\/sun&gt; [duration]"
+      "/<command> <storm\/sun> [duration]"
     ],
     [
       "Essentials",
       "gc",
       "lag, elag, egc, mem, emem, memory, ememory, uptime, euptime, tps, etps, entities, eentities",
       "Reports memory, uptime and tick info.",
-      "\/&lt;command&gt; [all]"
+      "/<command> [all]"
     ],
     [
       "Essentials",
       "delhome",
       "edelhome, remhome, eremhome, rmhome, ermhome",
       "Removes a home.",
-      "\/&lt;command&gt; [player:]&lt;name&gt;"
+      "/<command> [player:]<name>"
     ],
     [
       "Essentials",
       "enderchest",
       "echest, eechest, eenderchest, endersee, eendersee, ec, eec",
       "Lets you see inside an enderchest.",
-      "\/&lt;command&gt; [player]"
+      "/<command> [player]"
     ],
     [
       "Essentials",
       "powertooltoggle",
       "epowertooltoggle, ptt, eptt, pttoggle, epttoggle",
       "Enables or disables all current powertools.",
-      "\/&lt;command&gt;"
+      "/<command>"
     ],
     [
       "Essentials",
       "kickall",
       "ekickall",
       "Kicks all players off the server except the issuer.",
-      "\/&lt;command&gt; [reason]"
+      "/<command> [reason]"
     ],
     [
       "Essentials",
       "speed",
       "flyspeed, eflyspeed, fspeed, efspeed, espeed, walkspeed, ewalkspeed, wspeed, ewspeed",
       "Change your speed limits.",
-      "\/&lt;command&gt; [type] &lt;speed&gt; [player]"
+      "/<command> [type] <speed> [player]"
     ],
     [
       "Essentials",
       "tpall",
       "etpall",
       "Teleport all online players to another player.",
-      "\/&lt;command&gt; &lt;player&gt;"
+      "/<command> <player>"
     ],
     [
       "Essentials",
       "suicide",
       "esuicide",
       "Causes you to perish.",
-      "\/&lt;command&gt;"
+      "/<command>"
     ],
     [
       "Essentials",
       "essentials",
       "eessentials, ess, eess, essversion",
       "Reloads essentials.",
-      "\/&lt;command&gt;"
+      "/<command>"
     ],
     [
       "Essentials",
       "tptoggle",
       "etptoggle",
       "Blocks all forms of teleportation.",
-      "\/&lt;command&gt; [player] [on|off]"
+      "/<command> [player] [on|off]"
     ],
     [
       "Essentials",
       "disposal",
       "edisposal, trash, etrash",
       "Opens a portable disposal menu.",
-      "\/&lt;command&gt;"
+      "/<command>"
     ],
     [
       "Essentials",
       "top",
       "etop",
       "Teleport to the highest block at your current position.",
-      "\/&lt;command&gt;"
+      "/<command>"
     ],
     [
       "Essentials",
       "gamemode",
       "adventure, eadventure, adventuremode, eadventuremode, creative, eecreative, creativemode, ecreativemode, egamemode, gm, egm, gma, egma, gmc, egmc, gms, egms, gmt, egmt, survival, esurvival, survivalmode, esurvivalmode, gmsp, sp, egmsp, spec, spectator",
       "Change player gamemode.",
-      "\/&lt;command&gt;\n&lt;survival|creative|adventure|spectator&gt;\n[player]"
+      "/<command>\n<survival|creative|adventure|spectator>\n[player]"
     ],
     [
       "Essentials",
       "condense",
       "econdense, compact, ecompact, blocks, eblocks, toblocks, etoblocks",
       "Condenses items into a more compact blocks.",
-      "\/&lt;command&gt; [&lt;itemname&gt;|&lt;id&gt;|hand|inventory]"
+      "/<command> [<itemname>|<id>|hand|inventory]"
     ],
     [
       "Essentials",
       "tp",
       "tele, etele, teleport, eteleport, etp, tp2p, etp2p",
       "Teleport to a player.",
-      "\/&lt;command&gt; &lt;player&gt; [otherplayer]"
+      "/<command> <player> [otherplayer]"
     ],
     [
       "Essentials",
       "setworth",
       "esetworth",
       "Set the sell value of an item.",
-      "\/&lt;command&gt; [itemname|id] &lt;price&gt;"
+      "/<command> [itemname|id] <price>"
     ],
     [
       "Essentials",
       "spawnmob",
       "mob, emob, spawnentity, espawnentity, espawnmob",
       "Spawns a mob.",
-      "\/&lt;command&gt; &lt;mob&gt;[:data][,&lt;mount&gt;[:data]] [amount] [player]"
+      "/<command> <mob>[:data][,<mount>[:data]] [amount] [player]"
     ],
     [
       "Essentials",
       "book",
       "ebook",
       "Allows reopening and editing of sealed books.",
-      "\/&lt;command&gt; [title|author [name]]"
+      "/<command> [title|author [name]]"
     ],
     [
       "Essentials",
       "time",
       "day, eday, night, enight, etime",
       "Display\/Change the world time. Defaults to current world.",
-      "\/&lt;command&gt; [day|night|dawn|17:30|4pm|4000ticks] [worldname|all]"
+      "/<command> [day|night|dawn|17:30|4pm|4000ticks] [worldname|all]"
     ],
     [
       "Essentials",
       "tpaall",
       "etpaall",
       "Requests all players online to teleport to you.",
-      "\/&lt;command&gt; &lt;player&gt;"
+      "/<command> <player>"
     ],
     [
       "Essentials",
       "mail",
       "email, eemail, memo, ememo",
       "Manages inter-player, intra-server mail.",
-      "\/&lt;command&gt; [read|clear|send [to] [message]|sendall [message]]"
+      "/<command> [read|clear|send [to] [message]|sendall [message]]"
     ],
     [
       "Essentials",
       "hat",
       "ehat, head, ehead",
       "Get some cool new headgear.",
-      "\/&lt;command&gt; [remove]"
+      "/<command> [remove]"
     ],
     [
       "Essentials",
       "worth",
       "eprice, price, eworth",
       "Calculates the worth of items in hand or as specified.",
-      "\/&lt;command&gt; &lt;&lt;itemname&gt;|&lt;id&gt;|hand|inventory|blocks&gt; [-][amount]"
+      "/<command> <<itemname>|<id>|hand|inventory|blocks> [-][amount]"
     ],
     [
       "Essentials",
       "kick",
       "ekick",
       "Kicks a specified player with a reason.",
-      "\/&lt;command&gt; &lt;player&gt; [reason]"
+      "/<command> <player> [reason]"
     ],
     [
       "Essentials",
       "more",
       "emore",
       "Fills the item stack in hand to maximum size.",
-      "\/&lt;command&gt;"
+      "/<command>"
     ],
     [
       "Essentials",
       "info",
       "about, eabout, ifo, eifo, einfo, inform, einform, news, enews",
       "Shows information set by the server owner.",
-      "\/&lt;command&gt; [chapter] [page]"
+      "/<command> [chapter] [page]"
     ],
     [
       "Essentials",
       "tpahere",
       "etpahere",
       "Request that the specified player teleport to you.",
-      "\/&lt;command&gt; &lt;player&gt;"
+      "/<command> <player>"
     ],
     [
       "Essentials",
       "realname",
       "erealname",
       "Displays the username of a user based on nick.",
-      "\/&lt;command&gt; &lt;nickname&gt;"
+      "/<command> <nickname>"
     ],
     [
       "Essentials",
       "bigtree",
       "ebigtree, largetree, elargetree",
       "Spawn a big tree where you are looking.",
-      "\/&lt;command&gt; &lt;tree|redwood|jungle&gt;"
+      "/<command> <tree|redwood|jungle>"
     ],
     [
       "Essentials",
       "rules",
       "erules",
       "Views the server rules.",
-      "\/&lt;command&gt; [chapter] [page]"
+      "/<command> [chapter] [page]"
     ],
     [
       "Essentials",
       "recipe",
       "formula, eformula, method, emethod, erecipe, recipes, erecipes",
       "Displays how to craft items.",
-      "\/&lt;command&gt; &lt;item&gt; [number]"
+      "/<command> <item> [number]"
     ],
     [
       "Essentials",
       "sethome",
       "esethome, createhome, ecreatehome",
       "Set your home to your current location.",
-      "\/&lt;command&gt; [[player:]name]"
+      "/<command> [[player:]name]"
     ],
     [
       "Essentials",
       "pweather",
       "playerweather, eplayerweather, epweather",
       "Adjust a player's weather",
-      "\/&lt;command&gt; [list|reset|storm|sun|clear] [player|*]"
+      "/<command> [list|reset|storm|sun|clear] [player|*]"
     ],
     [
       "Essentials",
       "setwarp",
       "createwarp, ecreatewarp, esetwarp",
       "Creates a new warp.",
-      "\/&lt;command&gt; &lt;warp&gt;"
+      "/<command> <warp>"
     ],
     [
       "Essentials",
       "warp",
       "ewarp, warps, ewarps",
       "List all warps or warp to the specified location.",
-      "\/&lt;command&gt; &lt;pagenumber|warp&gt; [player]"
+      "/<command> <pagenumber|warp> [player]"
     ],
     [
       "Essentials",
       "break",
       "ebreak",
       "Breaks the block you are looking at.",
-      "\/&lt;command&gt;"
+      "/<command>"
     ],
     [
       "Essentials",
       "msg",
       "w, m, t, pm, emsg, epm, tell, etell, whisper, ewhisper",
       "Sends a private message to the specified player.",
-      "\/&lt;command&gt; &lt;to&gt; &lt;message&gt;"
+      "/<command> <to> <message>"
     ],
     [
       "Essentials",
       "delwarp",
       "edelwarp, remwarp, eremwarp, rmwarp, ermwarp",
       "Deletes the specified warp.",
-      "\/&lt;command&gt; &lt;warp&gt;"
+      "/<command> <warp>"
     ],
     [
       "Essentials",
       "compass",
       "ecompass, direction, edirection",
       "Describes your current bearing.",
-      "\/&lt;command&gt;"
+      "/<command>"
     ],
     [
       "Essentials",
       "world",
       "eworld",
       "Switch between worlds.",
-      "\/&lt;command&gt; [world]"
+      "/<command> [world]"
     ],
     [
       "Essentials",
       "me",
       "action, eaction, describe, edescribe, eme",
       "Describes an action in the context of the player.",
-      "\/&lt;command&gt; &lt;description&gt;"
+      "/<command> <description>"
     ],
     [
       "Essentials",
       "payconfirmtoggle",
       "epayconfirmtoggle, payconfirmoff, epayconfirmoff, payconfirmon, epayconfirmon, payconfirm, epayconfirm",
       "Toggles whether you are prompted to confirm payments.",
-      "\/&lt;command&gt;"
+      "/<command>"
     ],
     [
       "Essentials",
       "ext",
       "eext, extinguish, eextinguish",
       "Extinguish players.",
-      "\/&lt;command&gt; [player]"
+      "/<command> [player]"
     ],
     [
       "Essentials",
       "broadcastworld",
       "bcw, ebcw, bcastw, ebcastw, ebroadcastworld, shoutworld, eshoutworld",
       "Broadcasts a message to a world.",
-      "\/&lt;command&gt; &lt;world&gt; &lt;msg&gt;"
+      "/<command> <world> <msg>"
     ],
     [
       "Essentials",
       "togglejail",
       "jail, ejail, tjail, etjail, etogglejail, unjail, eunjail",
       "Jails\/Unjails a player, TPs them to the jail specified.",
-      "\/&lt;command&gt; &lt;player&gt; &lt;jailname&gt; [datediff]"
+      "/<command> <player> <jailname> [datediff]"
     ],
     [
       "Essentials",
       "list",
       "elist, online, eonline, playerlist, eplayerlist, plist, eplist, who, ewho",
       "List all online players.",
-      "\/&lt;command&gt; [group]"
+      "/<command> [group]"
     ],
     [
       "Essentials",
       "remove",
       "eremove, butcher, ebutcher, killall, ekillall, mobkill, emobkill",
       "Removes entities in your world.",
-      "\/&lt;command&gt; &lt;all|tamed|named|drops|arrows|boats|\nminecarts|xp|paintings|itemframes|endercrystals|\nmonsters|animals|ambient|mobs|[mobType]&gt; [radius|world]"
+      "/<command> <all|tamed|named|drops|arrows|boats|\nminecarts|xp|paintings|itemframes|endercrystals|\nmonsters|animals|ambient|mobs|[mobType]> [radius|world]"
     ],
     [
       "Essentials",
       "lightning",
       "elightning, shock, eshock, smite, esmite, strike, estrike, thor, ethor",
       "The power of Thor. Strike at cursor or player.",
-      "\/&lt;command&gt; [player] [power]"
+      "/<command> [player] [power]"
     ],
     [
       "Essentials",
       "ignore",
       "eignore, unignore, eunignore, delignore, edelignore, remignore, eremignore, rmignore, ermignore",
       "Ignore or unignore other players.",
-      "\/&lt;command&gt; &lt;player&gt;"
+      "/<command> <player>"
     ],
     [
       "Essentials",
       "item",
       "i, eitem, ei",
       "Spawn an item.",
-      "\/&lt;command&gt; &lt;item|numeric&gt; [amount [itemmeta...]]"
+      "/<command> <item|numeric> [amount [itemmeta...]]"
     ],
     [
       "Essentials",
       "near",
       "enear, nearby, enearby",
       "Lists the players near by or around a player.",
-      "\/&lt;command&gt; [playername] [radius]"
+      "/<command> [playername] [radius]"
     ],
     [
       "Essentials",
       "firework",
       "efirework",
       "Allows you to modify a stack of fireworks.",
-      "\/&lt;command&gt; &lt;&lt;meta param&gt;|power [amount]|clear|fire [amount]&gt;"
+      "/<command> <<meta param>|power [amount]|clear|fire [amount]>"
     ],
     [
       "Essentials",
       "invsee",
       "einvsee",
       "See the inventory of other players.",
-      "\/&lt;command&gt; &lt;player&gt;"
+      "/<command> <player>"
     ],
     [
       "Essentials",
       "balancetop",
       "ebalancetop, baltop, ebaltop",
       "Gets the top balance values.",
-      "\/&lt;command&gt; &lt;page&gt;"
+      "/<command> <page>"
     ],
     [
       "Essentials",
       "ban",
       "eban",
       "Bans a player.",
-      "\/&lt;command&gt; &lt;player&gt; [reason]"
+      "/<command> <player> [reason]"
     ],
     [
       "Essentials",
       "kill",
       "ekill",
       "Kills specified player.",
-      "\/&lt;command&gt; &lt;player&gt;"
+      "/<command> <player>"
     ],
     [
       "Essentials",
       "balance",
       "bal, ebal, ebalance, money, emoney",
       "States the current balance of a player.",
-      "\/&lt;command&gt; [player]"
+      "/<command> [player]"
     ],
     [
       "Essentials",
       "enchant",
       "eenchant, enchantment, eenchantment",
       "Enchants the item the user is holding.",
-      "\/&lt;command&gt; &lt;enchantmentname&gt; [level]"
+      "/<command> <enchantmentname> [level]"
     ],
     [
       "Essentials",
       "banip",
       "ebanip",
       "Bans an IP address.",
-      "\/&lt;command&gt; &lt;address&gt;"
+      "/<command> <address>"
     ],
     [
       "Essentials",
       "socialspy",
       "esocialspy",
       "Toggles if you can see msg\/mail commands in chat.",
-      "\/&lt;command&gt; [player] [on|off]"
+      "/<command> [player] [on|off]"
     ],
     [
       "Essentials",
       "workbench",
       "craft, ecraft, wb, ewb, wbench, ewbench, eworkbench",
       "Opens up a workbench.",
-      "\/&lt;command&gt;"
+      "/<command>"
     ],
     [
       "Essentials",
       "motd",
       "emotd",
       "Views the Message Of The Day.",
-      "\/&lt;command&gt; [chapter] [page]"
+      "/<command> [chapter] [page]"
     ],
     [
       "Essentials",
       "ptime",
       "playertime, eplayertime, eptime",
       "Adjust player's client time. Add @ prefix to fix.",
-      "\/&lt;command&gt; [list|reset|day|night|dawn|17:30|4pm|4000ticks] [player|*]"
+      "/<command> [list|reset|day|night|dawn|17:30|4pm|4000ticks] [player|*]"
     ],
     [
       "Essentials",
       "give",
       "egive",
       "Give a player an item.",
-      "\/&lt;command&gt; &lt;player&gt; &lt;item|numeric&gt; [amount [itemmeta...]]"
+      "/<command> <player> <item|numeric> [amount [itemmeta...]]"
     ],
     [
       "Essentials",
       "tree",
       "etree",
       "Spawn a tree where you are looking.",
-      "\/&lt;command&gt; &lt;tree|birch|redwood|redmushroom|\nbrownmushroom|jungle|junglebush|swamp&gt;"
+      "/<command> <tree|birch|redwood|redmushroom|\nbrownmushroom|jungle|junglebush|swamp>"
     ],
     [
       "Essentials",
       "tpacancel",
       "etpacancel",
       "Cancel all outstanding teleport requests. Specify [player] to cancel requests with them.",
-      "\/&lt;command&gt; [player]"
+      "/<command> [player]"
     ],
     [
       "Essentials",
       "sudo",
       "esudo",
       "Make another user perform a command.",
-      "\/&lt;command&gt; &lt;player&gt; &lt;command [args]&gt;"
+      "/<command> <player> <command [args]>"
     ],
     [
       "Essentials",
       "back",
       "eback, return, ereturn",
       "Teleports you to your location prior to tp\/spawn\/warp.",
-      "\/&lt;command&gt;"
+      "/<command>"
     ],
     [
       "Essentials",
       "jump",
       "j, ej, ejump, jumpto, ejumpto",
       "Jumps to the nearest block in the line of sight.",
-      "\/&lt;command&gt;"
+      "/<command>"
     ],
     [
       "Essentials",
       "fly",
       "efly",
       "Take off, and soar!",
-      "\/&lt;command&gt; [player] [on|off]"
+      "/<command> [player] [on|off]"
     ],
     [
       "Essentials",
       "potion",
       "epotion, elixer, eelixer",
       "Adds custom potion effects to a potion.",
-      "\/&lt;command&gt; &lt;clear|apply|effect:&lt;effect&gt; power:&lt;power&gt; duration:&lt;duration&gt;&gt;"
+      "/<command> <clear|apply|effect:<effect> power:<power> duration:<duration>>"
     ],
     [
       "Essentials",
       "seen",
       "eseen",
       "Shows the last logout time of a player.",
-      "\/&lt;command&gt; &lt;playername&gt;"
+      "/<command> <playername>"
     ],
     [
       "Essentials",
       "home",
       "ehome, homes, ehomes",
       "Teleport to your home.",
-      "\/&lt;command&gt; [player:][name]"
+      "/<command> [player:][name]"
     ],
     [
       "Essentials",
       "vanish",
       "v, ev, evanish",
       "Hide yourself from other players.",
-      "\/&lt;command&gt; [player] [on|off]"
+      "/<command> [player] [on|off]"
     ],
     [
       "Essentials",
       "tpdeny",
       "etpdeny, tpno, etpno",
       "Reject a teleport request.",
-      "\/&lt;command&gt;"
+      "/<command>"
     ],
     [
       "Essentials",
       "tpohere",
       "etpohere",
       "Teleport here override for tptoggle.",
-      "\/&lt;command&gt; &lt;player&gt;"
+      "/<command> <player>"
     ],
     [
       "Essentials",
       "getpos",
       "eposition",
       "Get your current coordinates or those of a player.",
-      "\/&lt;command&gt; [player]"
+      "/<command> [player]"
     ],
     [
       "Essentials",
       "god",
       "tgm",
       "Enables your godly powers.",
-      "\/&lt;command&gt; [player] [on|off]"
+      "/<command> [player] [on|off]"
     ],
     [
       "Essentials",
       "ping",
       "echo, eecho, eping, pong, epong",
       "Pong!",
-      "\/&lt;command&gt;"
+      "/<command>"
     ],
     [
       "Essentials",
       "helpop",
       "eamsg",
       "Message online admins.",
-      "\/&lt;command&gt; &lt;message&gt;"
+      "/<command> <message>"
     ],
     [
       "Essentials",
       "skull",
       "head",
       "Set the owner of a player skull",
-      "\/&lt;command&gt; [owner]"
+      "/<command> [owner]"
     ],
     [
       "Essentials",
       "broadcast",
       "ebcast",
       "Broadcasts a message to the entire server.",
-      "\/&lt;command&gt; &lt;msg&gt;"
+      "/<command> <msg>"
     ],
     [
       "Essentials",
       "clearinventory",
       "eclean",
       "Clear all items in your inventory.",
-      "\/&lt;command&gt; [player|*] [item[:&lt;data&gt;]|*|**] [amount]"
+      "/<command> [player|*] [item[:<data>]|*|**] [amount]"
     ],
     [
       "Essentials",
       "unlimited",
       "eul",
       "Allows the unlimited placing of items.",
-      "\/&lt;command&gt; &lt;list|item|clear&gt; [player]"
+      "/<command> <list|item|clear> [player]"
     ],
     [
       "Essentials",
       "antioch",
       "tnt",
       "A little surprise for operators.",
-      "\/&lt;command&gt; [message]"
+      "/<command> [message]"
     ],
     [
       "Essentials",
       "fireball",
       "fireskull",
       "Throw a fireball.",
-      "\/&lt;command&gt; [small|skull]"
+      "/<command> [small|skull]"
     ],
     [
       "Essentials",
       "tpa",
       "tpask",
       "Request to teleport to the specified player.",
-      "\/&lt;command&gt; &lt;player&gt;"
+      "/<command> <player>"
     ],
     [
       "Essentials",
       "createkit",
       "ck",
       "Create a kit in game!",
-      "\/&lt;command&gt; &lt;kitname&gt; &lt;delay&gt;"
+      "/<command> <kitname> <delay>"
     ],
     [
       "Essentials",
@@ -698,231 +698,231 @@
       "paytoggle",
       "payon",
       "Toggles whether you are accepting payments.",
-      "\/&lt;command&gt;"
+      "/<command>"
     ],
     [
       "Essentials",
       "itemdb",
       "edurability",
       "Searches for an item.",
-      "\/&lt;command&gt; &lt;item&gt;"
+      "/<command> <item>"
     ],
     [
       "Essentials",
       "afk",
       "eafk, away, eaway",
       "Marks you as away-from-keyboard.",
-      "\/&lt;command&gt; [player\/message...]"
+      "/<command> [player\/message...]"
     ],
     [
       "Essentials",
       "backup",
       "ebackup",
       "Runs the backup if configured.",
-      "\/&lt;command&gt;"
+      "/<command>"
     ],
     [
       "Essentials",
       "burn",
       "eburn",
       "Set a player on fire.",
-      "\/&lt;command&gt; &lt;player&gt; &lt;seconds&gt;"
+      "/<command> <player> <seconds>"
     ],
     [
       "Essentials",
       "customtext",
       "",
       "Allows you to create custom text commands.",
-      "\/&lt;alias&gt; - Define in bukkit.yml"
+      "/<alias> - Define in bukkit.yml"
     ],
     [
       "Essentials",
       "eco",
       "eeco,economy,eeconomy",
       "Manages the server economy.",
-      "\/&lt;command&gt; &lt;give|take|set|reset&gt; &lt;player&gt; &lt;amount&gt;"
+      "/<command> <give|take|set|reset> <player> <amount>"
     ],
     [
       "Essentials",
       "exp",
       "eexp, xp",
       "Give, set or look at a players exp.",
-      "\/&lt;command&gt; [show|set|give] [playername [amount]]"
+      "/<command> [show|set|give] [playername [amount]]"
     ],
     [
       "Essentials",
       "feed",
       "eat,eeat,efeed",
       "Satisfy the hunger.",
-      "\/&lt;command&gt; [player]"
+      "/<command> [player]"
     ],
     [
       "Essentials",
       "heal",
       "eheal",
       "Heals you or the given player.",
-      "\/&lt;command&gt; [player]"
+      "/<command> [player]"
     ],
     [
       "Essentials",
       "kit",
       "ekit,kits,ekits",
       "Obtains the specified kit or views all available kits.",
-      "\/&lt;command&gt; [kit] [player]"
+      "/<command> [kit] [player]"
     ],
     [
       "Essentials",
       "kittycannon",
       "ekittycannon",
       "Throw an exploding kitten at your opponent.",
-      "\/&lt;command&gt;"
+      "/<command>"
     ],
     [
       "Essentials",
       "nick",
       "enick,nickname,enickname",
       "Change your nickname or that of another player.",
-      "\/&lt;command&gt; [player] &lt;nickname|off&gt;"
+      "/<command> [player] <nickname|off>"
     ],
     [
       "Essentials",
       "nuke",
       "enuke",
       "May death rain upon them.",
-      "\/&lt;command&gt; [player]"
+      "/<command> [player]"
     ],
     [
       "Essentials",
       "pay",
       "epay",
       "Pays another player from your balance.",
-      "\/&lt;command&gt; &lt;player&gt; &lt;amount&gt;"
+      "/<command> <player> <amount>"
     ],
     [
       "Essentials",
       "r",
       "er,reply,ereply",
       "Quickly reply to the last player to message you.",
-      "\/&lt;command&gt; &lt;message&gt;"
+      "/<command> <message>"
     ],
     [
       "Essentials",
       "sell",
       "esell",
       "Sells the item currently in your hand.",
-      "\/&lt;command&gt; &lt;&lt;itemname&gt;|&lt;id&gt;|hand|inventory|blocks&gt; [-][amount]"
+      "/<command> <<itemname>|<id>|hand|inventory|blocks> [-][amount]"
     ],
     [
       "Essentials",
       "showkit",
       "kitpreview,preview,kitshow",
       "Show contents of a kit.",
-      "\/&lt;command&gt; &lt;kitname&gt;"
+      "/<command> <kitname>"
     ],
     [
       "Essentials",
       "tempban",
       "etempban",
       "Temporary ban a user.",
-      "\/&lt;command&gt; &lt;playername&gt; &lt;datediff&gt; &lt;reason&gt;"
+      "/<command> <playername> <datediff> <reason>"
     ],
     [
       "Essentials",
       "thunder",
       "ethunder",
       "Enable\/disable thunder.",
-      "\/&lt;command&gt; &lt;true\/false&gt; [duration]"
+      "/<command> <true\/false> [duration]"
     ],
     [
       "Essentials",
       "tpaccept",
       "etpaccept,tpyes,etpyes",
       "Accepts a teleport request.",
-      "\/&lt;command&gt; [otherplayer]"
+      "/<command> [otherplayer]"
     ],
     [
       "Essentials",
       "tphere",
       "s,etphere",
       "Teleport a player to you.",
-      "\/&lt;command&gt; &lt;player&gt;"
+      "/<command> <player>"
     ],
     [
       "Essentials",
       "tpohere",
       "etpohere",
       "Teleport here override for tptoggle.",
-      "\/&lt;command&gt; &lt;player&gt;"
+      "/<command> <player>"
     ],
     [
       "Essentials",
       "tppos",
       "etppos",
       "Teleport to coordinates.",
-      "\/&lt;command&gt; &lt;x&gt; &lt;y&gt; &lt;z&gt; [yaw] [pitch] [world]"
+      "/<command> <x> <y> <z> [yaw] [pitch] [world]"
     ],
     [
       "Essentials",
       "unban",
       "pardon,eunban,epardon",
       "Unbans the specified player.",
-      "\/&lt;command&gt; &lt;player&gt;"
+      "/<command> <player>"
     ],
     [
       "Essentials",
       "unbanip",
       "eunbanip,pardonip,epardonip",
       "Unbans the specified IP address.",
-      "\/&lt;command&gt; &lt;address&gt;"
+      "/<command> <address>"
     ],
     [
       "EssentialsSpawn",
       "setspawn",
       "esetspawn",
       "Set the spawnpoint to your current position.",
-      "\/&lt;command&gt; &lt;group&gt;"
+      "/<command> <group>"
     ],
     [
       "EssentialsSpawn",
       "spawn",
       "espawn",
       "Teleport to the spawnpoint.",
-      "\/&lt;command&gt; [player]"
+      "/<command> [player]"
     ],
     [
       "EssentialsXMPP",
       "setxmpp",
       "",
       "Set your xmpp address.",
-      "\/&lt;command&gt; &lt;address&gt;"
+      "/<command> <address>"
     ],
     [
       "EssentialsXMPP",
       "xmpp",
       null,
       "Send a message to a player.",
-      "\/&lt;command&gt; &lt;player&gt; &lt;message&gt;"
+      "/<command> <player> <message>"
     ],
     [
       "EssentialsXMPP",
       "xmppspy",
       null,
       "Toggle xmpp spy for all messages.",
-      "\/&lt;command&gt; &lt;player&gt;"
+      "/<command> <player>"
     ],
     [
       "Essentials",
       "tpauto",
       "etpauto",
       "Automatically accept teleportation requests.",
-      "\/&lt;command&gt; &lt;player&gt;"
+      "/<command> <player>"
     ],
     [
       "Essentials",
       "delkit",
       "",
       "Delete a given kit",
-      "\/&lt;command&gt; &lt;kitname&gt;"
+      "/<command> <kitname>"
     ]
   ]
 }
