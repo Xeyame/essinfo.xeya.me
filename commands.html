@@ -44,6 +44,13 @@
                         }
                     ]
                 } );
+                $('#main').on('click', 'tbody td', function() {
+                    document.getElementById("copyTextarea").value = this.textContent;
+                    document.getElementById("copyTextarea").hidden = false;
+                    document.getElementById("copyTextarea").select();
+                    document.execCommand("copy");
+                    document.getElementById("copyTextarea").hidden = true;
+                });
             } );
         </script>
     </head>
@@ -75,17 +82,8 @@
 
         <br>
         <div class="container" style="margin-bottom: 50px; padding-bottom: 15px; border-radius: 5px; padding-left: 30px; padding-right: 30px;">
-            <table class="table table-striped table-sm dataTable no-footer" id="main" role="grid" style="width: 1082px;">
-                <thead>
-                    <tr>
-                        <th>Module</th>
-                        <th>Command</th>
-                        <th>Aliases</th>
-                        <th>Description</th>
-                        <th>Syntax</th>
-                    </tr>
-                </thead>
-            </table>
+            <table class="table table-striped table-sm no-footer" id="main"></table>
+            <input hidden type="text" id="copyTextarea">
         </div>
     </body>
 </html>
