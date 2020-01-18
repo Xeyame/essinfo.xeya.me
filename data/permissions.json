@@ -20,6 +20,18 @@
     ],
     [
       "Essentials",
+      "afk",
+      "essentials.afk.auto",
+      "Players with this permission will be set to afk after a period of inaction as defined in the config file."
+    ],
+    [
+      "Essentials",
+      "afk",
+      "essentials.afk.kickexempt",
+      "Exempts the user from being auto kicked for AFK"
+    ],
+    [
+      "Essentials",
       "antioch",
       "essentials.antioch",
       "Allow access to the /antioch command."
@@ -89,6 +101,18 @@
       "banip",
       "essentials.banip",
       "Allow access to the /banip command."
+    ],
+    [
+      "Essentials",
+      "unban",
+      "essentials.unban",
+      "Allow access to the /unban command."
+    ],
+    [
+      "Essentials",
+      "unbanip",
+      "essentials.unbanip",
+      "Allow access to the /unbanip command."
     ],
     [
       "Essentials",
@@ -230,27 +254,15 @@
     ],
     [
       "Essentials",
+      "delkit",
+      "essentials.delkit",
+      "Allow access to the /delkit command"
+    ],
+    [
+      "Essentials",
       "customtext",
       "essentials.customtext",
       "Allow access to the /customtext command and all aliases."
-    ],
-    [
-      "Essentials",
-      "delhome",
-      "essentials.delhome",
-      "Allow access to the /delhome command."
-    ],
-    [
-      "Essentials",
-      "delhome",
-      "essentials.delhome.others",
-      "Allows you to delete the homes of other players."
-    ],
-    [
-      "Essentials",
-      "deljail",
-      "essentials.deljail",
-      "Allow access to the /deljail command."
     ],
     [
       "Essentials",
@@ -614,6 +626,12 @@
     ],
     [
       "Essentials",
+      "deljail",
+      "essentials.deljail",
+      "Allow access to the /deljail command."
+    ],
+    [
+      "Essentials",
       null,
       "essentials.joinfullserver",
       "Player can join when the server is full."
@@ -659,6 +677,12 @@
       "kickall",
       "essentials.kickall",
       "Allow access to the /kickall command."
+    ],
+    [
+      "Essentials",
+      "kickall",
+      "essentials.kickall.exempt",
+      "Be exempt from the /kickall command."
     ],
     [
       "Essentials",
@@ -1100,6 +1124,12 @@
     ],
     [
       "Essentials",
+      "home",
+      "essentials.home",
+      "Allows access to the /home command"
+    ],
+    [
+      "Essentials",
       "sethome",
       "essentials.sethome",
       "Allow access to the /sethome command."
@@ -1127,6 +1157,18 @@
       "sethome",
       "essentials.sethome.others",
       "Allows you to change another users home location."
+    ],
+    [
+      "Essentials",
+      "delhome",
+      "essentials.delhome",
+      "Allow access to the /delhome command."
+    ],
+    [
+      "Essentials",
+      "delhome",
+      "essentials.delhome.others",
+      "Allows you to delete the homes of other players."
     ],
     [
       "Essentials",
@@ -1517,18 +1559,6 @@
       "tree",
       "essentials.tree",
       "Allow access to the /tree command."
-    ],
-    [
-      "Essentials",
-      "unban",
-      "essentials.unban",
-      "Allow access to the /unban command."
-    ],
-    [
-      "Essentials",
-      "unbanip",
-      "essentials.unbanip",
-      "Allow access to the /unbanip command."
     ],
     [
       "Essentials",
@@ -2204,18 +2234,6 @@
     ],
     [
       "Essentials",
-      "afk",
-      "essentials.afk.auto",
-      "Players with this permission will be set to afk after a period of inaction as defined in the config file."
-    ],
-    [
-      "Essentials",
-      "afk",
-      "essentials.afk.kickexempt",
-      "Exempts the user from being auto kicked for AFK"
-    ],
-    [
-      "Essentials",
       "help",
       "essentials.help.[pluginname]",
       "Manually adds the commands from a plugin to this group's /help. Name is all lowercase."
@@ -2600,12 +2618,6 @@
     ],
     [
       "Essentials",
-      "kickall",
-      "essentials.kickall.exempt",
-      "Be exempt from the /kickall command."
-    ],
-    [
-      "Essentials",
       "gamemode",
       "essentials.gamemode.creative",
       "Allow access to the /gamemode creative command. Also requires essentials.gamemode"
@@ -2684,12 +2696,6 @@
     ],
     [
       "Essentials",
-      "home",
-      "essentials.home",
-      "Allows access to the /home command"
-    ],
-    [
-      "Essentials",
       "balancetop",
       "essentials.balancetop.exclude",
       "Players with this permission are excluded from the balancetop"
@@ -2699,12 +2705,6 @@
       "hat",
       "essentials.hat.prevent-type.<item-name>",
       "Give this permission to users to prevent them using this type of item in /hat"
-    ],
-    [
-      "Essentials",
-      "delkit",
-      "essentials.delkit",
-      "Allow access to the /delkit command"
     ]
   ]
 }
