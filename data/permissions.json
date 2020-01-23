@@ -1719,38 +1719,8 @@
     [
       "EssentialsAntiBuild",
       null,
-      "essentials.build.break.&lt;id&gt;[:datavalue]",
-      "Allows breaking of a block."
-    ],
-    [
-      "EssentialsAntiBuild",
-      null,
-      "essentials.build.craft.&lt;id&gt;[:datavalue]",
-      "Allows crafting of an item."
-    ],
-    [
-      "EssentialsAntiBuild",
-      null,
-      "essentials.build.drop.&lt;id&gt;[:datavalue]",
-      "Allows dropping of an item."
-    ],
-    [
-      "EssentialsAntiBuild",
-      null,
-      "essentials.build.interact.&lt;id&gt;[:datavalue]",
-      "Allows interacting with a blocks or item."
-    ],
-    [
-      "EssentialsAntiBuild",
-      null,
-      "essentials.build.pickup.&lt;id&gt;[:datavalue]",
-      "Allows collecting of an item."
-    ],
-    [
-      "EssentialsAntiBuild",
-      null,
-      "essentials.build.place.&lt;id&gt;[:datavalue]",
-      "Allows placing a block."
+      "essentials.build.<action>.<material>",
+      "Allows executing <action> for <material>, action being place, break, interact, craft, drop or pickup."
     ],
     [
       "EssentialsChat",
