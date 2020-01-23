@@ -574,7 +574,7 @@
       "Essentials",
       "invsee",
       "essentials.invsee.equip",
-      "Allow access to see someones equiped armor slots in \"/invsee &lt;name&gt; [armor]\""
+      "Allow access to see someones equiped armor slots in \"/invsee <name> [armor]\""
     ],
     [
       "Essentials",
@@ -2217,7 +2217,7 @@
     [
       "Essentials",
       "togglejail",
-      "essentials.jail.allow.&lt;command&gt;",
+      "essentials.jail.allow.<command>",
       "Allows essentials commands to be used while jailed (requires regular perm)."
     ],
     [
@@ -2301,67 +2301,67 @@
     [
       "Essentials",
       "back",
-      "essentials.worlds.&lt;worldname&gt;",
+      "essentials.worlds.<worldname>",
       "Allows players access to a specific world."
     ],
     [
       "Essentials",
       "home",
-      "essentials.worlds.&lt;worldname&gt;",
+      "essentials.worlds.<worldname>",
       "Allows players access to a specific world."
     ],
     [
       "Essentials",
       "tp",
-      "essentials.worlds.&lt;worldname&gt;",
+      "essentials.worlds.<worldname>",
       "Allows players access to a specific world."
     ],
     [
       "Essentials",
       "tpa",
-      "essentials.worlds.&lt;worldname&gt;",
+      "essentials.worlds.<worldname>",
       "Allows players access to a specific world."
     ],
     [
       "Essentials",
       "tpaall",
-      "essentials.worlds.&lt;worldname&gt;",
+      "essentials.worlds.<worldname>",
       "Allows Essentialsing player to a specific world."
     ],
     [
       "Essentials",
       "tpahere",
-      "essentials.worlds.&lt;worldname&gt;",
+      "essentials.worlds.<worldname>",
       "Allows Essentialsing players to a specific world."
     ],
     [
       "Essentials",
       "tpall",
-      "essentials.worlds.&lt;worldname&gt;",
+      "essentials.worlds.<worldname>",
       "Allows Essentialsing players to a specific world."
     ],
     [
       "Essentials",
       "tphere",
-      "essentials.worlds.&lt;worldname&gt;",
+      "essentials.worlds.<worldname>",
       "Allows players access to a specific world."
     ],
     [
       "Essentials",
       "tpo",
-      "essentials.worlds.&lt;worldname&gt;",
+      "essentials.worlds.<worldname>",
       "Allows players access to a specific world."
     ],
     [
       "Essentials",
       "tpohere",
-      "essentials.worlds.&lt;worldname&gt;",
+      "essentials.worlds.<worldname>",
       "Allows players access to a specific world."
     ],
     [
       "Essentials",
       "world",
-      "essentials.worlds.&lt;worldname&gt;",
+      "essentials.worlds.<worldname>",
       "Allows players access to a specific world."
     ],
     [
@@ -2439,8 +2439,8 @@
     [
       "Essentials",
       "give",
-      "essentials.itemspawn.item-&lt;itemname&gt;",
-      "If permission-based-item-spawn: Spawn &lt;itemname&gt;"
+      "essentials.itemspawn.item-<itemname>",
+      "If permission-based-item-spawn: Spawn <itemname>"
     ],
     [
       "Essentials",
@@ -2577,7 +2577,7 @@
     [
       "Essentials",
       "back",
-      "essentials.back.into.&lt;worldname&gt;",
+      "essentials.back.into.<worldname>",
       "Allows access to /back when the destination location is within the specified world"
     ],
     [
