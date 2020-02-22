@@ -602,6 +602,18 @@
     ],
     [
       "Essentials",
+      "itemname",
+      "essentials.itemname",
+      "Allows access to the /itemname command."
+    ],
+    [
+      "Essentials",
+      "itemname",
+      "essentials.itemname.<effect>",
+      "Gives access to use <effect> in the /itemname command. <effect> examples: bold, reset, gold, dark_red, *"
+    ],
+    [
+      "Essentials",
       "more",
       "essentials.itemspawn.exempt",
       "Allows spawning of items on the spawn blacklist."
