@@ -786,6 +786,13 @@
     ],
     [
       "Essentials",
+      "beezooka",
+      "ebeezooka, beecannon, ebeecannon",
+      "Throw an exploding bee at your opponent.",
+      "/<command>"
+    ],
+    [
+      "Essentials",
       "nick",
       "enick,nickname,enickname",
       "Change your nickname or that of another player.",

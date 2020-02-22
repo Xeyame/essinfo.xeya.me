@@ -740,6 +740,12 @@
     ],
     [
       "Essentials",
+      "beezooka",
+      "essentials.beezooka",
+      "Allow access to the /beezooka command"
+    ],
+    [
+      "Essentials",
       "lightning",
       "essentials.lightning",
       "Allow access to the /lightning command."
