@@ -1867,343 +1867,343 @@
       "Allows a player to examine protected objects to find their owner."
     ],
     [
-      "EssentialsProtect",
+      "Essentials",
       null,
       "essentials.signs.break.balance",
       "Controls who can break balance signs."
     ],
     [
-      "EssentialsProtect",
+      "Essentials",
       null,
       "essentials.signs.break.buy",
       "Controls who can break buy signs."
     ],
     [
-      "EssentialsProtect",
+      "Essentials",
       null,
       "essentials.signs.break.disposal",
       "Controls who can break disposal signs."
     ],
     [
-      "EssentialsProtect",
+      "Essentials",
       null,
       "essentials.signs.break.enchant",
       "Controls who can break enchant signs."
     ],
     [
-      "EssentialsProtect",
+      "Essentials",
       null,
       "essentials.signs.break.free",
       "Controls who can break free signs."
     ],
     [
-      "EssentialsProtect",
+      "Essentials",
       null,
       "essentials.signs.break.gamemode",
       "Controls who can break gamemode signs."
     ],
     [
-      "EssentialsProtect",
+      "Essentials",
       null,
       "essentials.signs.break.heal",
       "Controls who can break heal signs."
     ],
     [
-      "EssentialsProtect",
+      "Essentials",
       null,
       "essentials.signs.break.info",
       "Controls who can break info signs."
     ],
     [
-      "EssentialsProtect",
+      "Essentials",
       null,
       "essentials.signs.break.kit",
       "Controls who can break kit signs."
     ],
     [
-      "EssentialsProtect",
+      "Essentials",
       null,
       "essentials.signs.break.mail",
       "Controls who can break a mail sign."
     ],
     [
-      "EssentialsProtect",
+      "Essentials",
       null,
       "essentials.signs.break.protection",
       "Controls who can break a protection sign. Typically given to everybody."
     ],
     [
-      "EssentialsProtect",
+      "Essentials",
       null,
       "essentials.signs.break.repair",
       "Controls who can break repair signs."
     ],
     [
-      "EssentialsProtect",
+      "Essentials",
       null,
       "essentials.signs.break.sell",
       "Controls who can break sell signs."
     ],
     [
-      "EssentialsProtect",
+      "Essentials",
       null,
       "essentials.signs.break.spawnmob",
       "Controls who can break spawnmob signs."
     ],
     [
-      "EssentialsProtect",
+      "Essentials",
       null,
       "essentials.signs.break.time",
       "Controls who can break time signs."
     ],
     [
-      "EssentialsProtect",
+      "Essentials",
       null,
       "essentials.signs.break.trade",
       "Controls who can break trade signs."
     ],
     [
-      "EssentialsProtect",
+      "Essentials",
       null,
       "essentials.signs.break.warp",
       "Controls who can break warp signs."
     ],
     [
-      "EssentialsProtect",
+      "Essentials",
       null,
       "essentials.signs.break.weather",
       "Controls who can break weather signs."
     ],
     [
-      "EssentialsProtect",
+      "Essentials",
       null,
       "essentials.signs.color",
       "This allows you to color your signs using color codes."
     ],
     [
-      "EssentialsProtect",
+      "Essentials",
       null,
       "essentials.signs.create.balance",
       "Controls who can create balance signs."
     ],
     [
-      "EssentialsProtect",
+      "Essentials",
       null,
       "essentials.signs.create.buy",
       "Controls who can create buy signs."
     ],
     [
-      "EssentialsProtect",
+      "Essentials",
       null,
       "essentials.signs.create.disposal",
       "Controls who can create disposal signs."
     ],
     [
-      "EssentialsProtect",
+      "Essentials",
       null,
       "essentials.signs.create.enchant",
       "Controls who can create enchant signs."
     ],
     [
-      "EssentialsProtect",
+      "Essentials",
       null,
       "essentials.signs.create.free",
       "Controls who can create free signs."
     ],
     [
-      "EssentialsProtect",
+      "Essentials",
       null,
       "essentials.signs.create.gamemode",
       "Controls who can create gamemode signs."
     ],
     [
-      "EssentialsProtect",
+      "Essentials",
       null,
       "essentials.signs.create.heal",
       "Controls who can create heal signs."
     ],
     [
-      "EssentialsProtect",
+      "Essentials",
       null,
       "essentials.signs.create.info",
       "Controls who can create info signs."
     ],
     [
-      "EssentialsProtect",
+      "Essentials",
       null,
       "essentials.signs.create.kit",
       "Controls who can create kit signs."
     ],
     [
-      "EssentialsProtect",
+      "Essentials",
       null,
       "essentials.signs.create.mail",
       "Controls who can create a mail sign."
     ],
     [
-      "EssentialsProtect",
+      "Essentials",
       null,
       "essentials.signs.create.protection",
       "Controls who can create a protection sign."
     ],
     [
-      "EssentialsProtect",
+      "Essentials",
       null,
       "essentials.signs.create.repair",
       "Controls who can create repair signs."
     ],
     [
-      "EssentialsProtect",
+      "Essentials",
       null,
       "essentials.signs.create.sell",
       "Controls who can create sell signs."
     ],
     [
-      "EssentialsProtect",
+      "Essentials",
       null,
       "essentials.signs.create.spawnmob",
       "Controls who can create spawnmob signs."
     ],
     [
-      "EssentialsProtect",
+      "Essentials",
       null,
       "essentials.signs.create.time",
       "Controls who can create time signs."
     ],
     [
-      "EssentialsProtect",
+      "Essentials",
       null,
       "essentials.signs.create.trade",
       "Controls who can create trade signs."
     ],
     [
-      "EssentialsProtect",
+      "Essentials",
       null,
       "essentials.signs.create.warp",
       "Controls who can create warp signs."
     ],
     [
-      "EssentialsProtect",
+      "Essentials",
       null,
       "essentials.signs.create.weather",
       "Controls who can create weather signs."
     ],
     [
-      "EssentialsProtect",
+      "Essentials",
       null,
       "essentials.signs.format",
       "This allows you to format your signs using format codes."
     ],
     [
-      "EssentialsProtect",
+      "Essentials",
       null,
       "essentials.signs.magic",
       "This allows you to use the matrix/magic color in your signs."
     ],
     [
-      "EssentialsProtect",
+      "Essentials",
       null,
       "essentials.signs.use.balance",
       "Controls who can use balance signs."
     ],
     [
-      "EssentialsProtect",
+      "Essentials",
       null,
       "essentials.signs.use.buy",
       "Controls who can use buy signs."
     ],
     [
-      "EssentialsProtect",
+      "Essentials",
       null,
       "essentials.signs.use.disposal",
       "Controls who can use disposal signs."
     ],
     [
-      "EssentialsProtect",
+      "Essentials",
       null,
       "essentials.signs.use.enchant",
       "Controls who can use enchant signs."
     ],
     [
-      "EssentialsProtect",
+      "Essentials",
       null,
       "essentials.signs.use.free",
       "Controls who can use free signs."
     ],
     [
-      "EssentialsProtect",
+      "Essentials",
       null,
       "essentials.signs.use.gamemode",
       "Controls who can use gamemode signs."
     ],
     [
-      "EssentialsProtect",
+      "Essentials",
       null,
       "essentials.signs.use.heal",
       "Controls who can use heal signs."
     ],
     [
-      "EssentialsProtect",
+      "Essentials",
       null,
       "essentials.signs.use.info",
       "Controls who can use info signs."
     ],
     [
-      "EssentialsProtect",
+      "Essentials",
       null,
       "essentials.signs.use.kit",
       "Controls who can use kit signs."
     ],
     [
-      "EssentialsProtect",
+      "Essentials",
       null,
       "essentials.signs.use.mail",
       "Controls who can use a mail sign."
     ],
     [
-      "EssentialsProtect",
+      "Essentials",
       null,
       "essentials.signs.use.protection",
       "Controls who can use a protection sign. Typically given to everybody."
     ],
     [
-      "EssentialsProtect",
+      "Essentials",
       null,
       "essentials.signs.use.repair",
       "Controls who can use repair signs."
     ],
     [
-      "EssentialsProtect",
+      "Essentials",
       null,
       "essentials.signs.use.sell",
       "Controls who can use sell signs."
     ],
     [
-      "EssentialsProtect",
+      "Essentials",
       null,
       "essentials.signs.use.spawnmob",
       "Controls who can use spawnmob signs."
     ],
     [
-      "EssentialsProtect",
+      "Essentials",
       null,
       "essentials.signs.use.time",
       "Controls who can use time signs."
     ],
     [
-      "EssentialsProtect",
+      "Essentials",
       null,
       "essentials.signs.use.trade",
       "Controls who can use trade signs."
     ],
     [
-      "EssentialsProtect",
+      "Essentials",
       null,
       "essentials.signs.use.warp",
       "Controls who can use warp signs."
     ],
     [
-      "EssentialsProtect",
+      "Essentials",
       null,
       "essentials.signs.use.weather",
       "Controls who can use weather signs."
