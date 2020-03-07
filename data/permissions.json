@@ -1797,12 +1797,6 @@
     [
       "EssentialsProtect",
       null,
-      "essentials.protect.admin",
-      "Allows the destruction of signs and rails."
-    ],
-    [
-      "EssentialsProtect",
-      null,
       "essentials.protect.damage.contact",
       "Player will receive contact damage"
     ],
