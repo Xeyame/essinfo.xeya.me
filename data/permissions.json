@@ -169,12 +169,6 @@
       "Allow access to the /broadcastworld command."
     ],
     [
-      "EssentialsAntiBuild",
-      null,
-      "essentials.build",
-      "Allows people to build when using permission systems which don't support build toggles."
-    ],
-    [
       "Essentials",
       "burn",
       "essentials.burn",
@@ -961,54 +955,6 @@
       "Allow access to the /powertooltoggle command."
     ],
     [
-      "EssentialsAntiBuild",
-      null,
-      "essentials.protect.alerts",
-      "Allows a player to recieve protect alerts."
-    ],
-    [
-      "EssentialsAntiBuild",
-      null,
-      "essentials.protect.alerts.notrigger",
-      "Users with this permission do not trigger protect alerts."
-    ],
-    [
-      "EssentialsProtect",
-      null,
-      "essentials.protect.damage.disable",
-      "Admin override to prevent admins from dying"
-    ],
-    [
-      "EssentialsProtect",
-      null,
-      "essentials.protect.entitytarget.bypass",
-      "Allows a player to be targeted by mobs."
-    ],
-    [
-      "EssentialsAntiBuild",
-      null,
-      "essentials.protect.exemptbreak",
-      "Allows a player to ignore the break blacklist."
-    ],
-    [
-      "EssentialsAntiBuild",
-      null,
-      "essentials.protect.exemptplacement",
-      "Allows a player to ignore the block placement blacklist."
-    ],
-    [
-      "EssentialsAntiBuild",
-      null,
-      "essentials.protect.exemptusage",
-      "Allows a player to ignore the usage blacklist."
-    ],
-    [
-      "EssentialsProtect",
-      null,
-      "essentials.protect.pvp",
-      "When prevent PVP is set to true, this allows players to still PVP. Both attacker and defender need to have this permission."
-    ],
-    [
       "Essentials",
       "ptime",
       "essentials.ptime",
@@ -1211,12 +1157,6 @@
       "setworth",
       "essentials.setworth",
       "Allow access to the /setworth command."
-    ],
-    [
-      "EssentialsXMPP",
-      "setxmpp",
-      "essentials.setxmpp",
-      "Allow access to the /setxmpp command."
     ],
     [
       "Essentials",
@@ -1681,18 +1621,6 @@
       "Allow access to the /worth command."
     ],
     [
-      "EssentialsXMPP",
-      "xmpp",
-      "essentials.xmpp",
-      "Allow access to the /xmpp command."
-    ],
-    [
-      "EssentialsXMPP",
-      "xmppspy",
-      "essentials.xmppspy",
-      "Allow access to the /xmppspy command."
-    ],
-    [
       "Essentials",
       "fly",
       "essentials.fly.others",
@@ -1735,124 +1663,10 @@
       "Allow to see someone's ip-address and location in /seen"
     ],
     [
-      "EssentialsAntiBuild",
-      null,
-      "essentials.build.<action>.<material>",
-      "Allows executing <action> for <material>, action being place, break, interact, craft, drop or pickup."
-    ],
-    [
-      "EssentialsChat",
-      null,
-      "essentials.chat.color",
-      "This allows you to color your chat messages using color codes."
-    ],
-    [
-      "EssentialsChat",
-      null,
-      "essentials.chat.format",
-      "This allows you to format your chat messages using format codes."
-    ],
-    [
-      "EssentialsChat",
-      null,
-      "essentials.chat.magic",
-      "This allows you to use the matrix/magic color in your chat messages."
-    ],
-    [
-      "EssentialsChat",
-      null,
-      "essentials.chat.question",
-      "This allows you to send global questions, used if a chat-radius is configured."
-    ],
-    [
-      "EssentialsChat",
-      null,
-      "essentials.chat.shout",
-      "This allows you to send global messages, used if a chat-raidus is configured."
-    ],
-    [
-      "EssentialsChat",
-      null,
-      "essentials.chat.spy",
-      "A permission designed for admins, to intercept all local messages (ignoring the chat-radius)."
-    ],
-    [
-      "EssentialsChat",
-      null,
-      "essentials.chat.url",
-      "This allows you to use urls in your chat messages."
-    ],
-    [
       "Essentials",
       null,
       "essentials.nocommandcost.[command]",
       "Removes the command cost of a given command."
-    ],
-    [
-      "EssentialsProtect",
-      null,
-      "essentials.protect.damage.contact",
-      "Player will receive contact damage"
-    ],
-    [
-      "EssentialsProtect",
-      null,
-      "essentials.protect.damage.creeper",
-      "Player will receive creeper damage"
-    ],
-    [
-      "EssentialsProtect",
-      null,
-      "essentials.protect.damage.drowning",
-      "Player will receive drowning damage"
-    ],
-    [
-      "EssentialsProtect",
-      null,
-      "essentials.protect.damage.fall",
-      "Player will receive fall damage"
-    ],
-    [
-      "EssentialsProtect",
-      null,
-      "essentials.protect.damage.fire",
-      "Player will receive fire damage"
-    ],
-    [
-      "EssentialsProtect",
-      null,
-      "essentials.protect.damage.fireball",
-      "Player will receive fireball damage"
-    ],
-    [
-      "EssentialsProtect",
-      null,
-      "essentials.protect.damage.lava",
-      "Player will receive lava damage"
-    ],
-    [
-      "EssentialsProtect",
-      null,
-      "essentials.protect.damage.lightning",
-      "Player will receive lightning damage"
-    ],
-    [
-      "EssentialsProtect",
-      null,
-      "essentials.protect.damage.projectiles",
-      "Player will receive projectile damage"
-    ],
-    [
-      "EssentialsProtect",
-      null,
-      "essentials.protect.damage.suffocation",
-      "Player will receive suffocation damage"
-    ],
-    [
-      "EssentialsProtect",
-      null,
-      "essentials.protect.damage.tnt",
-      "Player will receive tnt damage"
     ],
     [
       "Essentials",
@@ -2675,6 +2489,192 @@
       "hat",
       "essentials.hat.prevent-type.<item-name>",
       "Give this permission to users to prevent them using this type of item in /hat"
+    ],
+    [
+      "EssentialsChat",
+      null,
+      "essentials.chat.color",
+      "This allows you to color your chat messages using color codes."
+    ],
+    [
+      "EssentialsChat",
+      null,
+      "essentials.chat.format",
+      "This allows you to format your chat messages using format codes."
+    ],
+    [
+      "EssentialsChat",
+      null,
+      "essentials.chat.magic",
+      "This allows you to use the matrix/magic color in your chat messages."
+    ],
+    [
+      "EssentialsChat",
+      null,
+      "essentials.chat.question",
+      "This allows you to send global questions, used if a chat-radius is configured."
+    ],
+    [
+      "EssentialsChat",
+      null,
+      "essentials.chat.shout",
+      "This allows you to send global messages, used if a chat-raidus is configured."
+    ],
+    [
+      "EssentialsChat",
+      null,
+      "essentials.chat.spy",
+      "A permission designed for admins, to intercept all local messages (ignoring the chat-radius)."
+    ],
+    [
+      "EssentialsChat",
+      null,
+      "essentials.chat.url",
+      "This allows you to use urls in your chat messages."
+    ],
+    [
+      "EssentialsAntiBuild",
+      null,
+      "essentials.build",
+      "Allows people to build when using permission systems which don't support build toggles."
+    ],
+    [
+      "EssentialsAntiBuild",
+      null,
+      "essentials.build.<action>.<material>",
+      "Allows executing <action> for <material>, action being place, break, interact, craft, drop or pickup."
+    ],
+    [
+      "EssentialsAntiBuild",
+      null,
+      "essentials.protect.alerts",
+      "Allows a player to recieve protect alerts."
+    ],
+    [
+      "EssentialsAntiBuild",
+      null,
+      "essentials.protect.alerts.notrigger",
+      "Users with this permission do not trigger protect alerts."
+    ],
+    [
+      "EssentialsAntiBuild",
+      null,
+      "essentials.protect.exemptbreak",
+      "Allows a player to ignore the break blacklist."
+    ],
+    [
+      "EssentialsAntiBuild",
+      null,
+      "essentials.protect.exemptplacement",
+      "Allows a player to ignore the block placement blacklist."
+    ],
+    [
+      "EssentialsAntiBuild",
+      null,
+      "essentials.protect.exemptusage",
+      "Allows a player to ignore the usage blacklist."
+    ],
+    [
+      "EssentialsProtect",
+      null,
+      "essentials.protect.entitytarget.bypass",
+      "Allows a player to be targeted by mobs."
+    ],
+    [
+      "EssentialsProtect",
+      null,
+      "essentials.protect.pvp",
+      "When prevent PVP is set to true, this allows players to still PVP. Both attacker and defender need to have this permission."
+    ],
+    [
+      "EssentialsProtect",
+      null,
+      "essentials.protect.damage.disable",
+      "Admin override to prevent admins from dying"
+    ],
+    [
+      "EssentialsProtect",
+      null,
+      "essentials.protect.damage.contact",
+      "Player will receive contact damage"
+    ],
+    [
+      "EssentialsProtect",
+      null,
+      "essentials.protect.damage.creeper",
+      "Player will receive creeper damage"
+    ],
+    [
+      "EssentialsProtect",
+      null,
+      "essentials.protect.damage.drowning",
+      "Player will receive drowning damage"
+    ],
+    [
+      "EssentialsProtect",
+      null,
+      "essentials.protect.damage.fall",
+      "Player will receive fall damage"
+    ],
+    [
+      "EssentialsProtect",
+      null,
+      "essentials.protect.damage.fire",
+      "Player will receive fire damage"
+    ],
+    [
+      "EssentialsProtect",
+      null,
+      "essentials.protect.damage.fireball",
+      "Player will receive fireball damage"
+    ],
+    [
+      "EssentialsProtect",
+      null,
+      "essentials.protect.damage.lava",
+      "Player will receive lava damage"
+    ],
+    [
+      "EssentialsProtect",
+      null,
+      "essentials.protect.damage.lightning",
+      "Player will receive lightning damage"
+    ],
+    [
+      "EssentialsProtect",
+      null,
+      "essentials.protect.damage.projectiles",
+      "Player will receive projectile damage"
+    ],
+    [
+      "EssentialsProtect",
+      null,
+      "essentials.protect.damage.suffocation",
+      "Player will receive suffocation damage"
+    ],
+    [
+      "EssentialsProtect",
+      null,
+      "essentials.protect.damage.tnt",
+      "Player will receive tnt damage"
+    ],
+    [
+      "EssentialsXMPP",
+      "setxmpp",
+      "essentials.setxmpp",
+      "Allow access to the /setxmpp command."
+    ],
+    [
+      "EssentialsXMPP",
+      "xmpp",
+      "essentials.xmpp",
+      "Allow access to the /xmpp command."
+    ],
+    [
+      "EssentialsXMPP",
+      "xmppspy",
+      "essentials.xmppspy",
+      "Allow access to the /xmppspy command."
     ]
   ]
 }
