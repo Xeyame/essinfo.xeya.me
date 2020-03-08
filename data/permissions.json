@@ -1791,12 +1791,6 @@
     [
       "EssentialsProtect",
       null,
-      "essentials.protect",
-      "Allows the protection of rails and signs, otherwise they are not protected."
-    ],
-    [
-      "EssentialsProtect",
-      null,
       "essentials.protect.damage.contact",
       "Player will receive contact damage"
     ],
@@ -1859,12 +1853,6 @@
       null,
       "essentials.protect.damage.tnt",
       "Player will receive tnt damage"
-    ],
-    [
-      "EssentialsProtect",
-      null,
-      "essentials.protect.ownerinfo",
-      "Allows a player to examine protected objects to find their owner."
     ],
     [
       "Essentials",
