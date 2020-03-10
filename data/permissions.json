@@ -445,18 +445,6 @@
       "Allow access to the /gc command."
     ],
     [
-      "EssentialsGeoIP",
-      null,
-      "essentials.geoip.hide",
-      "Allows you to hide your country and city from people who have permission essentials.geoip.show"
-    ],
-    [
-      "Essentials",
-      "whois",
-      "essentials.geoip.show",
-      "Shows the GeoIP location of a player, if the GeoIP module is installed."
-    ],
-    [
       "Essentials",
       "getpos",
       "essentials.getpos",
@@ -2675,6 +2663,18 @@
       "xmppspy",
       "essentials.xmppspy",
       "Allow access to the /xmppspy command."
+    ],
+    [
+      "EssentialsGeoIP",
+      null,
+      "essentials.geoip.hide",
+      "Allows you to hide your country and city from people who have permission essentials.geoip.show"
+    ],
+    [
+      "EssentialsGeoIP",
+      "whois",
+      "essentials.geoip.show",
+      "Shows the GeoIP location of a player, if the GeoIP module is installed."
     ]
   ]
 }
