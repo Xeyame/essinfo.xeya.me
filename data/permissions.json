@@ -819,6 +819,12 @@
     [
       "Essentials",
       "mute",
+      "essentials.mute.unlimited",
+      "Allow overriding the max-mute-time set in the config"
+    ],
+    [
+      "Essentials",
+      "mute",
       "essentials.mute.offline",
       "Allows muting of players who are offline. This may allow you to mute exempt players."
     ],
