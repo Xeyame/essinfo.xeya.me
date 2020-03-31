@@ -872,6 +872,12 @@
     ],
     [
       "Essentials",
+      "near",
+      "essentials.near.exclude",
+      "Player gets excluded from /near lookup."
+    ],
+    [
+      "Essentials",
       "nick",
       "essentials.nick",
       "Allow access to the /nick command."
