@@ -177,6 +177,13 @@
     ],
     [
       "Essentials",
+      "tpoffline",
+      "otp, offlinetp, tpoff, tpoffline",
+      "Teleport to a player's last known logout location",
+      "/<command> <player>"
+    ],
+    [
+      "Essentials",
       "setworth",
       "esetworth",
       "Set the sell value of an item.",

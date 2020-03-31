@@ -1460,6 +1460,12 @@
     ],
     [
       "Essentials",
+      "tpoffline",
+      "essentials.tpoffline",
+      "Allow teleporting to a player's logout location using /tpoffline"
+    ],
+    [
+      "Essentials",
       "tpaccept",
       "essentials.tpa",
       "Allow access to the /tpa command."
