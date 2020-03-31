@@ -626,6 +626,30 @@
     ],
     [
       "Essentials",
+      "jail",
+      "essentials.jail.allow-break",
+      "Allow breaking blocks whilst jailed. (Might also want to add essentials.jail.allow-block-damage)"
+    ],
+    [
+      "Essentials",
+      "jail",
+      "essentials.jail.allow-place",
+      "Allow placing blocks whilst jailed"
+    ],
+    [
+      "Essentials",
+      "jail",
+      "essentials.jail.allow-block-damage",
+      "Allow damaging blocks whilst jailed. (Might also want to add essentials.jail.allow-break)"
+    ],
+    [
+      "Essentials",
+      "jail",
+      "essentials.jail.allow-interact",
+      "Allow interacting whilst jailed"
+    ],
+    [
+      "Essentials",
       null,
       "essentials.joinfullserver",
       "Player can join when the server is full."
