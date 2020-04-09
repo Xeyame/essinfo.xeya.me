@@ -676,8 +676,8 @@
       "Essentials",
       "fireball",
       "fireskull",
-      "Throw a fireball.",
-      "/<command> [small|skull]"
+      "Throw a fireball or other assorted projectiles.",
+      "/<command> [fireball|small|large|arrow|skull|egg|snowball|expbottle|dragon|splashpotion|lingeringpotion|trident] [speed]"
     ],
     [
       "Essentials",
