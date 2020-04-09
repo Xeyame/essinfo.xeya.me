@@ -388,7 +388,79 @@
       "Essentials",
       "fireball",
       "essentials.fireball",
-      "Allow access to the /fireball command."
+      "Allow access to the /fireball command. Note: you also need specific permissions for each projectile."
+    ],
+    [
+      "Essentials",
+      "fireball",
+      "essentials.fireball.fireball",
+      "Allow firing regular fireballs."
+    ],
+    [
+      "Essentials",
+      "fireball",
+      "essentials.fireball.small",
+      "Allow firing small fireballs."
+    ],
+    [
+      "Essentials",
+      "fireball",
+      "essentials.fireball.large",
+      "Allow firing large fireballs."
+    ],
+    [
+      "Essentials",
+      "fireball",
+      "essentials.fireball.arrow",
+      "Allow firing arrows."
+    ],
+    [
+      "Essentials",
+      "fireball",
+      "essentials.fireball.skull",
+      "Allow firing wither skulls."
+    ],
+    [
+      "Essentials",
+      "fireball",
+      "essentials.fireball.egg",
+      "Allow firing eggs."
+    ],
+    [
+      "Essentials",
+      "fireball",
+      "essentials.fireball.snowball",
+      "Allow firing frozen fireballs."
+    ],
+    [
+      "Essentials",
+      "fireball",
+      "essentials.fireball.expbottle",
+      "Allow firing experience bottles."
+    ],
+    [
+      "Essentials",
+      "fireball",
+      "essentials.fireball.dragon",
+      "Allow firing Ender Dragon fireballs."
+    ],
+    [
+      "Essentials",
+      "fireball",
+      "essentials.fireball.splashpotion",
+      "Allow firing splash potions."
+    ],
+    [
+      "Essentials",
+      "fireball",
+      "essentials.fireball.lingeringpotion",
+      "Allow firing lingering potions."
+    ],
+    [
+      "Essentials",
+      "fireball",
+      "essentials.fireball.trident",
+      "Allow firing tridents."
     ],
     [
       "Essentials",
