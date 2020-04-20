@@ -647,7 +647,7 @@
     [
       "Essentials",
       "broadcast",
-      "ebcast",
+      "ebcast, bc, bcast, ebc",
       "Broadcasts a message to the entire server.",
       "/<command> <msg>"
     ],
