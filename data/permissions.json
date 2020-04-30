@@ -1544,7 +1544,7 @@
     ],
     [
       "Essentials",
-      "tpaccept",
+      "tpa",
       "essentials.tpa",
       "Allow access to the /tpa command."
     ],
