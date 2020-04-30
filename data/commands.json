@@ -128,6 +128,13 @@
     ],
     [
       "Essentials",
+      "whois",
+      "ewhois",
+      "Displays player information",
+      "/<command> <nickname|playername>"
+    ],
+    [
+      "Essentials",
       "essentials",
       "eessentials, ess, eess, essversion",
       "Reloads essentials.",
