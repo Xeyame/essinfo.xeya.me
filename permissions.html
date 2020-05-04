@@ -8,6 +8,8 @@
 
         <script src="https://cdn.datatables.net/v/bs4-4.1.1/jq-3.3.1/dt-1.10.18/datatables.min.js"></script>
 
+        <script src="./includes/notify.min.js"></script>
+
         <script>
             $(document).ready(function() {
                 $('#main').DataTable( {
@@ -39,12 +41,33 @@
                         }
                     ]
                 } );
+
+                $.notify.addStyle('copy', {
+                    html: "<div>&#x2714; <span data-notify-text/></div>",
+                    classes: {
+                        base: {
+                        "background-color": "darkgray",
+                        "padding": "5px",
+                        "color": "white"
+                        }
+                    }
+                });
+
                 $('#main').on('click', 'tbody td', function() {
-                    document.getElementById("copyTextarea").value = this.textContent;
-                    document.getElementById("copyTextarea").hidden = false;
-                    document.getElementById("copyTextarea").select();
-                    document.execCommand("copy");
-                    document.getElementById("copyTextarea").hidden = true;
+                    
+                    //get column name
+                    var columnNum = $('#main').DataTable().cell(this).index().column;
+                    var columnName = $('#main').DataTable().column(columnNum).header().innerHTML;
+
+                    if (columnName == "Permission") {
+                        document.getElementById("copyTextarea").value = $('#main').DataTable().cell(this).data();
+                        document.getElementById("copyTextarea").hidden = false;
+                        document.getElementById("copyTextarea").select();
+                        document.execCommand("copy");
+                        document.getElementById("copyTextarea").hidden = true;
+                        $.notify('Copied to clipboard', { style: 'copy', autoHideDelay: 1500, });
+                    }
+
                 });
             } );
 
