@@ -2158,13 +2158,13 @@
       "Essentials",
       "spawner",
       "essentials.spawner.*",
-      "Allows the spawning of all mobs"
+      "Allows setting a spawner to any mob type"
     ],
     [
       "Essentials",
       "spawner",
       "essentials.spawner.[mob]",
-      "Allows access to spawn a specific mob"
+      "Allows setting a spawner to a specific mob type"
     ],
     [
       "Essentials",
