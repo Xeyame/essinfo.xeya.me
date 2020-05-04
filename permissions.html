@@ -6,6 +6,12 @@
         <meta name="viewport" content="width=device-width, initial-scale=1">
         <link rel="stylesheet" type="text/css" href="https://stackpath.bootstrapcdn.com/bootswatch/4.3.1/darkly/bootstrap.min.css" />
 
+        <style>
+            code {
+                cursor: copy;
+            }
+        </style>
+
         <script src="https://cdn.datatables.net/v/bs4-4.1.1/jq-3.3.1/dt-1.10.18/datatables.min.js"></script>
 
         <script src="./includes/notify.min.js"></script>
@@ -65,7 +71,7 @@
                         document.getElementById("copyTextarea").select();
                         document.execCommand("copy");
                         document.getElementById("copyTextarea").hidden = true;
-                        $.notify('Copied to clipboard', { style: 'copy', autoHideDelay: 1500, });
+                        $.notify('Copied to clipboard', { style: 'copy', autoHideDelay: 1500, position: "bottom-right"});
                     }
 
                 });
