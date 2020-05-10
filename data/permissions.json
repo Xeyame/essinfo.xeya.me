@@ -2307,7 +2307,7 @@
     [
       "Essentials",
       "banip",
-      "essentials.ban.notify",
+      "essentials.banip.notify",
       "Players with this permission will receive a notification when an IP ban is set."
     ],
     [
@@ -2325,7 +2325,7 @@
     [
       "Essentials",
       "unbanip",
-      "essentials.ban.notify",
+      "essentials.banip.notify",
       "Players with this permission will receive a notification when an IP ban is removed."
     ],
     [
