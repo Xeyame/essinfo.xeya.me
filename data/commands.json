@@ -289,6 +289,13 @@
     ],
     [
       "Essentials",
+      "rest",
+      "erest",
+      "Rests you or the given player.",
+      "/<command> [player]"
+    ],
+    [
+      "Essentials",
       "rules",
       "erules",
       "Views the server rules.",

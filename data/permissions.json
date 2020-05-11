@@ -1130,6 +1130,18 @@
     ],
     [
       "Essentials",
+      "rest",
+      "essentials.rest",
+      "Allow access to the /rest command."
+    ],
+    [
+      "Essentials",
+      "rest",
+      "essentials.rest.others",
+      "Allow to specify other player in /rest."
+    ],
+    [
+      "Essentials",
       "rules",
       "essentials.rules",
       "Allow access to the /rules command."
