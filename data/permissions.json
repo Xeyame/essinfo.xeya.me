@@ -368,6 +368,12 @@
     ],
     [
       "Essentials",
+      "ext",
+      "essentials.ext.others",
+      "Allow to specify other player in /ext."
+    ],
+    [
+      "Essentials",
       "feed",
       "essentials.feed",
       "Allows access to the /feed command."
