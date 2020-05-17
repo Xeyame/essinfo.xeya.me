@@ -50,6 +50,12 @@
     ],
     [
       "Essentials",
+      "back",
+      "essentials.back.onteleport",
+      "Players with this permission will have back location stored during any teleportation"
+    ],
+    [
+      "Essentials",
       "backup",
       "essentials.backup",
       "Allow access to the /backup command."
