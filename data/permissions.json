@@ -1100,6 +1100,12 @@
     ],
     [
       "Essentials",
+      "rtoggle",
+      "essentials.rtoggle",
+      "Allows access to toggling replying to last message recipient"
+    ],
+    [
+      "Essentials",
       "realname",
       "essentials.realname",
       "Allow access to the /realname command."
