@@ -842,6 +842,13 @@
     ],
     [
       "Essentials",
+      "rtoggle",
+      "ertoggle, replytoggle, ereplytoggle",
+      "Change whether the recipient of the reply is last recipient or last sender.",
+      "/<command> [player] [on|off]"
+    ],
+    [
+      "Essentials",
       "sell",
       "esell",
       "Sells the item currently in your hand.",
