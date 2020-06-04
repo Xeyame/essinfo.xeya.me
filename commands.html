@@ -32,7 +32,11 @@
                         {
                             "targets": [3],
                             "title": "Description",
-                            "width": "30%"
+                            "width": "30%",
+                            "render": function (data) {
+                                data = data.replace(/\</g,"&lt;").replace(/\>/g,"&gt;");
+                                return data;
+                            }
                         },
                         {
                             "targets": [4],

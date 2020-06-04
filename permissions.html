@@ -43,7 +43,11 @@
                         },
                         {
                             "targets": [3],
-                            "title": "Description"
+                            "title": "Description",
+                            "render": function (data) {
+                                data = data.replace(/\</g,"&lt;").replace(/\>/g,"&gt;");
+                                return data;
+                            }
                         }
                     ]
                 } );
