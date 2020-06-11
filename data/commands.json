@@ -731,7 +731,7 @@
     [
       "Essentials",
       "itemname",
-      "eitemname, itemrename, eitemrename",
+      "iname, einame, eitemname, itemrename, irename, eitemrename, eirename",
       "Renames the item your currently holding. Leave name empty to reset. You can add in color codes when you have permission to.",
       "/<command> [name]"
     ],
