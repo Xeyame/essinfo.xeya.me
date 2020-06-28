@@ -981,6 +981,12 @@
     [
       "Essentials",
       "nick",
+      "essentials.nick.rgb",
+      "Gives permission to use hex colors in the /nick commend using the &#RRGGBB format."
+    ],
+    [
+      "Essentials",
+      "nick",
       "essentials.nick.others",
       "Gives you permission to give other players a nick name"
     ],
@@ -1917,6 +1923,12 @@
     [
       "Essentials",
       null,
+      "essentials.signs.rgb",
+      "This allows you to color your signs using hex color formatting, &#RRGGBB."
+    ],
+    [
+      "Essentials",
+      null,
       "essentials.signs.create.balance",
       "Controls who can create balance signs."
     ],
@@ -2657,6 +2669,12 @@
       null,
       "essentials.chat.magic",
       "This allows you to use the matrix/magic color in your chat messages."
+    ],
+    [
+      "EssentialsChat",
+      null,
+      "essentials.chat.rgb",
+      "This allows you to use hex color formatting in your chat messages. Format is &#RRGGBB."
     ],
     [
       "EssentialsChat",
