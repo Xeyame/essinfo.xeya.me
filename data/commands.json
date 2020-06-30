@@ -313,7 +313,7 @@
       "sethome",
       "esethome, createhome, ecreatehome",
       "Set your home to your current location.",
-      "/<command> [[player:]name]"
+      "/<command> [player:]<name>"
     ],
     [
       "Essentials",
@@ -600,7 +600,7 @@
       "home",
       "ehome, homes, ehomes",
       "Teleport to your home.",
-      "/<command> [player:][name]"
+      "/<command> [player:]<name>"
     ],
     [
       "Essentials",
