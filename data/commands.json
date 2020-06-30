@@ -459,7 +459,7 @@
       "Essentials",
       "invsee",
       "einvsee",
-      "See the inventory of other players.",
+      "See and/or edit the inventory of other players.",
       "/<command> <player>"
     ],
     [
