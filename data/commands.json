@@ -109,7 +109,7 @@
       "Essentials",
       "speed",
       "flyspeed, eflyspeed, fspeed, efspeed, espeed, walkspeed, ewalkspeed, wspeed, ewspeed",
-      "Change your speed limits.",
+      "Change your walk or fly speed.",
       "/<command> [type] <speed> [player]"
     ],
     [
