@@ -548,6 +548,24 @@
     ],
     [
       "Essentials",
+      "give",
+      "essentials.give.item-all",
+      "If permission-based-item-spawn: Spawn all items"
+    ],
+    [
+      "Essentials",
+      "give",
+      "essentials.give.item-[itemname]",
+      "If permission-based-item-spawn: Spawn [itemname]"
+    ],
+    [
+      "Essentials",
+      "give",
+      "essentials.give.item-[itemid]",
+      "If permission-based-item-spawn: Spawn [itemname]"
+    ],
+    [
+      "Essentials",
       "god",
       "essentials.god",
       "Allow access to the /god command."
@@ -683,12 +701,6 @@
       "more",
       "essentials.itemspawn.exempt",
       "Allows spawning of items on the spawn blacklist."
-    ],
-    [
-      "Essentials",
-      "give",
-      "essentials.itemspawn.item-all",
-      "If permission-based-item-spawn: Spawn all items."
     ],
     [
       "Essentials",
@@ -965,6 +977,12 @@
       "nick",
       "essentials.nick",
       "Allow access to the /nick command."
+    ],
+    [
+      "Essentials",
+      "nick",
+      "essentials.nick.blacklist.bypass",
+      "Allow access to bypass the /nick blacklist."
     ],
     [
       "Essentials",
