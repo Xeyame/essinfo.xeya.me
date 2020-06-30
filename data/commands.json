@@ -312,7 +312,7 @@
       "Essentials",
       "sethome",
       "esethome, createhome, ecreatehome",
-      "Set your home to your current location.",
+      "Set home to your current location.",
       "/<command> [player:]<name>"
     ],
     [
