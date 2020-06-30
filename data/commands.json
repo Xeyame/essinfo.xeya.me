@@ -466,7 +466,7 @@
       "Essentials",
       "balancetop",
       "ebalancetop, baltop, ebaltop",
-      "Gets the top balance values.",
+      "Lists players by wealth.",
       "/<command> <page>"
     ],
     [
