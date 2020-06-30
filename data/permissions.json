@@ -2650,7 +2650,7 @@
       "EssentialsChat",
       null,
       "essentials.chat.color",
-      "This allows you to color your chat messages in any color using color codes."
+      "This allows you to color your chat messages in any color using color codes, NOT including &#RRGGBB."
     ],
     [
       "EssentialsChat",
