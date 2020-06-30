@@ -109,7 +109,7 @@
       "Essentials",
       "speed",
       "flyspeed, eflyspeed, fspeed, efspeed, espeed, walkspeed, ewalkspeed, wspeed, ewspeed",
-      "Change your speed limits.",
+      "Change your walk or fly speed.",
       "/<command> [type] <speed> [player]"
     ],
     [
@@ -312,8 +312,8 @@
       "Essentials",
       "sethome",
       "esethome, createhome, ecreatehome",
-      "Set your home to your current location.",
-      "/<command> [[player:]name]"
+      "Set home to your current location.",
+      "/<command> [player:]<name>"
     ],
     [
       "Essentials",
@@ -424,7 +424,7 @@
       "Essentials",
       "lightning",
       "elightning, shock, eshock, smite, esmite, strike, estrike, thor, ethor",
-      "The power of Thor. Strike at cursor or player.",
+      "The power of Thor. Strikes at the cursor or a player.",
       "/<command> [player] [power]"
     ],
     [
@@ -459,14 +459,14 @@
       "Essentials",
       "invsee",
       "einvsee",
-      "See the inventory of other players.",
+      "See and/or edit the inventory of other players.",
       "/<command> <player>"
     ],
     [
       "Essentials",
       "balancetop",
       "ebalancetop, baltop, ebaltop",
-      "Gets the top balance values.",
+      "Lists players by top balances.",
       "/<command> <page>"
     ],
     [
@@ -600,7 +600,7 @@
       "home",
       "ehome, homes, ehomes",
       "Teleport to your home.",
-      "/<command> [player:][name]"
+      "/<command> [player:]<name>"
     ],
     [
       "Essentials",
