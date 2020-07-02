@@ -2174,6 +2174,36 @@
     ],
     [
       "Essentials",
+      "editsign",
+      "essentials.editsign",
+      "Allows access to the editsign command"
+    ],
+    [
+      "Essentials",
+      "editsign",
+      "essentials.editsign.unlimited",
+      "Allows access to exceed the 15-character-per-line limit"
+    ],
+    [
+      "Essentials",
+      "editsign",
+      "essentials.editsign.rgb",
+      "Allows access to hex colors in the /editsign command using the &#RRGGBB format"
+    ],
+    [
+      "Essentials",
+      "editsign",
+      "essentials.editsign.color",
+      "This allows you to use any color code within the /editsign command, NOT including hex colors (&#RRGGBB)."
+    ],
+    [
+      "Essentials",
+      "editsign",
+      "essentials.editsign.<color>",
+      "Allows you to /editsign in <color> using color codes."
+    ],
+    [
+      "Essentials",
       "give",
       "essentials.itemspawn.meta-chapter-[chapter]",
       "Allow access to the Allows spawning of specific books only, from book.txt./give command."
