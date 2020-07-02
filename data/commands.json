@@ -2,6 +2,13 @@
   "data": [
     [
       "Essentials",
+      "editsign",
+      "sign, esign, eeditsign",
+      "Edits a sign in the world.",
+      "/<command> <set/clear> <line number> [text]"
+    ],
+    [
+      "Essentials",
       "repair",
       "fix, efix, erepair",
       "Repairs the durability of one or all items.",
