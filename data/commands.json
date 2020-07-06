@@ -737,6 +737,13 @@
     ],
     [
       "Essentials",
+      "itemlore",
+      "lore, elore, ilore, eilore, eitemlore",
+      "Edit the lore of an item.",
+      "/<command> <add/set/clear> [text/line] [text]"
+    ],
+    [
+      "Essentials",
       "itemname",
       "iname, einame, eitemname, itemrename, irename, eitemrename, eirename",
       "Renames the item your currently holding. Leave name empty to reset. You can add in color codes when you have permission to.",
