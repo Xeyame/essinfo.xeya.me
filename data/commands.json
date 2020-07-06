@@ -30,6 +30,13 @@
     ],
     [
       "Essentials",
+      "settpr",
+      "[esettpr, settprandom, esettprandom]",
+      "Set the random teleport location and parameters.",
+      "/<command> [center|minrange|maxrange] [value]"
+    ],
+    [
+      "Essentials",
       "help",
       "ehelp",
       "Views a list of available commands.",
@@ -916,6 +923,13 @@
       "etppos",
       "Teleport to coordinates.",
       "/<command> <x> <y> <z> [yaw] [pitch] [world]"
+    ],
+    [
+      "Essentials",
+      "tpr",
+      "etpr, tprandom, etprandom",
+      "Teleport randomly.",
+      "/<command>"
     ],
     [
       "Essentials",
