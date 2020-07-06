@@ -1676,6 +1676,18 @@
     ],
     [
       "Essentials",
+      "tpr",
+      "essentials.tpr",
+      "Allow access to the /tpr command."
+    ],
+    [
+      "Essentials",
+      "settpr",
+      "essentials.settpr",
+      "Allow access to the /settpr command."
+    ],
+    [
+      "Essentials",
       "tree",
       "essentials.tree",
       "Allow access to the /tree command."
