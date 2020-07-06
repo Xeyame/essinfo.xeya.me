@@ -680,6 +680,12 @@
     ],
     [
       "Essentials",
+      "itemlore",
+      "essentials.itemlore",
+      "Allow access to the /itemlore command."
+    ],
+    [
+      "Essentials",
       "itemdb",
       "essentials.itemdb",
       "Allows access to the /itemdb command."
