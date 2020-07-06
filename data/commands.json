@@ -270,8 +270,8 @@
       "Essentials",
       "more",
       "emore",
-      "Fills the item stack in hand to maximum size.",
-      "/<command>"
+      "Fills the item stack in hand to specified amount, or to maximum size if none is specified",
+      "/<command> [amount]"
     ],
     [
       "Essentials",
