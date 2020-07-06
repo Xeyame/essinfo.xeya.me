@@ -680,6 +680,12 @@
     ],
     [
       "Essentials",
+      "itemlore",
+      "essentials.itemlore",
+      "Allow access to the /itemlore command."
+    ],
+    [
+      "Essentials",
       "itemdb",
       "essentials.itemdb",
       "Allows access to the /itemdb command."
@@ -1670,6 +1676,18 @@
     ],
     [
       "Essentials",
+      "tpr",
+      "essentials.tpr",
+      "Allow access to the /tpr command."
+    ],
+    [
+      "Essentials",
+      "settpr",
+      "essentials.settpr",
+      "Allow access to the /settpr command."
+    ],
+    [
+      "Essentials",
       "tree",
       "essentials.tree",
       "Allow access to the /tree command."
@@ -2171,6 +2189,36 @@
       null,
       "essentials.signs.use.weather",
       "Controls who can use weather signs."
+    ],
+    [
+      "Essentials",
+      "editsign",
+      "essentials.editsign",
+      "Allows access to the editsign command"
+    ],
+    [
+      "Essentials",
+      "editsign",
+      "essentials.editsign.unlimited",
+      "Allows access to exceed the 15-character-per-line limit"
+    ],
+    [
+      "Essentials",
+      "editsign",
+      "essentials.editsign.rgb",
+      "Allows access to hex colors in the /editsign command using the &#RRGGBB format"
+    ],
+    [
+      "Essentials",
+      "editsign",
+      "essentials.editsign.color",
+      "This allows you to use any color code within the /editsign command, NOT including hex colors (&#RRGGBB)."
+    ],
+    [
+      "Essentials",
+      "editsign",
+      "essentials.editsign.<color>",
+      "Allows you to /editsign in <color> using color codes."
     ],
     [
       "Essentials",

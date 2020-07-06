@@ -2,6 +2,13 @@
   "data": [
     [
       "Essentials",
+      "editsign",
+      "sign, esign, eeditsign",
+      "Edits a sign in the world.",
+      "/<command> <set/clear> <line number> [text]"
+    ],
+    [
+      "Essentials",
       "repair",
       "fix, efix, erepair",
       "Repairs the durability of one or all items.",
@@ -20,6 +27,13 @@
       "esetjail, createjail, ecreatejail",
       "Creates a jail where you specified named [jailname].",
       "/<command> <jailname>"
+    ],
+    [
+      "Essentials",
+      "settpr",
+      "[esettpr, settprandom, esettprandom]",
+      "Set the random teleport location and parameters.",
+      "/<command> [center|minrange|maxrange] [value]"
     ],
     [
       "Essentials",
@@ -256,8 +270,8 @@
       "Essentials",
       "more",
       "emore",
-      "Fills the item stack in hand to maximum size.",
-      "/<command>"
+      "Fills the item stack in hand to specified amount, or to maximum size if none is specified.",
+      "/<command> [amount]"
     ],
     [
       "Essentials",
@@ -730,6 +744,13 @@
     ],
     [
       "Essentials",
+      "itemlore",
+      "lore, elore, ilore, eilore, eitemlore",
+      "Edit the lore of an item.",
+      "/<command> <add/set/clear> [text/line] [text]"
+    ],
+    [
+      "Essentials",
       "itemname",
       "iname, einame, eitemname, itemrename, irename, eitemrename, eirename",
       "Renames the item your currently holding. Leave name empty to reset. You can add in color codes when you have permission to.",
@@ -902,6 +923,13 @@
       "etppos",
       "Teleport to coordinates.",
       "/<command> <x> <y> <z> [yaw] [pitch] [world]"
+    ],
+    [
+      "Essentials",
+      "tpr",
+      "etpr, tprandom, etprandom",
+      "Teleport randomly.",
+      "/<command>"
     ],
     [
       "Essentials",
