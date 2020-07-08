@@ -987,6 +987,12 @@
     [
       "Essentials",
       "nick",
+      "essentials.nick.<color>",
+      "Allows you to color your /nick in <color> using color codes."
+    ],
+    [
+      "Essentials",
+      "nick",
       "essentials.nick.blacklist.bypass",
       "Allow access to bypass the /nick blacklist."
     ],
