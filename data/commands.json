@@ -682,7 +682,7 @@
     [
       "Essentials",
       "clearinventory",
-      "eclean",
+      "ci, eci, clean, eclean, clear, eclear, clearinvent, eclearinvent, eclearinventory",
       "Clear all items in your inventory.",
       "/<command> [player|*] [item[:<data>]|*|**] [amount]"
     ],
