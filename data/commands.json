@@ -552,7 +552,14 @@
       "egrindstone",
       "Opens up a grindstone.",
       "/<command>"
-    ],    
+    ],
+    [
+      "Essentials",
+      "loom",
+      "eloom",
+      "Opens up a loom.",
+      "/<command>"
+    ],
     [
       "Essentials",
       "motd",
