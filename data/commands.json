@@ -1,12 +1,5 @@
 {
-  "data": [
-    [
-      "Essentials",
-      "anvil",
-      "eanvil",
-      "Opens up an Anvil.",
-      "/<command>"
-    ],    
+  "data": [ 
     [
       "Essentials",
       "editsign",
@@ -539,6 +532,20 @@
       "Opens up a workbench.",
       "/<command>"
     ],
+    [
+      "Essentials",
+      "anvil",
+      "eanvil",
+      "Opens up an Anvil.",
+      "/<command>"
+    ],
+    [
+      "Essentials",
+      "cartographytable",
+      "ecartographytable, carttable, ecarttable",
+      "Opens up a cartography table.",
+      "/<command>"
+    ],   
     [
       "Essentials",
       "motd",
