@@ -545,7 +545,14 @@
       "ecartographytable, carttable, ecarttable",
       "Opens up a cartography table.",
       "/<command>"
-    ],   
+    ],
+    [
+      "Essentials",
+      "grindstone",
+      "egrindstone",
+      "Opens up a grindstone.",
+      "/<command>"
+    ],    
     [
       "Essentials",
       "motd",
