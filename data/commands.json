@@ -2,6 +2,13 @@
   "data": [
     [
       "Essentials",
+      "anvil",
+      "eanvil",
+      "Opens up an Anvil.",
+      "/<command>"
+    ],    
+    [
+      "Essentials",
       "editsign",
       "sign, esign, eeditsign",
       "Edits a sign in the world.",
