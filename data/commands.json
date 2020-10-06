@@ -569,6 +569,13 @@
     ],
     [
       "Essentials",
+      "stonecutter",
+      "estonecutter",
+      "Opens up a stonecutter.",
+      "/<command>"
+    ],
+    [
+      "Essentials",
       "motd",
       "emotd",
       "Views the Message Of The Day.",
