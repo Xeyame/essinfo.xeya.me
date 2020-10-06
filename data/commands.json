@@ -562,6 +562,13 @@
     ],
     [
       "Essentials",
+      "smithingtable",
+      "esmithingtable, smithtable, esmithtable",
+      "Opens up a smithing table.",
+      "/<command>"
+    ],
+    [
+      "Essentials",
       "motd",
       "emotd",
       "Views the Message Of The Day.",
