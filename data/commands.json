@@ -534,6 +534,48 @@
     ],
     [
       "Essentials",
+      "anvil",
+      "eanvil",
+      "Opens up an Anvil.",
+      "/<command>"
+    ],
+    [
+      "Essentials",
+      "cartographytable",
+      "ecartographytable, carttable, ecarttable",
+      "Opens up a cartography table.",
+      "/<command>"
+    ],
+    [
+      "Essentials",
+      "grindstone",
+      "egrindstone",
+      "Opens up a grindstone.",
+      "/<command>"
+    ],
+    [
+      "Essentials",
+      "loom",
+      "eloom",
+      "Opens up a loom.",
+      "/<command>"
+    ],
+    [
+      "Essentials",
+      "smithingtable",
+      "esmithingtable, smithtable, esmithtable",
+      "Opens up a smithing table.",
+      "/<command>"
+    ],
+    [
+      "Essentials",
+      "stonecutter",
+      "estonecutter",
+      "Opens up a stonecutter.",
+      "/<command>"
+    ],
+    [
+      "Essentials",
       "motd",
       "emotd",
       "Views the Message Of The Day.",
