@@ -1790,6 +1790,42 @@
     ],
     [
       "Essentials",
+      "anvil",
+      "essentials.anvil",
+      "Allow access to the /anvil command."
+    ],
+    [
+      "Essentials",
+      "cartographytable",
+      "essentials.cartographytable",
+      "Allow access to the /cartographytable command."
+    ],
+    [
+      "Essentials",
+      "grindstone",
+      "essentials.grindstone",
+      "Allow access to the /grindstone command."
+    ],
+    [
+      "Essentials",
+      "loom",
+      "essentials.loom",
+      "Allow access to the /loom command."
+    ],
+    [
+      "Essentials",
+      "smithingtable",
+      "essentials.smithingtable",
+      "Allow access to the /smithingtable command."
+    ],
+    [
+      "Essentials",
+      "stonecutter",
+      "essentials.stonecutter",
+      "Allow access to the /stonecutter command."
+    ],
+    [
+      "Essentials",
       "world",
       "essentials.world",
       "Allow access to the /world command."
