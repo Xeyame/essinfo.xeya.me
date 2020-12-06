@@ -1592,6 +1592,12 @@
     ],
     [
       "Essentials",
+      "tpauto",
+      "essentials.tpauto",
+      "Allow access to the /tpauto command."
+    ],
+    [
+      "Essentials",
       "tpo",
       "essentials.tp.others",
       "Allow players to teleport another player."
