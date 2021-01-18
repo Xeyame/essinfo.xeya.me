@@ -1082,6 +1082,12 @@
     ],
     [
       "Essentials",
+      "pay",
+      "essentials.pay.offline",
+      "This allows you to pay offline players."
+    ],
+    [
+      "Essentials",
       "payconfirmtoggle",
       "essentials.payconfirmtoggle",
       "Allow access to the /payconfirmtoggle command."
@@ -1301,6 +1307,12 @@
       null,
       "essentials.sethome.multiple",
       "Allows player to have multiple homes, or create named homes.  Required for 2+ homes."
+    ],
+    [
+      "Essentials",
+      "sethome",
+      "essentials.sethome.multiple.[set name]",
+      "Raise the multiple home limit to a setting defined in the config file."
     ],
     [
       "Essentials",
@@ -2336,12 +2348,6 @@
     ],
     [
       "Essentials",
-      "sethome",
-      "essentials.sethome.multiple.[set name]",
-      "Raise the multiple home limit to a setting defined in the config file."
-    ],
-    [
-      "Essentials",
       "spawner",
       "essentials.spawner.*",
       "Allows setting a spawner to any mob type"
@@ -2789,6 +2795,12 @@
       "hat",
       "essentials.hat.prevent-type.<item-name>",
       "Give this permission to users to prevent them using this type of item in /hat"
+    ],
+    [
+      "Essentials",
+      "hat",
+      "essentials.hat.ignore-binding",
+      "Disable blocking the removing of hats with curse of binding"
     ],
     [
       "EssentialsChat",
