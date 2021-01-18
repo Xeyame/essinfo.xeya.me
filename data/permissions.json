@@ -921,6 +921,12 @@
     [
       "Essentials",
       "msg",
+      "essentials.msg.color",
+      "Allows using color codes in /msg command."
+    ],    
+    [
+      "Essentials",
+      "msg",
       "essentials.msg.multiple",
       "This allows you to message multiple users in a single command."
     ],
