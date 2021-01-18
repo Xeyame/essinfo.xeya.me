@@ -923,7 +923,31 @@
       "msg",
       "essentials.msg.color",
       "Allows using color codes in /msg command."
-    ],    
+    ],
+    [
+      "Essentials",
+      "msg",
+      "essentials.msg.rgb",
+      "Allows using rgb colors in /msg command."
+    ],
+    [
+      "Essentials",
+      "msg",
+      "essentials.msg.magic",
+      "Allows to use the matrix/magic color in the /msg command."
+    ],
+    [
+      "Essentials",
+      "msg",
+      "essentials.msg.url",
+      "Allows using urls in the /msg command."
+    ],
+    [
+      "Essentials",
+      "msg",
+      "essentials.msg.format",
+      "Allows to use formatting in the /msg command."
+    ],
     [
       "Essentials",
       "msg",
