@@ -1820,6 +1820,12 @@
     ],
     [
       "Essentials",
+      "warpinfo",
+      "essentials.warpinfo",
+      "Allow access to the /warpinfo command."
+    ],
+    [
+      "Essentials",
       "weather",
       "essentials.weather",
       "Allow access to the /weather command."
@@ -2416,7 +2422,7 @@
       "Essentials",
       "warp",
       "essentials.warps.[warpname]",
-      "If you have per-warp-permission set to true in the config.yml then you can limit what warps players can use. This also controls what players would see with /warp."
+      "If you have per-warp-permission set to true in the config.yml then you can limit what warps players can use. This also controls what players would see with /warp and /warpinfo."
     ],
     [
       "Essentials",

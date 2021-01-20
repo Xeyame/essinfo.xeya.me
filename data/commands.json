@@ -345,6 +345,20 @@
     ],
     [
       "Essentials",
+      "delwarp",
+      "edelwarp, remwarp, eremwarp, rmwarp, ermwarp",
+      "Deletes the specified warp.",
+      "/<command> <warp>"
+    ],
+    [
+      "Essentials",
+      "warpinfo",
+      "ewarpinfo",
+      "Finds location information for a specified warp.",
+      "/<command> <warp>"
+    ],
+    [
+      "Essentials",
       "warp",
       "ewarp, warps, ewarps",
       "List all warps or warp to the specified location.",
@@ -363,13 +377,6 @@
       "w, m, t, pm, emsg, epm, tell, etell, whisper, ewhisper",
       "Sends a private message to the specified player.",
       "/<command> <to> <message>"
-    ],
-    [
-      "Essentials",
-      "delwarp",
-      "edelwarp, remwarp, eremwarp, rmwarp, ermwarp",
-      "Deletes the specified warp.",
-      "/<command> <warp>"
     ],
     [
       "Essentials",
