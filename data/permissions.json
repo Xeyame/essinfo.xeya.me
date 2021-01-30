@@ -1268,6 +1268,12 @@
     ],
     [
       "Essentials",
+      "alts",
+      "essentials.alts",
+      "Allow access to the /alts command."
+    ],
+    [
+      "Essentials",
       "sell",
       "essentials.sell",
       "Allow access to the /sell command."
