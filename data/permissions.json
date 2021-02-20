@@ -1269,8 +1269,8 @@
     [
       "Essentials",
       "alts",
-      "essentials.alts",
-      "Allow access to the /alts command."
+      "essentials.seen.alts",
+      "Allows the user to see accounts with the same IP in /seen"
     ],
     [
       "Essentials",
