@@ -260,6 +260,18 @@
     ],
     [
       "Essentials",
+      "kitreset",
+      "essentials.kitreset",
+      "Allow access to the /kitreset command"
+    ],
+    [
+      "Essentials",
+      "kitreset",
+      "essentials.kitreset.others",
+      "Allow to reset other another player's kit cooldown using /kitreset."
+    ],
+    [
+      "Essentials",
       "customtext",
       "essentials.customtext",
       "Allow access to the /customtext command and all aliases."
@@ -329,6 +341,12 @@
       "essentials",
       "essentials.essentials",
       "Allow access to the /essentials command."
+    ],
+    [
+      "Essentials",
+      "essentials",
+      "essentials.updatecheck",
+      "Notify players with this permission on join when there is an update available."
     ],
     [
       "Essentials",
@@ -2369,6 +2387,12 @@
       "spawner",
       "essentials.spawner.[mob]",
       "Allows setting a spawner to a specific mob type"
+    ],
+    [
+      "Essentials",
+      "spawner",
+      "essentials.spawner.delay",
+      "Allows setting the delay of a spawner."
     ],
     [
       "Essentials",

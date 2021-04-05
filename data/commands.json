@@ -5,7 +5,7 @@
       "editsign",
       "sign, esign, eeditsign",
       "Edits a sign in the world.",
-      "/<command> <set/clear> <line number> [text]"
+      "/<command> <set/clear/copy/paste> [line number] [text]"
     ],
     [
       "Essentials",
@@ -769,6 +769,13 @@
       "ck",
       "Create a kit in game!",
       "/<command> <kitname> <delay>"
+    ],
+    [
+      "Essentials",
+      "kitreset",
+      "ekitreset, kitr, ekitr, resetkit, eresetkit",
+      "Resets the cooldown on the specified kit.",
+      "/<command> <kit> [player]"
     ],
     [
       "Essentials",
