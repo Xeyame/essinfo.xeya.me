@@ -429,6 +429,13 @@
     ],
     [
       "Essentials",
+      "jails",
+      "ejails",
+      "List all jails.",
+      "/<command>"
+    ],
+    [
+      "Essentials",
       "list",
       "elist, online, eonline, playerlist, eplayerlist, plist, eplist, who, ewho",
       "List all online players.",
