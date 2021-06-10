@@ -1496,6 +1496,12 @@
     ],
     [
       "Essentials",
+      "spawner",
+      "essentials.spawner.delay",
+      "Allow access to adjust delay in /spawner command."
+    ],
+    [
+      "Essentials",
       "spawnmob",
       "essentials.spawnmob",
       "Allow access to the /spawnmob command."
