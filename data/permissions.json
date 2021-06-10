@@ -2883,6 +2883,18 @@
     [
       "EssentialsChat",
       null,
+      "essentials.toggleshout",
+      "Toggles whether you are talking in shout mode."
+    ],
+    [
+      "EssentialsChat",
+      null,
+      "essentials.toggleshout.others",
+      "Toggles shout mode for other players."
+    ],
+    [
+      "EssentialsChat",
+      null,
       "essentials.chat.spy",
       "A permission designed for admins, to intercept all local messages (ignoring the chat-radius)."
     ],
