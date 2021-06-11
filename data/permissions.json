@@ -724,7 +724,7 @@
       "Essentials",
       "itemname",
       "essentials.itemname.prevent-type.<material_name>,
-      "Prevent <material_name> from beinged used with the /itemname command"
+      "Prevents the material from being used with the /itemname command"
     ],
     [
       "Essentials",
