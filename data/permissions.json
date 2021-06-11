@@ -722,6 +722,12 @@
     ],
     [
       "Essentials",
+      "itemname",
+      "essentials.itemname.prevent-type.<material_name>,
+      "Prevent <material_name> from beinged used with the /itemname command"
+    ],
+    [
+      "Essentials",
       "more",
       "essentials.itemspawn.exempt",
       "Allows spawning of items on the spawn blacklist."
