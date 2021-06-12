@@ -422,6 +422,13 @@
     ],
     [
       "Essentials",
+      "toggleshout",
+      "etoggleshout",
+      "Toggles whether you are talking in shout mode",
+      "/<command> [player] [on|off]"
+    ],
+    [
+      "Essentials",
       "togglejail",
       "jail, ejail, tjail, etjail, etogglejail, unjail, eunjail",
       "Jails\/Unjails a player, TPs them to the jail specified.",

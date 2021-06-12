@@ -722,6 +722,12 @@
     ],
     [
       "Essentials",
+      "itemname",
+      "essentials.itemname.prevent-type.<material_name>",
+      "Prevents the material from being used with the /itemname command"
+    ],
+    [
+      "Essentials",
       "more",
       "essentials.itemspawn.exempt",
       "Allows spawning of items on the spawn blacklist."
@@ -1493,6 +1499,12 @@
       "spawner",
       "essentials.spawner",
       "Allow access to the /spawner command."
+    ],
+    [
+      "Essentials",
+      "spawner",
+      "essentials.spawner.delay",
+      "Allow access to adjust delay in /spawner command."
     ],
     [
       "Essentials",
@@ -2879,6 +2891,18 @@
       null,
       "essentials.chat.shout",
       "This allows you to send global messages, used if a chat-raidus is configured."
+    ],
+    [
+      "EssentialsChat",
+      null,
+      "essentials.toggleshout",
+      "Toggles whether you are talking in shout mode."
+    ],
+    [
+      "EssentialsChat",
+      null,
+      "essentials.toggleshout.others",
+      "Toggles shout mode for other players."
     ],
     [
       "EssentialsChat",
