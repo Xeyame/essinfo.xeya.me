@@ -89,7 +89,7 @@
       "gc",
       "lag, elag, egc, mem, emem, memory, ememory, uptime, euptime, tps, etps, entities, eentities",
       "Reports memory, uptime and tick info.",
-      "/<command> [all]"
+      "/<command>"
     ],
     [
       "Essentials",
@@ -131,7 +131,7 @@
       "tpall",
       "etpall",
       "Teleport all online players to another player.",
-      "/<command> <player>"
+      "/<command> [player]"
     ],
     [
       "Essentials",
@@ -187,7 +187,7 @@
       "condense",
       "econdense, compact, ecompact, blocks, eblocks, toblocks, etoblocks",
       "Condenses items into a more compact blocks.",
-      "/<command> [<itemname>|<id>|hand|inventory]"
+      " /<command> [itemname]"
     ],
     [
       "Essentials",
@@ -509,7 +509,7 @@
       "balancetop",
       "ebalancetop, baltop, ebaltop",
       "Lists players by top balances.",
-      "/<command> <page>"
+      "/<command> [page]"
     ],
     [
       "Essentials",
@@ -544,7 +544,7 @@
       "banip",
       "ebanip",
       "Bans an IP address.",
-      "/<command> <address>"
+      "/<command> <address> [reason]"
     ],
     [
       "Essentials",
@@ -810,7 +810,7 @@
       "paytoggle",
       "payon",
       "Toggles whether you are accepting payments.",
-      "/<command>"
+      "/<command> [player]"
     ],
     [
       "Essentials",
@@ -950,7 +950,7 @@
       "sell",
       "esell",
       "Sells the item currently in your hand.",
-      "/<command> <<itemname>|<id>|hand|inventory|blocks> [-][amount]"
+      "/<command> <<itemname>|<id>|hand|inventory|blocks> [amount]"
     ],
     [
       "Essentials",
@@ -964,7 +964,7 @@
       "tempban",
       "etempban",
       "Temporary ban a user.",
-      "/<command> <playername> <datediff> <reason>"
+      "/<command> <playername> <datediff> [reason]"
     ],
     [
       "Essentials",
@@ -1062,7 +1062,7 @@
       "tpauto",
       "etpauto",
       "Automatically accept teleportation requests.",
-      "/<command> <player>"
+      "/<command> [player]"
     ],
     [
       "Essentials",
