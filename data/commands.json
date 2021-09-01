@@ -968,6 +968,13 @@
     ],
     [
       "Essentials",
+      "tempbanip",
+      "etempbanip",
+      "Temporarily ban an IP Address.",
+      "/<command> <playername> <datediff> [reason]"
+    ],
+    [
+      "Essentials",
       "thunder",
       "ethunder",
       "Enable\/disable thunder.",

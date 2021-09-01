@@ -1640,6 +1640,12 @@
     ],
     [
       "Essentials",
+      "tempbanip",
+      "essentials.tempbanip",
+      "Allow access to the /tempbanip command."
+    ],
+    [
+      "Essentials",
       "thunder",
       "essentials.thunder",
       "Allow access to the /thunder command."
