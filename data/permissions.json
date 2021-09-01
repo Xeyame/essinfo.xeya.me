@@ -3095,6 +3095,24 @@
       "whois",
       "essentials.geoip.show",
       "Shows the GeoIP location of a player, if the GeoIP module is installed."
+    ],
+    [
+      "EssentialsDiscord",
+      null,
+      "essentials.discord.receive.<group>",
+      "Allows user to receive chat messages from the specified discord channel"
+    ],
+    [
+      "EssentialsDiscord",
+      null,
+      "essentials.discord.markdown",
+      "Allows user to bypass the discord markdown filter"
+    ],
+    [
+      "EssentialsDiscord",
+      null,
+      "essentials.discord.ping",
+      "Allows user to ping everyone/role/here from mc in discord (bypass ping filters)"
     ]
   ]
 }
