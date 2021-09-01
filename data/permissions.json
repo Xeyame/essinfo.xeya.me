@@ -656,6 +656,18 @@
     ],
     [
       "Essentials",
+      "ice",
+      "essentials.ice",
+      "Allow access to the /ice command."
+    ],
+    [
+      "Essentials",
+      "ice",
+      "essentials.ice.others",
+      "Allow to use the /ice command on other players."
+    ],
+    [
+      "Essentials",
       "ignore",
       "essentials.ignore",
       "Allow access to the /ignore command."

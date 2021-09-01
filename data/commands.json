@@ -464,6 +464,13 @@
     ],
     [
       "Essentials",
+      "ice",
+      "eice, efreeze",
+      "Cools a player off.",
+      "/<command> [player]"
+    ],
+    [
+      "Essentials",
       "ignore",
       "eignore, unignore, eunignore, delignore, edelignore, remignore, eremignore, rmignore, ermignore",
       "Ignore or unignore other players.",
