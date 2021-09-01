@@ -932,6 +932,12 @@
     ],
     [
       "Essentials",
+      "mail",
+      "essentials.mail.sendtemp",
+      "Allows to send self-destructing mail."
+    ],
+    [
+      "Essentials",
       "me",
       "essentials.me",
       "Allow access to the /me command."
