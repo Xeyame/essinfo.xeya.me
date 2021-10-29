@@ -1077,6 +1077,13 @@
       "",
       "Delete a given kit",
       "/<command> <kitname>"
+    ],
+    [
+      "Essentials",
+      "playtime",
+      "",
+      "Shows a player's time played in game",
+      "/<command> [player]"
     ]
   ]
 }
