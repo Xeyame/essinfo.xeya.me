@@ -2875,6 +2875,18 @@
       "Disable blocking the removing of hats with curse of binding"
     ],
     [
+      "Essentials",
+      "playtime",
+      "essentials.playtime"
+      "Shows a player's time played in game"
+    ],
+    [
+      "Essentials",
+      "playtime",
+      "essentials.playtime.others"
+      "Shows a player's time played in game"
+    ],
+    [
       "EssentialsChat",
       null,
       "essentials.chat.color",
