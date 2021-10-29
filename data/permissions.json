@@ -2877,13 +2877,13 @@
     [
       "Essentials",
       "playtime",
-      "essentials.playtime"
+      "essentials.playtime",
       "Shows a player's time played in game"
     ],
     [
       "Essentials",
       "playtime",
-      "essentials.playtime.others"
+      "essentials.playtime.others",
       "Shows a player's time played in game"
     ],
     [
