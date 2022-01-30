@@ -1299,6 +1299,12 @@
     [
       "Essentials",
       "seen",
+      "essentials.seen.uuid",
+      "Allow to see someone's uuid in /seen"
+    ],
+    [
+      "Essentials",
+      "seen",
       "essentials.seen.ipsearch",
       "Allows the user to search IPs for username matches."
     ],
