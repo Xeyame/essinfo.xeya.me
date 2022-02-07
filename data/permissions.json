@@ -1399,6 +1399,12 @@
       "Allow access to the /setjail command."
     ],
     [
+      "Essentials",
+      "jail",
+      "essentials.jail.notify",
+      "Players with this permission will be notified when someone is jailed."
+    ],
+    [
       "EssentialsSpawn",
       "setspawn",
       "essentials.setspawn",
