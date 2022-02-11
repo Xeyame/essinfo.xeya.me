@@ -1091,6 +1091,13 @@
       "dbroadcast, dbc, dbcast, ediscordbroadcast, edbroadcast, edbc, edbcast",
       "Broadcasts a message to the specified Discord channel.",
       "/<command> <channel> <msg>"
+    ],
+    [
+      "EssentialsDiscord",
+      "discord",
+      "ediscord",
+      "Sends the discord invite link to the player.",
+      "/<command>"
     ]
   ]
 }

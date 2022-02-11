@@ -3122,6 +3122,12 @@
     ],
     [
       "EssentialsDiscord",
+      "discord",
+      "essentials.discord",
+      "Allow access to the /discord command."
+    ],
+    [
+      "EssentialsDiscord",
       null,
       "essentials.discord.receive.<group>",
       "Allows user to receive chat messages from the specified discord channel"
