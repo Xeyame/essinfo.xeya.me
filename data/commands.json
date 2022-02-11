@@ -697,8 +697,8 @@
       "Essentials",
       "tpdeny",
       "etpdeny, tpno, etpno",
-      "Reject a teleport request.",
-      "/<command>"
+      "Rejects teleport requests.",
+      "/<command> [player|*]"
     ],
     [
       "Essentials",
@@ -984,8 +984,8 @@
       "Essentials",
       "tpaccept",
       "etpaccept,tpyes,etpyes",
-      "Accepts a teleport request.",
-      "/<command> [otherplayer]"
+      "Accepts teleport requests.",
+      "/<command> [player|*]"
     ],
     [
       "Essentials",
