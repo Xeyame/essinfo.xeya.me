@@ -3137,6 +3137,30 @@
       null,
       "essentials.discord.ping",
       "Allows user to ping everyone/role/here from mc in discord (bypass ping filters)"
+    ],
+    [
+      "EssentialsDiscord",
+      "discordbroadcast",
+      "essentials.discordbroadcast",
+      "Allow access to the /discordbroadcast command."
+    ],
+    [
+      "EssentialsDiscord",
+      "discordbroadcast",
+      "essentials.discordbroadcast.markdown",
+      "Allow to use markdown in the /discordbroadcast command."
+    ],
+    [
+      "EssentialsDiscord",
+      "discordbroadcast",
+      "essentials.discordbroadcast.ping",
+      "Allow to ping discord roles, @here or @everyone in the /discordbroadcast command."
+    ],
+    [
+      "EssentialsDiscord",
+      "discordbroadcast",
+      "essentials.discordbroadcast.<channel_name>",
+      "Allow to send broadcasts in the specific discord channel."
     ]
   ]
 }

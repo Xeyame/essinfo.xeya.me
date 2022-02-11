@@ -1084,6 +1084,13 @@
       "",
       "Shows a player's time played in game",
       "/<command> [player]"
+    ],
+    [
+      "EssentialsDiscord",
+      "discordbroadcast",
+      "dbroadcast, dbc, dbcast, ediscordbroadcast, edbroadcast, edbc, edbcast",
+      "Broadcasts a message to the specified Discord channel.",
+      "/<command> <channel> <msg>"
     ]
   ]
 }
