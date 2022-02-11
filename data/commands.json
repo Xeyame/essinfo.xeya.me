@@ -857,7 +857,7 @@
     [
       "Essentials",
       "customtext",
-      "",
+      null,
       "Allows you to create custom text commands.",
       "/<alias> - Define in bukkit.yml"
     ],
@@ -1046,7 +1046,7 @@
     [
       "EssentialsXMPP",
       "setxmpp",
-      "",
+      null,
       "Set your xmpp address.",
       "/<command> <address>"
     ],
@@ -1074,14 +1074,14 @@
     [
       "Essentials",
       "delkit",
-      "",
+      null,
       "Delete a given kit",
       "/<command> <kitname>"
     ],
     [
       "Essentials",
       "playtime",
-      "",
+      null,
       "Shows a player's time played in game",
       "/<command> [player]"
     ],
