@@ -738,8 +738,8 @@
     [
       "Essentials",
       "skull",
-      "head",
-      "Set the owner of a player skull",
+      "head, playerskull, eskull, ehead, eplayerskull",
+      "Get the player head item with your skin or a skin of a specified player, or change skin of the head you're holding.",
       "/<command> [owner]"
     ],
     [

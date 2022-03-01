@@ -1084,7 +1084,7 @@
       "Essentials",
       "nick",
       "essentials.nick.rgb",
-      "Gives permission to use hex colors in the /nick commend using the &#RRGGBB format."
+      "Gives permission to use hex colors in the /nick command using the &#RRGGBB format."
     ],
     [
       "Essentials",
