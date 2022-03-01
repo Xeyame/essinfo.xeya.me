@@ -2965,6 +2965,30 @@
       "This allows you to use urls in your chat messages."
     ],
     [
+      "EssentialsChat",
+      null,
+      "essentials.chat.local",
+      "Allow to send messages to local chat. Given to all players by default."
+    ],  
+    [
+      "EssentialsChat",
+      null,
+      "essentials.chat.receive.local",
+      "Permission allowing to recieve local chat. Given to all players by default."
+    ],
+    [
+      "EssentialsChat",
+      null,
+      "essentials.chat.receive.shout",
+      "Permission allowing to recieve shouts. Given to all players by default."
+    ],
+    [
+      "EssentialsChat",
+      null,
+      "essentials.chat.receive.question",
+      "Permission allowing to recieve questions. Given to all players by default."
+    ],
+    [
       "EssentialsAntiBuild",
       null,
       "essentials.build",
