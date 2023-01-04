@@ -520,7 +520,7 @@
       "Essentials",
       null,
       "essentials.fly.safelogin",
-      "Players with this command will automatically switch to fly mode if they login whilst floating in the air."
+      "Players with this permission will automatically switch to fly mode if they login whilst floating in the air."
     ],
     [
       "Essentials",
