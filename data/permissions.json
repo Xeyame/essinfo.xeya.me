@@ -231,8 +231,8 @@
     [
       "Essentials",
       null,
-      "essentials.commandcooldowns.bypass",
-      "Allow to bypass command cooldowns"
+      "essentials.commandcooldowns.bypass.<command name>",
+      "Allow to bypass specific command cooldowns. Bypasses all, if no command is specified."
     ],
     [
       "Essentials",
@@ -401,12 +401,6 @@
       "feed",
       "essentials.feed",
       "Allows access to the /feed command."
-    ],
-    [
-      "Essentials",
-      "feed",
-      "essentials.feed.cooldown.bypass",
-      "Bypass the feed cooldown"
     ],
     [
       "Essentials",
@@ -605,12 +599,6 @@
       "heal",
       "essentials.heal",
       "Allow access to the /heal command."
-    ],
-    [
-      "Essentials",
-      "heal",
-      "essentials.heal.cooldown.bypass",
-      "Bypass the heal cooldown"
     ],
     [
       "Essentials",
@@ -1601,18 +1589,6 @@
       "suicide",
       "essentials.suicide",
       "Allow access to the /suicide command."
-    ],
-    [
-      "Essentials",
-      null,
-      "essentials.teleport.cooldown.bypass.back",
-      "Allow to bypass the /back command cooldown"
-    ],
-    [
-      "Essentials",
-      null,
-      "essentials.teleport.cooldown.bypass.tpa",
-      "Allow to bypass the /tpa command cooldown"
     ],
     [
       "Essentials",
