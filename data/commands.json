@@ -1098,6 +1098,20 @@
       "ediscord",
       "Sends the discord invite link to the player.",
       "/<command>"
+    ],
+    [
+      "EssentialsDiscordLink",
+      "link",
+      "elink, discordlink, ediscordlink",
+      "Generates a code to link your Minecraft account to Discord.",
+      "/<command>"
+    ],
+    [
+      "EssentialsDiscordLink",
+      "unlink",
+      "eunlink, discordunlink, ediscordunlink",
+      "Unlinks your Minecraft account from any associated Discord account.",
+      "/<command>"
     ]
   ]
 }
