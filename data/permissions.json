@@ -3197,6 +3197,18 @@
       "discordbroadcast",
       "essentials.discordbroadcast.<channel_name>",
       "Allow to send broadcasts in the specific discord channel."
+    ],
+    [
+      "EssentialsDiscordLink",
+      "link",
+      "essentials.link",
+      "Allow access to the /link command."
+    ],
+    [
+      "EssentialsDiscordLink",
+      "unlink",
+      "essentials.unlink",
+      "Allow access to the /unlink command."
     ]
   ]
 }
