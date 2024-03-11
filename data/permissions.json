@@ -1155,7 +1155,7 @@
     [
       "Essentials",
       "potion",
-      "essentials.potion.[potionName]",
+      "essentials.potions.[potionName]",
       "Allow access to the \"/potion [potionName]\" command "
     ],
     [
