@@ -152,6 +152,12 @@
     ],
     [
       "Essentials",
+      "bottom",
+      "essentials.bottom",
+      "Allows access to the /bottom command."
+    ],
+    [
+      "Essentials",
       "break",
       "essentials.break",
       "Allows access to the /break command."

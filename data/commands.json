@@ -373,6 +373,13 @@
     ],
     [
       "Essentials",
+      "bottom",
+      "ebottom",
+      "Teleport to the lowest block at your current position.",
+      "/<command>"
+    ],
+    [
+      "Essentials",
       "break",
       "ebreak",
       "Breaks the block you are looking at.",
