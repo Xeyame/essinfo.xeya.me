@@ -950,6 +950,18 @@
     ],
     [
       "Essentials",
+      "mail",
+      "essentials.mail.clear.others",
+      "Allow to clear mail of another player."
+    ],
+    [
+      "Essentials",
+      "mail",
+      "essentials.mail.clearall",
+      "Allow to clear all mail for all players."
+    ],
+    [
+      "Essentials",
       "me",
       "essentials.me",
       "Allow access to the /me command."
