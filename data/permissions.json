@@ -2840,6 +2840,12 @@
     ],
     [
       "Essentials",
+      "nick",
+      "essentials.nick.hideprefix",
+      "Players with this permission will not have the nickname prefix applied to them"
+    ],
+    [
+      "Essentials",
       "msg",
       "essentials.msgtoggle.bypass",
       "This permission allows you to send private messages to users that have disabled them with /msgtoggle."
