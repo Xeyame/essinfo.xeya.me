@@ -2432,6 +2432,12 @@
     ],
     [
       "Essentials",
+      "editsign",
+      "essentials.editsign.waxed.exempt",
+      "Allows you to use /editsign on waxed signs."
+    ],
+    [
+      "Essentials",
       "give",
       "essentials.itemspawn.meta-chapter-[chapter]",
       "Allow access to the Allows spawning of specific books only, from book.txt./give command."
