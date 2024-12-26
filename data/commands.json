@@ -54,7 +54,7 @@
       "mute",
       "emute, silence, esilence",
       "Mutes or unmutes a player.",
-      "/<command> <player> [datediff]"
+      "/<command> <player> [datediff] [reason]"
     ],
     [
       "Essentials",
@@ -780,7 +780,7 @@
     [
       "Essentials",
       "antioch",
-      "tnt",
+      "eantioch,grenade,egrenade,tnt,etnt",
       "A little surprise for operators.",
       "/<command> [message]"
     ],
@@ -794,7 +794,7 @@
     [
       "Essentials",
       "tpa",
-      "tpask",
+      "call,ecall,etpa,tpask,etpask",
       "Request to teleport to the specified player.",
       "/<command> <player>"
     ],
