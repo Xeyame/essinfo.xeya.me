@@ -1358,6 +1358,18 @@
     ],
     [
       "Essentials",
+      "renamehome",
+      "essentials.renamehome",
+      "Allow access to the /renamehome command."
+    ],
+    [
+      "Essentials",
+      "renamehome",
+      "essentials.renamehome.others",
+      "Allow to rename the home of another player."
+    ],
+    [
+      "Essentials",
       null,
       "essentials.sethome.bed",
       "Allows the player to right click a bed during daytime to update their 'bed' home."

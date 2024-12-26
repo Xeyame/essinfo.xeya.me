@@ -331,6 +331,13 @@
     ],
     [
       "Essentials",
+      "renamehome",
+      "erenamehome",
+      "Renames a home.",
+      "/<command> <[player:]name> <new name>"
+    ],
+    [
+      "Essentials",
       "pweather",
       "playerweather, eplayerweather, epweather",
       "Adjust a player's weather",
