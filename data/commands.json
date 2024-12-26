@@ -53,7 +53,7 @@
       "Essentials",
       "mute",
       "emute, silence, esilence",
-      "Mutes or unmutes a player.",
+      "Mute, unmute, or temporarily mute a player.",
       "/<command> <player> [datediff] [reason]"
     ],
     [
