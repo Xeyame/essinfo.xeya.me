@@ -1346,6 +1346,12 @@
     ],
     [
       "Essentials",
+      "whitelist",
+      "essentials.seen.whitelist",
+      "Allows the user to see if the player is currently whitelisted in /seen and /whois"
+    ],
+    [
+      "Essentials",
       "sell",
       "essentials.sell",
       "Allow access to the /sell command."
