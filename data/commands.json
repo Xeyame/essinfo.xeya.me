@@ -31,7 +31,7 @@
     [
       "Essentials",
       "settpr",
-      "[esettpr, settprandom, esettprandom]",
+      "esettpr, settprandom, esettprandom",
       "Set the random teleport location and parameters.",
       "/<command> [center|minrange|maxrange] [value]"
     ],
